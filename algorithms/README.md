@@ -8,7 +8,7 @@ are used as specifications for performing calculations, data processing, automat
 
 As a start point, let's address to [Big-O Notation](doc/big-o-notation.md "Big-O Notation").
 
-In the tutorial the following algorithms will be described:
+In this module the following algorithms will be described:
 
 * Sort Algorithms: 
 [Bubble Sort](./doc/bubble-sort.md "The bubble sort chapter"),

@@ -1,9 +1,6 @@
-# Algorithms Structures Patterns
+# JAcademy: base
 
-This tutorial is not a tutorial that intents teach you the language itself, it's a collection of code samples which 
-can be used for better understanding ideas behind the concepts of design patterns, data structures and algorithms. 
-
-It assumes that you are familiar with the language. 
+JAcademy is the project that teaches to program in the java language and to think and an engineer.
 
 Each topic has small explanation of a problem or an idea and the solution, you can use it as you wish and as you want.
 
@@ -11,7 +8,7 @@ As a start point, let's address to [Programming Principles](doc/programming-prin
 
 ## [Design Patterns](design-patterns/README.md "The design patterns chapter")
 
-In the tutorial the following design patterns will be described:
+In this module the following design patterns will be described:
 
 * Creational Patterns: 
 [Abstract Factory](design-patterns/doc/abstract-factory.md "The abstract factory chapter"), 
@@ -42,7 +39,7 @@ In the tutorial the following design patterns will be described:
 
 ## [Data Structures](data-structures/README.md "The data structures chapter")
 
-In the tutorial the following data structures will be described:
+In this module the following data structures will be described:
 
 * [Array](data-structures/doc/array.md "The array chapter")
 * [List, Array List, Vector](data-structures/doc/list-array-list-vector.md "The list, array list, vector chapter")
@@ -60,7 +57,7 @@ In the tutorial the following data structures will be described:
 
 As a start point, let's address to [Big-O Notation](algorithms/doc/big-o-notation.md "Big-O Notation").
 
-In the tutorial the following algorithms will be described:
+In this module the following algorithms will be described:
 
 * Sort Algorithms: 
 [Bubble Sort](algorithms/doc/bubble-sort.md "The bubble sort chapter"),
@@ -77,6 +74,10 @@ In the tutorial the following algorithms will be described:
 [Binary Search](algorithms/doc/binary-search.md "The binary search chapter");
 * Other Algorithms:
 [Factorial](algorithms/doc/factorial.md "The factorial chapter").
+
+## [Practice](practice/README.md "The practice chapter")
+
+This is the practice module where the solution must be written. Every solution must be accompanied by unit tests and documentation.
 
 ## Build Requirements
 

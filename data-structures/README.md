@@ -13,7 +13,7 @@ and the functions or operations that can be applied to the data.
 
 ## Content
 
-In the tutorial the following data structures will be described:
+In this module the following data structures will be described:
 
 * [Array](./doc/array.md "The array chapter")
 * [List, Array List, Vector](./doc/list-array-list-vector.md "The list, array list, vector chapter")

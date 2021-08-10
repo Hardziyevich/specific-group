@@ -14,7 +14,7 @@ practical extensibility.
 
 ## Content
 
-In the tutorial the following design patterns will be described:
+In this module the following design patterns will be described:
 
 * Creational Patterns: 
 [Abstract Factory](./doc/abstract-factory.md "The abstract factory chapter"), 
