@@ -1,4 +1,4 @@
-open module com.github.akarazhev.tutorial.designpatterns {
+open module com.github.akarazhev.jacademy.designpatterns {
     requires jdk.httpserver;
     requires java.sql;
     requires com.h2database;
