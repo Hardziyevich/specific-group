@@ -1,0 +1,73 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.github.akarazhev</groupId>
+    <artifactId>jacademy-base</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0</version>
+
+    <name>jacademy-base</name>
+    <description>Java Academy: Base</description>
+    <url>http://akarazhev.github.io/jacademy-base</url>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.release>11</maven.compiler.release>
+        <maven.compiler.plugin>3.8.1</maven.compiler.plugin>
+        <maven.surefire.plugin>2.22.2</maven.surefire.plugin>
+        <junit.version>5.6.2</junit.version>
+        <h2db.version>1.4.200</h2db.version>
+    </properties>
+
+    <modules>
+        <module>algorithms</module>
+        <module>data-structures</module>
+        <module>design-patterns</module>
+    </modules>
+
+    <developers>
+        <developer>
+            <name>Andrey Karazhev</name>
+            <email>karazhev@gmail.com</email>
+        </developer>
+    </developers>
+
+    <scm>
+        <url>https://github.com/akarazhev/jacademy-base</url>
+        <connection>scm:git:git://github.com/akarazhev/jacademy-base.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:akarazhev/jacademy-base.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
+
+    <dependencies>
+        <!-- Test dependencies -->
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
+            <version>${junit.version}</version>
+            <scope>test</scope>
+        </dependency>
+        <!-- Database dependency -->
+        <dependency>
+            <groupId>com.h2database</groupId>
+            <artifactId>h2</artifactId>
+            <version>${h2db.version}</version>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <pluginManagement>
+            <plugins>
+                <plugin>
+                    <artifactId>maven-compiler-plugin</artifactId>
+                    <version>${maven.compiler.plugin}</version>
+                </plugin>
+                <plugin>
+                    <artifactId>maven-surefire-plugin</artifactId>
+                    <version>${maven.surefire.plugin}</version>
+                </plugin>
+            </plugins>
+        </pluginManagement>
+    </build>
+</project>
