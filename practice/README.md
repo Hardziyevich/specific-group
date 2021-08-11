@@ -1,6 +1,6 @@
 # Practice
 
-This is the practice module where the solution must be written. Every solution must be accompanied by unit tests and documentation. 
+This is the practice module where the solution should be written. Every solution must be accompanied by unit tests and documentation. 
 
 ## Tasks
 

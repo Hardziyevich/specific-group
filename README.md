@@ -1,4 +1,4 @@
-# JAcademy: base
+# JAcademy: Base
 
 <i>JAcademy</i> is the project that teaches to program in the java language and to think and an engineer.
 Each topic has small explanation of a problem or an idea and the solution, you can use it as you wish and as you want.
@@ -7,6 +7,10 @@ As a start point, let's address to:
 
 [Programming Principles](doc/principles.md "Programming Principles"),
 [Software Architecture Cheat Sheet](doc/sa-cheat-sheet.md "Software Architecture Cheat Sheet");
+
+## [Java Programming](java-programming/README.md "The java programming chapter")
+
+TODO:
 
 ## [Design Patterns](design-patterns/README.md "The design patterns chapter")
 
@@ -81,7 +85,7 @@ In this module the following algorithms will be described:
 
 ## [Practice](practice/README.md "The practice chapter")
 
-This is the practice module where the solution must be written. Every solution must be accompanied by unit tests and documentation.
+This is the practice module where the solution should be written. Every solution must be accompanied by unit tests and documentation.
 
 ## Build Requirements
 

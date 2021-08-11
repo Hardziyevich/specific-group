@@ -24,6 +24,7 @@
         <module>algorithms</module>
         <module>data-structures</module>
         <module>design-patterns</module>
+        <module>java-programming</module>
         <module>practice</module>
     </modules>
 
