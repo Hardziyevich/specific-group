@@ -4,17 +4,19 @@ This is the practice module where the solution must be written. Every solution m
 
 ## Tasks
 
-The task list:
+Each task must be done within its own package. The whole task list is:
 
-* Programming Principles:
+Programming Principles:
 - [Task 1](doc/principles/task1.md "Task 1") - Programming Principles Task;
-* Creational Patterns:
+
+Creational Patterns:
 - [Task 1](doc/design-patterns/task1.md "Task 1") - Abstract Factory Task;
 - [Task 2](doc/design-patterns/task2.md "Task 2") - Builder Task;
 - [Task 3](doc/design-patterns/task3.md "Task 3") - Factory Method Task;
 - [Task 4](doc/design-patterns/task4.md "Task 4") - Prototype Task;
 - [Task 5](doc/design-patterns/task5.md "Task 5") - Singleton Task;
-* Structural Patterns:
+
+Structural Patterns:
 - [Task 6](doc/design-patterns/task6.md "Task 6") - Adapter Task;
 - [Task 7](doc/design-patterns/task7.md "Task 7") - Bridge Task;
 - [Task 8](doc/design-patterns/task8.md "Task 8") - Composite Task;
@@ -22,7 +24,8 @@ The task list:
 - [Task 10](doc/design-patterns/task10.md "Task 10") - Facade Task;
 - [Task 11](doc/design-patterns/task11.md "Task 11") - Flyweight Task;
 - [Task 12](doc/design-patterns/task12.md "Task 12") - Proxy Task;
-* Behavioral Patterns:
+
+Behavioral Patterns:
 - [Task 13](doc/design-patterns/task13.md "Task 13") - Chain Of Responsibility Task;
 - [Task 14](doc/design-patterns/task14.md "Task 14") - Command Task;
 - [Task 15](doc/design-patterns/task15.md "Task 15") - Interpreter Task;
@@ -34,7 +37,8 @@ The task list:
 - [Task 21](doc/design-patterns/task21.md "Task 21") - Strategy Task;
 - [Task 22](doc/design-patterns/task22.md "Task 22") - Template Method Task;
 - [Task 23](doc/design-patterns/task23.md "Task 23") - Visitor Task;
-* Data Structures:  
+
+Data Structures:  
 - [Task 1](doc/data-structures/task1.md "Task 1") - Array Task;
 - [Task 2](doc/data-structures/task2.md "Task 2") - List, Array List, Vector Task;
 - [Task 3](doc/data-structures/task3.md "Task 3") - Linked List Task;
@@ -46,9 +50,11 @@ The task list:
 - [Task 9](doc/data-structures/task9.md "Task 9") - Heap Task;
 - [Task 10](doc/data-structures/task10.md "Task 10") - Priority Queue Task;
 - [Task 11](doc/data-structures/task11.md "Task 11") - Set Task;
-* Big-O Notation:
+
+Big-O Notation:
 - [Task 1](doc/big-o/task1.md "Task 1") - Big-O Notation Task;
-* Sort Algorithms:
+
+Sort Algorithms:
 - [Task 1](doc/algorithms/task1.md "Task 1") - Bubble Sort Task;
 - [Task 2](doc/algorithms/task2.md "Task 2") - Selection Sort Task;
 - [Task 3](doc/algorithms/task3.md "Task 3") - Insertion Sort Task;

@@ -1,10 +1,11 @@
 # JAcademy: base
 
-JAcademy is the project that teaches to program in the java language and to think and an engineer.
-
+<i>JAcademy</i> is the project that teaches to program in the java language and to think and an engineer.
 Each topic has small explanation of a problem or an idea and the solution, you can use it as you wish and as you want.
 
-As a start point, let's address to [Programming Principles](doc/programming-principles.md "Programming Principles").
+As a start point, let's address to:
+
+[Programming Principles](doc/programming-principles.md "Programming Principles").
 
 ## [Design Patterns](design-patterns/README.md "The design patterns chapter")
 
@@ -55,7 +56,9 @@ In this module the following data structures will be described:
 
 ## [Algorithms](algorithms/README.md "The algorithms chapter")
 
-As a start point, let's address to [Big-O Notation](algorithms/doc/big-o-notation.md "Big-O Notation").
+As a start point, let's address to:
+
+[Big-O Notation](algorithms/doc/big-o-notation.md "Big-O Notation").
 
 In this module the following algorithms will be described:
 
