@@ -5,7 +5,8 @@ Each topic has small explanation of a problem or an idea and the solution, you c
 
 As a start point, let's address to:
 
-[Programming Principles](doc/programming-principles.md "Programming Principles").
+[Programming Principles](doc/principles.md "Programming Principles"),
+[Software Architecture Cheat Sheet](doc/sa-cheat-sheet.md "Software Architecture Cheat Sheet");
 
 ## [Design Patterns](design-patterns/README.md "The design patterns chapter")
 
