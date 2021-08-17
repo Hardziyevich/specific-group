@@ -37,7 +37,7 @@ Chapters:
 8. [Arrays](doc/basics/arrays.md "Arrays") - Arrays;
 9. [Conditional and logical operators](doc/basics/cond-log-op.md "Conditional and logical operators") - 
    Conditional and logical operators;
-10.
+10. [if-statements](doc/basics/if-state.md "if-statements") - if-statements;
 11.
 
 ## Object-Oriented Programming

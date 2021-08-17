@@ -12,6 +12,7 @@ Java Programming
 - [Task 3](doc/basics/task3.md "Task 3") - Variables;
 - [Task 4](doc/basics/task4.md "Task 4") - Method params;
 - [Task 5](doc/basics/task5.md "Task 5") - Conditional and logical operators;
+- [Task 5](doc/basics/task5.md "Task 5") - If else if and logical operators;
 
 Programming Principles:
 - [Task 1](doc/principles/task1.md "Task 1") - Programming Principles Task;
