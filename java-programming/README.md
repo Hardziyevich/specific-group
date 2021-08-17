@@ -30,13 +30,13 @@ Chapters:
    Variables; integer values with 'int';
 5. [Arithmetic expressions and operators](doc/basics/arithmetic-exp-op.md "Arithmetic expressions and operators") -
    Arithmetic expressions and operators;
-6.
+6. [Method parameters and return values](doc/basics/method-params.md "Method parameters and return values") - 
+   Method parameters and return values;
 7.
 8.
 9.
 10.
 11.
-12.
 
 ## Object-Oriented Programming
 
