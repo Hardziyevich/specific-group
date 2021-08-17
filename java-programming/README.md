@@ -38,7 +38,7 @@ Chapters:
 9. [Conditional and logical operators](doc/basics/cond-log-op.md "Conditional and logical operators") - 
    Conditional and logical operators;
 10. [if-statements](doc/basics/if-state.md "if-statements") - if-statements;
-11.
+11. [Loops](doc/basics/loops.md "Loops") - while, for, foreach loops.
 
 ## Object-Oriented Programming
 
