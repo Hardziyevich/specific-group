@@ -35,7 +35,8 @@ Chapters:
 7. [Text values with String and char](doc/basics/string-chart.md "Text values with String and char") - 
    Text values with String and char;
 8. [Arrays](doc/basics/arrays.md "Arrays") - Arrays;
-9.
+9. [Conditional and logical operators](doc/basics/cond-log-op.md "Conditional and logical operators") - 
+   Conditional and logical operators;
 10.
 11.
 

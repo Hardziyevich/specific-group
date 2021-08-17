@@ -11,6 +11,7 @@ Java Programming
 - [Task 2](doc/basics/task2.md "Task 2") - Second printing;
 - [Task 3](doc/basics/task3.md "Task 3") - Variables;
 - [Task 4](doc/basics/task4.md "Task 4") - Method params;
+- [Task 5](doc/basics/task5.md "Task 5") - Conditional and logical operators;
 
 Programming Principles:
 - [Task 1](doc/principles/task1.md "Task 1") - Programming Principles Task;
