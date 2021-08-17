@@ -21,3 +21,14 @@ First things to note:
    Java starts running the code at the first line of the method named `main`;
 3. Method definitions are grouped into <i>classes</i>;
 5. Most lines of code end in a semi-colon. Method and class definitions do not.
+
+## Class and methods
+
+The main unit of organization in a Java program is the <b>class</b>. The simplest Java program contains just one class. 
+Among other things, a class is a collection of methods.
+
+There are two types of methods: static methods and non-static methods. 
+A static method plays a similar role to an ordinary function in other languages.
+
+In any language, factoring is the process of reorganizing code into different files, classes, methods, libraries, 
+or functions.
