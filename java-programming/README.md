@@ -32,7 +32,8 @@ Chapters:
    Arithmetic expressions and operators;
 6. [Method parameters and return values](doc/basics/method-params.md "Method parameters and return values") - 
    Method parameters and return values;
-7.
+7. [Text values with String and char](doc/basics/string-chart.md "Text values with String and char") - 
+   Text values with String and char;
 8.
 9.
 10.
