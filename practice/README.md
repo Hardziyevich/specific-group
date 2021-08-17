@@ -6,6 +6,10 @@ This is the practice module where the solution should be written. Every solution
 
 Each task must be done within its own package. The whole task list is:
 
+Java Programming
+- [Task 1](doc/basics/task1.md "Task 1") - First printing;
+- [Task 2](doc/basics/task2.md "Task 2") - Second printing;
+
 Programming Principles:
 - [Task 1](doc/principles/task1.md "Task 1") - Programming Principles Task;
 

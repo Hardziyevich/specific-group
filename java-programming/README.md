@@ -23,10 +23,10 @@ Module Objectives:
 - Learn to repeat parts of a program using loops.
 
 Chapters:
-1. [Introduction](doc/basics/introduction.md "Introduction")
-2. [First Java Program](doc/basics/first-program.md "First Java Program")
-3. 
-4.
+1. [Introduction](doc/basics/introduction.md "Introduction") - Introduction;
+2. [First Java Program](doc/basics/first-program.md "First Java Program") - A First Java Program;
+3. [Printing to the screen](doc/basics/screen-printing.md "Printing to the screen") - Printing to the screen;
+4. 
 5.
 6.
 7.
