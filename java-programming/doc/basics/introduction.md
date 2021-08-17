@@ -2,12 +2,12 @@
 
 Intention: This lesson provides a brief introduction of the Java programming language.
 
-## ```Java``` as a Structural Language
+## `Java` as a Structural Language
 
 Before discussing the particulars, it is useful to think of a computer program in terms of both its <b>structure</b> and 
 its <b>meaning</b> simultaneously.
 
-A ```Java``` program is structured in a specific and particular manner. ```Java``` is a language and therefore has 
+A `Java` program is structured in a specific and particular manner. `Java` is a language and therefore has 
 grammar similar to a spoken language like <i>English</i>. 
 The grammar of computer languages is usually much, much simpler than spoken languages but comes with the disadvantage of 
 having stricter rules. Applying this structure or grammar to the language is what allows the computer to understand 
@@ -58,23 +58,23 @@ it was known as bad practices. So the creators of Java have disabled them:
 
 Intention: About the contents covered in this project
 
-```Java``` programming language itself has a relatively small number of keywords, but it has a large and complex 
+`Java` programming language itself has a relatively small number of keywords, but it has a large and complex 
 programming landscape. It is a popular programming language for embedded system development, back end systems and APIs.
 
-In this project, you will start by learning key features of the ```Java``` programming language. ```Java``` is known as 
-an <i>object-oriented</i> programming language. You will learn what that means and how to use ```Java```'s 
+In this project, you will start by learning key features of the `Java` programming language. `Java` is known as 
+an <i>object-oriented</i> programming language. You will learn what that means and how to use `Java`'s 
 object-oriented features in this project, as well.
 
 Programming is about solving problems using programming languages. Several problems lend themselves naturally 
 to <i>recursive</i> solutions. In this project, you will learn what recursion means and how to implement recursion in 
-```Java``` programs.
+`Java` programs.
 
-```Java``` finds use in several large and complex systems. Such systems often require high-performance which can’t be 
+`Java` finds use in several large and complex systems. Such systems often require high-performance which can’t be 
 achieved using single threaded programs. Parallelism is the key in such situations. Parallelism is not just a blessing, 
-but also comes with its own set of challenges. You’ll learn about constructs that ```Java``` provides for implementing 
+but also comes with its own set of challenges. You’ll learn about constructs that `Java` provides for implementing 
 parallel programs.
 
 The nature of applications that we develop and use keeps changing with time. This means that the requirements 
 for programming languages keep evolving. Every programming language must evolve to meet these changing requirements, 
-or face being outdated. ```Java``` 8 provides several new libraries and features to help modern software development easy. 
+or face being outdated. `Java` 8 provides several new libraries and features to help modern software development easy. 
 You’ll learn about those features in this project, too.

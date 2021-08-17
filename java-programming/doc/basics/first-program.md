@@ -16,8 +16,8 @@ public final class FirstProgram {
 
 First things to note:
 
-1. Single-line comments begin with //;
-2. The method main is defined using the keywords public static void. The method named main is special: Java starts running 
-   the code at the first line of the method named main;
-3. Method definitions are grouped into classes;
+1. Single-line comments begin with `//`;
+2. The method `main` is <i>defined</i> using the keywords `public static void`. The method named `main` is special: 
+   Java starts running the code at the first line of the method named `main`;
+3. Method definitions are grouped into <i>classes</i>;
 5. Most lines of code end in a semi-colon. Method and class definitions do not.
