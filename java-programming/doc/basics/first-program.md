@@ -27,8 +27,8 @@ First things to note:
 The main unit of organization in a Java program is the <b>class</b>. The simplest Java program contains just one class. 
 Among other things, a class is a collection of methods.
 
-There are two types of methods: static methods and non-static methods. 
+There are two types of methods: <b>static</b> methods and <b>non-static</b> methods. 
 A static method plays a similar role to an ordinary function in other languages.
 
-In any language, factoring is the process of reorganizing code into different files, classes, methods, libraries, 
+In any language, <i>factoring</i> is the process of reorganizing code into different files, classes, methods, libraries, 
 or functions.
