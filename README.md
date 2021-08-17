@@ -10,7 +10,20 @@ As a start point, let's address to:
 
 ## [Java Programming](java-programming/README.md "The java programming chapter")
 
-TODO:
+In this module the following topics will be described:
+
+* Basics:
+[Introduction](java-programming/doc/basics/introduction.md "Introduction"),
+[First Java Program](java-programming/doc/basics/first-program.md "First Java Program"),
+[Printing to the screen](java-programming/doc/basics/screen-printing.md "Printing to the screen"),
+[Variables; integer values with 'int'](java-programming/doc/basics/variables.md "Variables; integer values with 'int'"),
+[Arithmetic expressions and operators](java-programming/doc/basics/arithmetic-exp-op.md "Arithmetic expressions and operators"),
+[Method parameters and return values](java-programming/doc/basics/method-params.md "Method parameters and return values"),
+[Text values with String and char](java-programming/doc/basics/string-chart.md "Text values with String and char"),
+[Arrays](java-programming/doc/basics/arrays.md "Arrays"),
+[Conditional and logical operators](java-programming/doc/basics/cond-log-op.md "Conditional and logical operators"),
+[if-statements](java-programming/doc/basics/if-state.md "if-statements"),
+[Loops](java-programming/doc/basics/loops.md "Loops");
 
 ## [Design Patterns](design-patterns/README.md "The design patterns chapter")
 
@@ -85,7 +98,16 @@ In this module the following algorithms will be described:
 
 ## [Practice](practice/README.md "The practice chapter")
 
-This is the practice module where the solution should be written. Every solution must be accompanied by unit tests and documentation.
+This is the practice module where the solution should be written. There the following tasks:
+
+* Java Programming
+[Task 1](doc/basics/task1.md "Task 1"),
+[Task 2](doc/basics/task2.md "Task 2"),
+[Task 3](doc/basics/task3.md "Task 3"),
+[Task 4](doc/basics/task4.md "Task 4"),
+[Task 5](doc/basics/task5.md "Task 5"), 
+[Task 6](doc/basics/task6.md "Task 6"),
+[Task 7](doc/basics/task7.md "Task 7");
 
 ## Build Requirements
 
