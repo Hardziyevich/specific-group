@@ -28,7 +28,8 @@ Chapters:
 3. [Printing to the screen](doc/basics/screen-printing.md "Printing to the screen") - Printing to the screen;
 4. [Variables; integer values with 'int'](doc/basics/variables.md "Variables; integer values with 'int'") - 
    Variables; integer values with 'int';
-5.
+5. [Arithmetic expressions and operators](doc/basics/arithmetic-exp-op.md "Arithmetic expressions and operators") -
+   Arithmetic expressions and operators;
 6.
 7.
 8.
