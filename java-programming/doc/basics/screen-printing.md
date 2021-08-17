@@ -6,7 +6,7 @@ Intention: Use standard method calls to print to the screen.
 even if only for debugging or testing your code. You won’t find anything too surprising in Java’s methods for printing, 
 but there are some slight differences from C, Python, and Javascript.
 
-You can print the text “Hello, World!” to the screen using a the method call `System.out.println("Hello, World!");`.
+You can print the text "Hello, World!" to the screen using a the method call `System.out.println("Hello, World!");`.
 
 Why so much typing for a simple print? Frequently, method calls require an <b>object</b> to act on in Java.
 

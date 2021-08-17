@@ -34,7 +34,7 @@ Chapters:
    Method parameters and return values;
 7. [Text values with String and char](doc/basics/string-chart.md "Text values with String and char") - 
    Text values with String and char;
-8.
+8. [Arrays](doc/basics/arrays.md "Arrays") - Arrays;
 9.
 10.
 11.
