@@ -1,39 +1,129 @@
 # Java Programming
 
-Java is one of the most sought after and widely used programming languages in the tech industry, 
-and will continue to be for the foreseeable future. It runs on everything from phones to game consoles to data centers. 
-This module will teach you to program on the java language. 
+Java is one of the most sought after and widely used programming languages in the tech industry, and will continue to be 
+for the foreseeable future. It runs on everything from phones to game consoles to data centers. This project will teach you 
+to program on the java language. 
 
-## Modules And Chapters
+Learning Objectives:
+- Get adapted to Java syntax and behavior;
+- Practice using OOP techniques in Java;
+- Explore Lambdas and Stream APIs;
+- Get your hands dirty writing and running real Java code off the bat;
+- Gain a mastery of multithreading and concurrency concepts;
+- Learn to write effective unit tests with JUnit 5.
 
-Basics of Java Programming:
+## Basics of Java Programming
 
-Object-Oriented Programming:
+The module describes Java syntax and shows code examples. Cover static methods, variables, strings, arrays, and loops.
 
-Recursion:
+Module Objectives:
+- Learn to work with variables of different data types;
+- Learn to define and use functions;
+- Learn to write programs that use conditional logic;
+- Learn to repeat parts of a program using loops.
 
-Java Multithreading:
+Chapters:
+1. [Introduction](doc/basics/introduction.md "Introduction")
+2. [First Java Program](doc/basics/first-program.md "First Java Program")
+3. 
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
 
-Java Collections:
+## Object-Oriented Programming
 
-Features:
+Object Oriented Programming (OOP) is a programming paradigm popular for large and complex systems. In this module, 
+dive deep into how OOP works in Java. Learn to write cleaner, more reusable code using OOP principles.
 
-Clean Code:
+Module Objectives:
+- Learn what object orientation means;
+- Learn the basic tenets of OOP;
+- Learn how to implement abstraction, inheritance, polymorphism, aggregation and composition in Java.
 
-Clean Code is a key to a better, performant, efficient software system.
-For almost all software products, except very tiny ones, there will be lots of code and some of them will be indeed bad code.
-Over time developer teams will change, technologies will change, viewpoints to certain patterns will change and at the end of the day,
-some code will be bad code. So there is no way to guarantee that source code of a software product will be of only clean code.
-But there are some golden rules that experienced developer should always have in mind when coding.
-In this blog I am going to go through some important smells and heuristics of refactoring with java examples.
+Chapters:
+TODO:
 
-- [Naming](doc/cleancode/naming.md "The naming chapter")
-- [Functions](doc/cleancode/functions.md "The functions chapter")
-- [Comments](doc/cleancode/comments.md "The comments chapter")
-- [Formatting](doc/cleancode/formatting.md "The formatting chapter")
-- [Error Handling](doc/cleancode/error-handling.md "The error handling chapter")
-- [Unit Tests](doc/cleancode/unit-tests.md "The unit tests chapter")
-- [Classes](doc/cleancode/classes.md "The classes chapter")
+## Recursion
+
+Learn how recursion can help you solve a variety of different math, string, and data structure problems by using 
+interactive code playgrounds.
+
+Module Objectives:
+- Learn about recursion and its various types;
+- Learn to apply recursion to problems involving Java's built-in data types;
+- Learn recursive problem-solving with data structures.
+
+Chapters:
+TODO:
+
+## Java Multithreading
+
+Explore multithreading and concurrency concepts in Java, from the basics on upward.
+
+Module Objectives:
+- Learn the concept of a thread in programming;
+- Learn what multi-threaded programs are and how to implement one in Java;
+- Learn about the memory model for multi-threading in Java;
+- Learn about challenges in multi-threaded programs and their solution techniques in Java.
+
+Chapters:
+TODO:
+
+## Java Collections
+
+Collections is one of the most important topics for Java Programming. Without the proper knowledge of every collection 
+type in Java, it becomes difficult for you to decide which option to pick in a particular scenario.  
+
+This course will give you a great understanding of all collection types available in the Collections Framework like lists, 
+linked lists, sets, and hashmaps.  
+
+After completing this course, you will know how data can be modified within a collection, how to sort a collection, 
+and how it can be made thread-safe. You will also cover the internal working of each Java collection so you can work with 
+them more efficiently.
+
+Module Objectives:
+- Master the use of common collections in Java;
+- Learn how to choose the right collection for your Java program.
+
+Chapters:
+TODO:
+
+## Features
+
+Learn about Lambdas, Java Stream API, as well as lots of other new improvements made in Java 8.
+
+Module Objectives
+- Learn how to write Lambda functions in Java 8;
+- Master the use of Java 8 Stream and Time APIs;
+- Learn about the improved collections in Java 8;
+- Learn about Java 8's concurrency features.
+
+Chapters:
+TODO:
+
+## Clean Code
+
+Clean Code is a key to a better, performant, efficient software system.  For almost all software products, 
+except very tiny ones, there will be lots of code and some of them will be indeed bad code.
+Over time developer teams will change, technologies will change, viewpoints to certain patterns will change and at 
+the end of the day, some code will be bad code. So there is no way to guarantee that source code of a software product 
+will be of only clean code. But there are some golden rules that experienced developer should always have in mind when 
+coding. In this blog I am going to go through some important smells and heuristics of refactoring with java examples.
+
+Chapters:
+1. [Naming](doc/cleancode/naming.md "The naming chapter")
+2. [Functions](doc/cleancode/functions.md "The functions chapter")
+3. [Comments](doc/cleancode/comments.md "The comments chapter")
+4. [Formatting](doc/cleancode/formatting.md "The formatting chapter")
+5. [Error Handling](doc/cleancode/error-handling.md "The error handling chapter")
+6. [Unit Tests](doc/cleancode/unit-tests.md "The unit tests chapter")
+7. [Classes](doc/cleancode/classes.md "The classes chapter")
 
 ## Build Requirements
 
