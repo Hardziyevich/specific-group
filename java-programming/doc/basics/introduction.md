@@ -78,3 +78,9 @@ The nature of applications that we develop and use keeps changing with time. Thi
 for programming languages keep evolving. Every programming language must evolve to meet these changing requirements, 
 or face being outdated. `Java` 8 provides several new libraries and features to help modern software development easy. 
 You’ll learn about those features in this project, too.
+
+<hr>
+
+Previous: [Java Programming](../../README.md "Java Programming") - Java Programming.
+
+Next: [First Java Program](first-program.md "First Java Program") - A First Java Program.

@@ -154,3 +154,10 @@ public final class HardStop {
 }
 ```
 
+<hr>
+
+Previous: [Arithmetic expressions and operators](arithmetic-exp-op.md "Arithmetic expressions and operators") -
+Arithmetic expressions and operators.
+
+Next: [Text values with String and char](string-chart.md "Text values with String and char") -
+Text values with String and char.

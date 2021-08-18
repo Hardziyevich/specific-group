@@ -38,3 +38,10 @@ public final class IfExamples {
 
 Java also has `else` and `else if` statements; they work as you expect from other languages. 
 (Python uses `elif`, but like C and Javascript, Java uses the syntax `else if`.)
+
+<hr>
+
+Previous: [Conditional and logical operators](cond-log-op.md "Conditional and logical operators") -
+Conditional and logical operators.
+
+Next: [Loops](loops.md "Loops") - while, for, foreach loops.

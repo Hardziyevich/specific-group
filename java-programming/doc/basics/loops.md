@@ -120,3 +120,9 @@ the colon. An array is a particular type of collection; so are ArrayLists and ot
 Only the value of an array item is copied into `p` above; changing `p` does not change the array.
 
 Java 8 also introduced a method `.forEach()` of collections.
+
+<hr>
+
+Previous: [if-statements](if-state.md "if-statements") - if-statements.
+
+Next: [First Java Program](first-program.md "First Java Program") - A First Java Program.

@@ -132,3 +132,11 @@ public final class ArraysExample {
 Notice that `Arrays.sort` works in place. Also notice that there are several overloaded `toString` methods that work on 
 arrays containing ints, doubles, and even objects. There is no `reverse` method; you’ll have to write your own or use 
 an `ArrayList` object to store your list of data.
+
+<hr>
+
+Previous: [Text values with String and char](string-chart.md "Text values with String and char") -
+Text values with String and char.
+
+Next: [Conditional and logical operators](cond-log-op.md "Conditional and logical operators") -
+Conditional and logical operators.

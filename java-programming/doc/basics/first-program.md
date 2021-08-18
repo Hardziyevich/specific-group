@@ -32,3 +32,9 @@ A static method plays a similar role to an ordinary function in other languages.
 
 In any language, <i>factoring</i> is the process of reorganizing code into different files, classes, methods, libraries, 
 or functions.
+
+<hr>
+
+Previous: [Introduction](../../README.md "Introduction") - Introduction.
+
+Next: [Printing to the screen](screen-printing.md "Printing to the screen") - Printing to the screen.

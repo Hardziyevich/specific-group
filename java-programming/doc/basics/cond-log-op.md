@@ -45,3 +45,9 @@ public final class AssignmentError {
 The <i>and</i> operator is written as `&&` in Java. It yields `true` if both operands are `true`. 
 The <i>or</i> operator `||` works as you would expect from other languages, too. 
 The <i>not</i> operator, `!` precedes a boolean `true` or `false` value that you would like to negate.
+
+<hr>
+
+Previous: [Arrays](arrays.md "Arrays") - Arrays.
+
+Next: [if-statements](if-state.md "if-statements") - if-statements.

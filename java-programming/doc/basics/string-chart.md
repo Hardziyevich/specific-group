@@ -149,3 +149,10 @@ Therefore, although there is a way to get a character from a String using the `c
 to change a character within a string: if you want a variable to refer to some other string, you need to create 
 a new string. There’s another class in Java, `StringBuffer`, that is useful if you need to efficiently manipulate 
 character arrays. For example, you might use a `StringBuffer` to store the text data if you were writing a text editor.
+
+<hr>
+
+Previous: [Method parameters and return values](method-params.md "Method parameters and return values") -
+Method parameters and return values.
+
+Next: [Arrays](arrays.md "Arrays") - Arrays.

@@ -75,3 +75,10 @@ a decimal point that can be placed at different locations (or float), in the num
 Computer programming languages evolve over time; double-precision just means that this representation allows double 
 the precision that an earlier representation of floating-point numbers used. There is also a floating point 
 type called `float` in Java, which uses less memory and has less precision than a double. It is rarely used.
+
+<hr>
+
+Previous: [Printing to the screen](screen-printing.md "Printing to the screen") - Printing to the screen.
+
+Next: [Arithmetic expressions and operators](arithmetic-exp-op.md "Arithmetic expressions and operators") -
+Arithmetic expressions and operators.
