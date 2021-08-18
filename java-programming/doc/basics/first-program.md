@@ -35,6 +35,6 @@ or functions.
 
 <hr>
 
-Previous: [Introduction](../../README.md "Introduction") - Introduction.
+Previous: [Introduction](introduction.md "Introduction") - Introduction.
 
 Next: [Printing to the screen](screen-printing.md "Printing to the screen") - Printing to the screen.
