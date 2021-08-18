@@ -1,4 +1,4 @@
-package com.github.akarazhev.jacademy.jprog.oop;
+package com.github.akarazhev.jacademy.jprog.oop.declimpl;
 
 public final class ClassName { // Class name
   /* All member variables

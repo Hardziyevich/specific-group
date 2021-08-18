@@ -115,4 +115,4 @@ on the topic.
 
 Previous: [Declaration and Implementation](decl-impl.md "Declaration and Implementation") - Declaration and Implementation.
 
-Next: -.
+Next: [Fields](fields.md "Fields") - Fields.
