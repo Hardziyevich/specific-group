@@ -55,6 +55,7 @@ Chapters:
 2. [Declaration and Implementation](doc/oop/decl-impl.md "Declaration and Implementation") - Declaration and Implementation;
 3. [Access Modifiers](doc/oop/modifiers.md "Access Modifiers") - Access Modifiers;
 4. [Fields](doc/oop/fields.md "Fields") - Fields;
+5. [Methods](doc/oop/methods.md "Methods") - Methods;
 
 ## Recursion
 

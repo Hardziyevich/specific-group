@@ -1,6 +1,6 @@
 # Access Modifiers
 
-Intention: In this lesson, you will learn about the private, public and protected data members.
+Intention: You will learn about the private, public and protected data members.
 
 In Java, we can impose access restrictions on different data members and member functions. 
 The restrictions are specified through <b>access modifiers</b>. Access modifiers are tags we can associate with 

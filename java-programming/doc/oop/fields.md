@@ -1,6 +1,6 @@
 # Fields
 
-Intention: This lesson will go into the details of the fields of a class.
+Intention: You will go into the details of the fields of a class.
 
 ## Java Fields
 
@@ -122,4 +122,4 @@ public class Demo {
 
 Previous: [Access Modifiers](modifiers.md "Access Modifiers") - Access Modifiers.
 
-Next: -.
+Next: [Methods](methods.md "Methods") - Methods.

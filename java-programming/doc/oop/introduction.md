@@ -58,6 +58,6 @@ in classes (more on this later).
 
 <hr>
 
-Previous: [First Java Program](../../README.md "First Java Program") - A First Java Program.
+Previous: [Java Programming](../../README.md "First Java Program") - Java Programming.
 
 Next: [Declaration and Implementation](decl-impl.md "Declaration and Implementation") - Declaration and Implementation.
