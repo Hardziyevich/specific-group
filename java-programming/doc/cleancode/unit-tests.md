@@ -5,6 +5,13 @@
 - Apply Test Driven Development.
 
 ```java
+package com.github.akarazhev.jacademy.jprog.cleancode;
+
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertNotNull;
+
 public class UnitTests {
     private UserService underTest;
     // 1. One assert per test:idea is to make tests very small and test every single action separately

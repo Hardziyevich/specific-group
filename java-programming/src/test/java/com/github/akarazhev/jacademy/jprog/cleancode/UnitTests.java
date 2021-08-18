@@ -5,8 +5,9 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 
-public class UnitTests {
-    private UserService underTest;
+public final class UnitTests {
+
+    private final UserService underTest = new UserService();
     // 1. One assert per test:idea is to make tests very small and test every single action separately
     @Test
     public void testSaveClient() {
@@ -22,7 +23,7 @@ public class UnitTests {
     // 2. Single concept per test: testing concept group
     @Test
     public void testSaveGroup() {
-        String userId = "";
+        String userId = "test_client";
         String userName = "";
         Group testGroup = new Group();
         // Given
@@ -42,7 +43,7 @@ public class UnitTests {
     }
 
     private static class Group {
-        private User user;
+        private final User user = new User();
 
         public User getUser() {
             return user;
@@ -69,7 +70,7 @@ public class UnitTests {
         private User role;
 
         public String getNo() {
-            return "";
+            return "test_client";
         }
 
         public String getName() {
