@@ -53,6 +53,7 @@ Module Objectives:
 Chapters:
 1. [Introduction](doc/oop/introduction.md "Introduction to Classes") - Introduction to Classes;
 2. [Declaration and Implementation](doc/oop/decl-impl.md "Declaration and Implementation") - Declaration and Implementation;
+3. [Access Modifiers](doc/oop/modifiers.md "Access Modifiers") - Access Modifiers;
 
 ## Recursion
 

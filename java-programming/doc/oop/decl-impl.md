@@ -71,6 +71,6 @@ we build upon this by introducing the concept of access modifiers.
 
 <hr>
 
-Previous: [Introduction](doc/oop/introduction.md "Introduction to Classes") - Introduction to Classes.
+Previous: [Introduction](introduction.md "Introduction to Classes") - Introduction to Classes.
 
-Next: -.
+Next: [Access Modifiers](modifiers.md "Access Modifiers") - Access Modifiers.
