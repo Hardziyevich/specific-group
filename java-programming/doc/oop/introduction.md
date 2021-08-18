@@ -55,3 +55,9 @@ in future applications.
 
 The use of classes makes it easier to maintain the different parts of an application since it is easier to make changes 
 in classes (more on this later).
+
+<hr>
+
+Previous: [First Java Program](../../README.md "First Java Program") - A First Java Program.
+
+Next: [Declaration and Implementation](decl-impl.md "Declaration and Implementation") - Declaration and Implementation.
