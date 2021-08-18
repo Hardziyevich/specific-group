@@ -51,7 +51,7 @@ Module Objectives:
 - Learn how to implement abstraction, inheritance, polymorphism, aggregation and composition in Java.
 
 Chapters:
-TODO:
+1. [Introduction](doc/oop/introduction.md "Introduction to Classes") - Introduction to Classes;
 
 ## Recursion
 
