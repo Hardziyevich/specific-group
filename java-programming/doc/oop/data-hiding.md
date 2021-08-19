@@ -5,8 +5,7 @@ data hiding.
 
 ## Introduction
 
-In the [previous chapter](introduction.md "Introduction") you got familiar with the concept of 
-objects and classes.
+In the [previous chapter](introduction.md "Introduction") you got familiar with the concept of objects and classes.
 
 In <i>OOP</i>, objects and classes are the basic entities. Objects are created using classes. One can observe that classes 
 contain data members and objects are created to manipulate and access this data. To make this object-oriented system 
@@ -44,8 +43,8 @@ We will leave the abstraction part to a later chapter. In this section, will cov
 
 ![alt text](../../etc/oop/data-hiding.png "Data Hiding")
 
-
-This was pretty much about data hiding and the related techniques. In the next chapter, you will learn about Encapsulation.
+This was pretty much about <b>data hiding</b> and the related techniques. In the next chapter, you will learn about 
+<b>Encapsulation</b>.
 
 <hr>
 
