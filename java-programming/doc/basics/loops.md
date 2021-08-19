@@ -125,4 +125,4 @@ Java 8 also introduced a method `.forEach()` of collections.
 
 Previous: [if-statements](if-state.md "if-statements") - if-statements.
 
-Next: [First Java Program](first-program.md "First Java Program") - A First Java Program.
+Next: [Java Programming](../../README.md "Java Programming") - Java Programming.
