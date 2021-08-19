@@ -56,7 +56,10 @@ Chapters:
 3. [Access Modifiers](doc/oop/modifiers.md "Access Modifiers") - Access Modifiers;
 4. [Fields](doc/oop/fields.md "Fields") - Fields;
 5. [Methods](doc/oop/methods.md "Methods") - Methods;
-
+6. [Constructors](doc/oop/constructors.md "Constructors") - Constructors.
+7. [A Bit More about Constructors](doc/oop/constructors-more.md "A Bit More about Constructors") - 
+   A Bit More about Constructors.
+   
 ## Recursion
 
 Learn how recursion can help you solve a variety of different math, string, and data structure problems by using 
