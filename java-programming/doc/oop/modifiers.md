@@ -108,7 +108,7 @@ If we do not mention any access modifier, then it is considered to be default ac
 the `protected`. It also has package-level access, but it also applies to inherited classes as well, unlike `protected`. 
 So, you can say that its access is more limited.
 
-We’ve seen a hint of how data members can be created in a class. In the next lesson, we will go into further details 
+We’ve seen a hint of how data members can be created in a class. In the next chapter, we will go into further details 
 on the topic.
 
 <hr>

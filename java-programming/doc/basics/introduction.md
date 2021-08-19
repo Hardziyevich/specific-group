@@ -1,6 +1,6 @@
 # Introduction
 
-Intention: This lesson provides a brief introduction of the Java programming language.
+Intention: This chapter provides a brief introduction of the Java programming language.
 
 ## `Java` as a Structural Language
 
@@ -19,7 +19,7 @@ and words (the structure), but it is also necessary to understand the overall me
 and chapters to fully understand the content of the textbook. You can think of this as the semantics of the program.
 
 A line-by-line analysis of the program should give a better idea of both the <b>structure</b> and meaning of 
-the classic <b>"Hello World"</b> program. Let’s take a look at it in the upcoming lessons.
+the classic <b>"Hello World"</b> program. Let’s take a look at it in the upcoming chapters.
 
 ## New Features
 

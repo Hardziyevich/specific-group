@@ -30,7 +30,7 @@ public final class WhileExample {
 Intention: Learn how to use for-loops for counting and indexing.
 
 For-loops in Java are identical to those in C and Javascript, and if you are familiar with those languages, 
-you may skip this section. If you are most familiar with Python, you’ll want to work through this lesson carefully. 
+you may skip this section. If you are most familiar with Python, you’ll want to work through this chapter carefully. 
 Here’s a for-loop in Java:
 
 ```java
