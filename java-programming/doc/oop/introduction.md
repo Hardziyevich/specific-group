@@ -56,6 +56,8 @@ in future applications.
 The use of classes makes it easier to maintain the different parts of an application since it is easier to make changes 
 in classes (more on this later).
 
+In the next chapter, we will start our journey into creating a class.
+
 <hr>
 
 Previous: [Java Programming](../../README.md "First Java Program") - Java Programming.
