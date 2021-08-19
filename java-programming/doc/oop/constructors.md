@@ -55,7 +55,7 @@ public final class Demo {
 }
 ```
 
-Notice that when we created a `Date` object in <b>line 26</b>, we don’t treat the constructor as a method and write this:
+Notice that when we created a `Date` object, we don’t treat the constructor as a method and write this:
 
 ```java
 date.Date()

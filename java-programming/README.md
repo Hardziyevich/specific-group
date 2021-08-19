@@ -56,9 +56,10 @@ Chapters:
 3. [Access Modifiers](doc/oop/modifiers.md "Access Modifiers") - Access Modifiers;
 4. [Fields](doc/oop/fields.md "Fields") - Fields;
 5. [Methods](doc/oop/methods.md "Methods") - Methods;
-6. [Constructors](doc/oop/constructors.md "Constructors") - Constructors.
+6. [Constructors](doc/oop/constructors.md "Constructors") - Constructors;
 7. [A Bit More about Constructors](doc/oop/constructors-more.md "A Bit More about Constructors") - 
-   A Bit More about Constructors.
+   A Bit More about Constructors;
+8. [What is Data Hiding?](doc/oop/data-hiding.md "What is Data Hiding?") - What is Data Hiding?;   
    
 ## Recursion
 
