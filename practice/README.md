@@ -18,6 +18,7 @@ Java Programming
 - [Task 9](doc/oop/task9.md "Task 9") - Implement the Rectangle Class Using the Concepts of Encapsulation.
 - [Task 10](doc/oop/task10.md "Task 10") - Implement the Derived Class.
 - [Task 11](doc/oop/task11.md "Task 11") - Override a Method using the Super Keyword.
+- [Task 12](doc/oop/task12.md "Task 12") - Implement an Abstract Method in a Base Class.
   
 Programming Principles:
 - [Task 1](doc/principles/task1.md "Task 1") - Programming Principles Task;

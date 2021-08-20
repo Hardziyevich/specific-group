@@ -12,10 +12,10 @@ Write a Java <b>class</b> called `Calculator` with
     - `num1` and `num2` (<b>double</b> type)
 
 And methods:
-- `add()`, a <i>method</i> which returns the addition of two numbers
-- `subtract()`, a <i>method</i> which returns the subtraction of num1 from num2
-- `multiply()`, a <i>method</i> which returns the multiplication of numbers
-- `divide()`, a <i>method</i> which returns the division of num2 by num1
+- `add()`, a <i>method</i> which returns the addition of two numbers;
+- `subtract()`, a <i>method</i> which returns the subtraction of num1 from num2;
+- `multiply()`, a <i>method</i> which returns the multiplication of numbers;
+- `divide()`, a <i>method</i> which returns the division of num2 by num1;
 - Define a parameterized constructor which takes two parameters `num1` and `num2` and assigns these variables to 
   the respective fields in the class.
 
