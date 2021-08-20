@@ -6,9 +6,9 @@ Can you implement the rectangle class using the concepts of encapsulation?
 
 ### Problem Statement
 
-You are given a partially completed code of a Rectangle class in the editor. Add two fields i.e. length and width 
-and modify the default and parametrized constructors which assign parameters to the length and width fields of 
-the Rectangle class. In the end, Implement the getArea() method which returns the area of the rectangle.
+You are given a partially completed code of a `Rectangle` class in the editor. Add two fields i.e. `length` and `width`
+and modify the default and parametrized constructors which assign parameters to the `length` and `width` fields of 
+the `Rectangle` class. In the end, Implement the `getArea()` method which returns the area of the rectangle.
 
 ### Input
 

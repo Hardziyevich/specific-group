@@ -16,7 +16,8 @@ Java Programming
 - [Task 7](doc/basics/task7.md "Task 7") - Loops.
 - [Task 8](doc/oop/task8.md "Task 8") - Implement a Calculator Class.
 - [Task 9](doc/oop/task9.md "Task 9") - Implement the Rectangle Class Using the Concepts of Encapsulation.
-
+- [Task 10](doc/oop/task10.md "Task 10") - Implement the Derived Class.
+  
 Programming Principles:
 - [Task 1](doc/principles/task1.md "Task 1") - Programming Principles Task;
 
