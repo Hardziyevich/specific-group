@@ -43,6 +43,6 @@ public class Car extends Vehicle {
 
     public static void main(final String[] args) {
         final Car car = new Car();
-        System.out.println(car.getDetails("X"));
+        //
     }
 }
