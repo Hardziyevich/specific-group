@@ -15,6 +15,7 @@ Java Programming
 - [Task 6](doc/basics/task6.md "Task 6") - If else if and logical operators;
 - [Task 7](doc/basics/task7.md "Task 7") - Loops.
 - [Task 8](doc/oop/task8.md "Task 8") - Implement a Calculator Class.
+- [Task 9](doc/oop/task9.md "Task 9") - Implement the Rectangle Class Using the Concepts of Encapsulation.
 
 Programming Principles:
 - [Task 1](doc/principles/task1.md "Task 1") - Programming Principles Task;

@@ -55,7 +55,8 @@ obj.divide()
 
 ## Questions
 
-What is the OOP?
+1. What is the `OOP`?
+2. Propose a couple of examples. 
 
 ## Answers
 
