@@ -52,25 +52,32 @@ Book myBook = new MyBook("Harry Potter", "J.k. Rowling", "100");
 1. What is a default method?
 
 A) A method that is marked with `@Default` annotation.
+
 B) A method that cannot be overridden in sub-classes.
+
 C) A method that has the implementation inside the interface.
+
 D) None of the above.
 
 2. Is it necessary to declare a functional interface with `@FunctionalInterface` annotation?
 
 A) Yes.
+
 B) No.
 
 3. Is it possible to override a static method declared in an interface?
 
 A) Yes. 
+
 B) No.
 
 4. What would happen if a class inherits two interfaces that, both have default methods with the same name? 
 Select all that apply.
 
 A) The compiler will show an error.
+
 B) The code will compile properly.
+
 C) We will need to override the method in our class.
 
 ## Questions

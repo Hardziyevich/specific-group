@@ -50,26 +50,35 @@ Book myBook = new MyBook("Harry Potter", "J.k. Rowling", "100");
 1. In a part-of relationship between two classes:
 
 A) Both classes must be a part of the other.
+
 B) One class must be a part of the other.
+
 C) Both classes should be parts of a third class.
 
 2. What kind of relationship does composition use?
 
 A) Part-of.
+
 B) Has-A.
+
 C) None of the above.
 
 3. What should we call it when an object has its own lifecycle and child object cannot belong to another parent object?
 
 A) Association.
+
 B) Composition.
+
 C) Aggregation.
+
 D) Inheritance.
 
 4. What kind of relationship does association follow?
 
 A) Part-of.
+
 B) Has-a.
+
 C) It’s a generic term used for both of the above.
 
 ## Questions
