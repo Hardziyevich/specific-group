@@ -13,13 +13,13 @@ Java Programming
 - [Task 4](doc/basics/task4.md "Task 4") - Method params;
 - [Task 5](doc/basics/task5.md "Task 5") - Conditional and logical operators;
 - [Task 6](doc/basics/task6.md "Task 6") - If else if and logical operators;
-- [Task 7](doc/basics/task7.md "Task 7") - Loops.
-- [Task 8](doc/oop/task8.md "Task 8") - Implement a Calculator Class.
-- [Task 9](doc/oop/task9.md "Task 9") - Implement the Rectangle Class Using the Concepts of Encapsulation.
-- [Task 10](doc/oop/task10.md "Task 10") - Implement the Derived Class.
-- [Task 11](doc/oop/task11.md "Task 11") - Override a Method using the Super Keyword.
-- [Task 12](doc/oop/task12.md "Task 12") - Implement an Abstract Method in a Base Class.
-- [Task 13](doc/oop/task13.md "Task 13") - Associate Vehicle and Its Driver.
+- [Task 7](doc/basics/task7.md "Task 7") - Loops;
+- [Task 8](doc/oop/task8.md "Task 8") - Implement a Calculator Class;
+- [Task 9](doc/oop/task9.md "Task 9") - Implement the Rectangle Class Using the Concepts of Encapsulation;
+- [Task 10](doc/oop/task10.md "Task 10") - Implement the Derived Class;
+- [Task 11](doc/oop/task11.md "Task 11") - Override a Method using the Super Keyword;
+- [Task 12](doc/oop/task12.md "Task 12") - Implement an Abstract Method in a Base Class;
+- [Task 13](doc/oop/task13.md "Task 13") - Associate Vehicle and Its Driver;
   
 Programming Principles:
 - [Task 1](doc/principles/task1.md "Task 1") - Programming Principles Task;

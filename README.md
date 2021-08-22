@@ -25,6 +25,16 @@ In this module the following topics will be described:
 [if-statements](java-programming/doc/basics/if-state.md "if-statements"),
 [Loops](java-programming/doc/basics/loops.md "Loops");
 
+* Object-Oriented Programming:
+[Introduction](java-programming/doc/oop/introduction.md "Introduction to Classes"),
+[Declaration and Implementation](java-programming/doc/oop/decl-impl.md "Declaration and Implementation"),
+[Access Modifiers](java-programming/doc/oop/modifiers.md "Access Modifiers"),
+[Fields](java-programming/doc/oop/fields.md "Fields"),
+[Methods](java-programming/doc/oop/methods.md "Methods"),
+[Constructors](java-programming/doc/oop/constructors.md "Constructors"),
+[A Bit More about Constructors](java-programming/doc/oop/constructors-more.md "A Bit More about Constructors"),
+[What is Data Hiding?](java-programming/doc/oop/data-hiding.md "What is Data Hiding?"),
+
 ## [Design Patterns](design-patterns/README.md "The design patterns chapter")
 
 In this module the following design patterns will be described:
@@ -107,7 +117,13 @@ This is the practice module where the solution should be written. There the foll
 [Task 4](practice/doc/basics/task4.md "Task 4"),
 [Task 5](practice/doc/basics/task5.md "Task 5"), 
 [Task 6](practice/doc/basics/task6.md "Task 6"),
-[Task 7](practice/doc/basics/task7.md "Task 7");
+[Task 7](practice/doc/basics/task7.md "Task 7"),
+[Task 8](practice/doc/oop/task8.md "Task 8"),
+[Task 9](practice/doc/oop/task9.md "Task 9"),
+[Task 10](practice/doc/oop/task10.md "Task 10"),
+[Task 11](practice/doc/oop/task11.md "Task 11"),
+[Task 12](practice/doc/oop/task12.md "Task 12"),
+[Task 13](practice/doc/oop/task13.md "Task 13"),
 
 ## Build Requirements
 
