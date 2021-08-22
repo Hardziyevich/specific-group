@@ -48,6 +48,6 @@ This was pretty much about <b>data hiding</b> and the related techniques. In the
 
 <hr>
 
-Previous: [A Bit More about Constructors](constructors-more.md "A Bit More about Constructors") - A Bit More about Constructors.
-
 Next: [Encapsulation](fields.md "Encapsulation") - Encapsulation.
+
+Previous: [A Bit More about Constructors](constructors-more.md "A Bit More about Constructors") - A Bit More about Constructors.

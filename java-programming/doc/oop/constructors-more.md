@@ -112,6 +112,6 @@ hiding, which plays a pivotal role in implementing efficient classes.
 
 <hr>
 
-Previous: [Constructors](constructors.md "Constructors") - Constructors.
+Next: [What is Data Hiding?](data-hiding.md "What is Data Hiding?") - What is Data Hiding?.
 
-Next: [What is Data Hiding?](data-hiding.md "What is Data Hiding?") - What is Data Hiding?;
+Previous: [Constructors](constructors.md "Constructors") - Constructors.

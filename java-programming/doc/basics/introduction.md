@@ -81,6 +81,6 @@ You’ll learn about those features in this project, too.
 
 <hr>
 
-Previous: [Java Programming](../../README.md "Java Programming") - Java Programming.
-
 Next: [First Java Program](first-program.md "First Java Program") - A First Java Program.
+
+Previous: [Java Programming](../../README.md "Java Programming") - Java Programming.

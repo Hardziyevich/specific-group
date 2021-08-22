@@ -129,6 +129,6 @@ In the next lesson, we will learn a bit more about constructors.
 
 <hr>
 
-Previous: [Methods](methods.md "Methods") - Methods;
-
 Next: [A Bit More about Constructors](constructors-more.md "A Bit More about Constructors") - A Bit More about Constructors.
+
+Previous: [Methods](methods.md "Methods") - Methods.

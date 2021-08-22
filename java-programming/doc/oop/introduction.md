@@ -60,6 +60,6 @@ In the next chapter, we will start our journey into creating a class.
 
 <hr>
 
-Previous: [Java Programming](../../README.md "First Java Program") - Java Programming.
-
 Next: [Declaration and Implementation](decl-impl.md "Declaration and Implementation") - Declaration and Implementation.
+
+Previous: [Java Programming](../../README.md "First Java Program") - Java Programming.

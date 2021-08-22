@@ -113,6 +113,6 @@ on the topic.
 
 <hr>
 
-Previous: [Declaration and Implementation](decl-impl.md "Declaration and Implementation") - Declaration and Implementation.
-
 Next: [Fields](fields.md "Fields") - Fields.
+
+Previous: [Declaration and Implementation](decl-impl.md "Declaration and Implementation") - Declaration and Implementation.

@@ -78,7 +78,7 @@ type called `float` in Java, which uses less memory and has less precision than 
 
 <hr>
 
-Previous: [Printing to the screen](screen-printing.md "Printing to the screen") - Printing to the screen.
-
 Next: [Arithmetic expressions and operators](arithmetic-exp-op.md "Arithmetic expressions and operators") -
 Arithmetic expressions and operators.
+
+Previous: [Printing to the screen](screen-printing.md "Printing to the screen") - Printing to the screen.

@@ -170,6 +170,6 @@ How do we define what happens when an object of our class is created? We’ll fi
 
 <hr>
 
-Previous: [Fields](fields.md "Fields") - Fields.
-
 Next: [Constructors](constructors.md "Constructors") - Constructors.
+
+Previous: [Fields](fields.md "Fields") - Fields.

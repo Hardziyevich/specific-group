@@ -48,6 +48,6 @@ The <i>not</i> operator, `!` precedes a boolean `true` or `false` value that you
 
 <hr>
 
-Previous: [Arrays](arrays.md "Arrays") - Arrays.
-
 Next: [if-statements](if-state.md "if-statements") - if-statements.
+
+Previous: [Arrays](arrays.md "Arrays") - Arrays.

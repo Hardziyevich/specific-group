@@ -122,6 +122,6 @@ In the chapter lesson, we’ll discuss methods in Java.
 
 <hr>
 
-Previous: [Access Modifiers](modifiers.md "Access Modifiers") - Access Modifiers.
-
 Next: [Methods](methods.md "Methods") - Methods.
+
+Previous: [Access Modifiers](modifiers.md "Access Modifiers") - Access Modifiers.

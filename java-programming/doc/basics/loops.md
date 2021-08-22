@@ -123,6 +123,6 @@ Java 8 also introduced a method `.forEach()` of collections.
 
 <hr>
 
-Previous: [if-statements](if-state.md "if-statements") - if-statements.
-
 Next: [Java Programming](../../README.md "Java Programming") - Java Programming.
+
+Previous: [if-statements](if-state.md "if-statements") - if-statements.
