@@ -2,7 +2,7 @@
 
 ## Challenge: Find the Greatest Common Divisor
 
-In this lesson, you will find the greatest common divisor (GCD) using recursion.
+In this task, you will find the greatest common divisor (GCD) using recursion.
 
 ### What is GCD?
 
