@@ -22,6 +22,7 @@ Java Programming
 - [Task 13](doc/oop/task13.md "Task 13") - Associate Vehicle and Its Driver;
 - [Task 14](doc/recursion/task14.md "Task 14") - Length of a Linked List;
 - [Task 15](doc/recursion/task15.md "Task 15") - Find the Greatest Common Divisor;
+- [Task 16](doc/recursion/task16.md "Task 16") - Print all Permutations of a String;
   
 Programming Principles:
 - [Task 1](doc/principles/task1.md "Task 1") - Programming Principles Task;
