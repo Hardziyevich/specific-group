@@ -124,6 +124,11 @@ This is the practice module where the solution should be written. There the foll
 [Task 11](practice/doc/oop/task11.md "Task 11"),
 [Task 12](practice/doc/oop/task12.md "Task 12"),
 [Task 13](practice/doc/oop/task13.md "Task 13"),
+[Task 14](practice/doc/recursion/task14.md "Task 14"),
+[Task 15](practice/doc/recursion/task15.md "Task 15"),
+[Task 16](practice/doc/recursion/task16.md "Task 16"),
+[Task 17](practice/doc/recursion/task17.md "Task 17"),
+[Task 18](practice/doc/recursion/task18.md "Task 18"),
 
 ## Build Requirements
 
