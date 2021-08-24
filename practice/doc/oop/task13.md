@@ -17,27 +17,6 @@ You have to create a `vehicle` with <b>id</b>: `4453`, and <b>model</b>: `Volvo 
 You also then have to create a `Driver` instance with the <b>driverName</b>: <i>John</i>, such that he is assigned 
 the above mentioned vehicle.
 
-### Input
-
-Calls the constructor by passing name, author, and price.
-Calls the `getDetails()` method to return the details of a book.
-
-### Output
-
-Returns the details of a book.
-
-### Sample Input
-
-```java
-Book myBook = new MyBook("Harry Potter", "J.k. Rowling", "100");
-```
-
-### Sample Output
-
-`
-"Harry Potter, J.k. Rowling, 100"
-`
-
 ## Task steps
 
 1. Put your program here: `com.github.akarazhev.jacademy.practice.jprog.task13` in the `Main` class;
