@@ -12,5 +12,11 @@ public final class LinkedList {
         node.setNext(head);
         head = node;
     }
+
+    public void insertAtHead(final int value) {
+        final Node node = new Node(value);
+        node.setNext(head);
+        head = node;
+    }
 }
 

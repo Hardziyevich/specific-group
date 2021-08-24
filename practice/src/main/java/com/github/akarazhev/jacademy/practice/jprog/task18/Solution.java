@@ -1,5 +1,6 @@
 package com.github.akarazhev.jacademy.practice.jprog.task18;
 
+import com.github.akarazhev.jacademy.practice.jprog.task14.LinkedList;
 import com.github.akarazhev.jacademy.practice.jprog.task14.Node;
 
 public final class Solution {
