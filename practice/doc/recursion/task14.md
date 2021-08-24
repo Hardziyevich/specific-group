@@ -2,7 +2,7 @@
 
 ## Challenge: Length of a Linked List
 
-In this task, the user is required to convert the iterative code for finding the length of a Linked List into a recursive one.
+In this task, you are required to convert the iterative code for finding the length of a Linked List into a recursive one.
 
 ### Problem Statement
 

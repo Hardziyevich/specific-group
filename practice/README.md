@@ -21,6 +21,7 @@ Java Programming
 - [Task 12](doc/oop/task12.md "Task 12") - Implement an Abstract Method in a Base Class;
 - [Task 13](doc/oop/task13.md "Task 13") - Associate Vehicle and Its Driver;
 - [Task 14](doc/recursion/task14.md "Task 14") - Length of a Linked List;
+- [Task 15](doc/recursion/task15.md "Task 15") - Find the Greatest Common Divisor;
   
 Programming Principles:
 - [Task 1](doc/principles/task1.md "Task 1") - Programming Principles Task;
