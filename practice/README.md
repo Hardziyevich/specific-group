@@ -24,6 +24,7 @@ Java Programming
 - [Task 15](doc/recursion/task15.md "Task 15") - Find the Greatest Common Divisor;
 - [Task 16](doc/recursion/task16.md "Task 16") - Print all Permutations of a String;
 - [Task 17](doc/recursion/task17.md "Task 17") - Sort an Array;
+- [Task 18](doc/recursion/task18.md "Task 18") - Search for a Value in a Linked List.
   
 Programming Principles:
 - [Task 1](doc/principles/task1.md "Task 1") - Programming Principles Task;

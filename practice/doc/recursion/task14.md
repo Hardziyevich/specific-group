@@ -10,7 +10,7 @@ Given a Linked List, you are required to find the length of the list using recur
 
 The illustration below explains the concept.
 
-![alt text](../../etc/recursion/linked-list.png "Linked List")
+![alt text](../../etc/recursion/linked-list-length.png "Linked List")
 
 The <i>iterative code</i> has been provided for you in the code snippet given below.
 
