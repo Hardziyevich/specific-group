@@ -60,7 +60,39 @@ Chapters:
 7. [A Bit More about Constructors](doc/oop/constructors-more.md "A Bit More about Constructors") - 
    A Bit More about Constructors;
 8. [What is Data Hiding?](doc/oop/data-hiding.md "What is Data Hiding?") - What is Data Hiding?;   
-   
+9. [Encapsulation](doc/oop/encapsulation.md "Encapsulation") - Encapsulation;   
+10. [Understanding Encapsulation Using Examples](doc/oop/encap-understanding.md "Understanding Encapsulation Using Examples") - 
+    Understanding Encapsulation Using Examples;   
+11. [What is Inheritance?](doc/oop/inheritance.md "What is Inheritance?") - What is Inheritance?;
+12. [The Syntax and Terminologies](doc/oop/syntax-term.md "The Syntax and Terminologies") - The Syntax and Terminologies;
+13. [Super Keyword](doc/oop/super-keyword.md "Super Keyword") - Super Keyword;
+14. [Types of Inheritance](doc/oop/types-inheritance.md "Types of Inheritance") - Types of Inheritance;
+15. [Advantages of Inheritance](doc/oop/adv-inheritance.md "Advantages of Inheritance") - Advantages of Inheritance;
+16. [What is Polymorphism?](doc/oop/polymorphism.md "What is Polymorphism?") - What is Polymorphism?;
+17. [Polymorphism in OOP](doc/oop/polymorphism-oop.md "Polymorphism in OOP") - Polymorphism in OOP;
+18. [Method Overriding](doc/oop/method-overriding.md "Method Overriding") - Method Overriding;
+19. [Difference Between the Overloading and Overriding of Methods](doc/oop/overload-override.md 
+    "Difference Between the Overloading and Overriding of Methods") - 
+    Difference Between the Overloading and Overriding of Methods;
+20. [Dynamic Polymorphism](doc/oop/polymorph-dyn.md "Dynamic Polymorphism") - Dynamic Polymorphism;
+21. [Difference between Static and Dynamic Polymorphism](doc/oop/stat-dyn-polymorph.md 
+    "Difference between Static and Dynamic Polymorphism") - 
+    Difference between Static and Dynamic Polymorphism;
+22. [What is Abstraction?](doc/oop/abstraction.md "What is Abstraction?") - What is Abstraction?;
+23. [Abstract Classes and Methods](doc/oop/abstract-class-method.md "Abstract Classes and Methods") - 
+    Abstract Classes and Methods;
+24. [Interfaces](doc/oop/interfaces.md "Interfaces") - Interfaces;
+25. [Default Methods in interfaces](doc/oop/def-method-interface.md "Default Methods in interfaces") - 
+    Default Methods in interfaces;
+26. [Static Methods in interfaces](doc/oop/stat-method-interface.md "Static Methods in interfaces") -
+    Static Methods in interfaces;
+27. [Functional Interfaces in Java](doc/oop/func-interface.md "Functional Interfaces in Java") -
+    Functional Interfaces in Java;
+28. [Multiple Inheritance](doc/oop/mult-inheritance.md "Multiple Inheritance") - Multiple Inheritance;
+29. [Aggregation and Composition](doc/oop/aggreg-comp.md "Aggregation and Composition") - Aggregation and Composition;
+30. [Aggregation](doc/oop/aggregation.md "Aggregation") - Aggregation;
+31. [Composition](doc/oop/composition.md "Composition") - Composition.
+    
 ## Recursion
 
 Learn how recursion can help you solve a variety of different math, string, and data structure problems by using 

@@ -34,6 +34,32 @@ In this module the following topics will be described:
 [Constructors](java-programming/doc/oop/constructors.md "Constructors"),
 [A Bit More about Constructors](java-programming/doc/oop/constructors-more.md "A Bit More about Constructors"),
 [What is Data Hiding?](java-programming/doc/oop/data-hiding.md "What is Data Hiding?"),
+[Encapsulation](java-programming/doc/oop/encapsulation.md "Encapsulation"),
+[Understanding Encapsulation Using Examples](java-programming/doc/oop/encap-understanding.md 
+  "Understanding Encapsulation Using Examples"),
+[What is Inheritance?](java-programming/doc/oop/inheritance.md "What is Inheritance?"),
+[The Syntax and Terminologies](java-programming/doc/oop/syntax-term.md "The Syntax and Terminologies"),
+[Super Keyword](java-programming/doc/oop/super-keyword.md "Super Keyword"),
+[Types of Inheritance](java-programming/doc/oop/types-inheritance.md "Types of Inheritance"),
+[Advantages of Inheritance](java-programming/doc/oop/adv-inheritance.md "Advantages of Inheritance"),
+[What is Polymorphism?](java-programming/doc/oop/polymorphism.md "What is Polymorphism?"),
+[Polymorphism in OOP](java-programming/doc/oop/polymorphism-oop.md "Polymorphism in OOP"),
+[Method Overriding](java-programming/doc/oop/method-overriding.md "Method Overriding"),
+[Difference Between the Overloading and Overriding of Methods](java-programming/doc/oop/overload-override.md
+    "Difference Between the Overloading and Overriding of Methods"),
+[Dynamic Polymorphism](java-programming/doc/oop/polymorph-dyn.md "Dynamic Polymorphism"),
+[Difference between Static and Dynamic Polymorphism](java-programming/doc/oop/stat-dyn-polymorph.md
+    "Difference between Static and Dynamic Polymorphism"),
+[What is Abstraction?](java-programming/doc/oop/abstraction.md "What is Abstraction?"),
+[Abstract Classes and Methods](java-programming/doc/oop/abstract-class-method.md "Abstract Classes and Methods"),
+[Interfaces](java-programming/doc/oop/interfaces.md "Interfaces"),
+[Default Methods in interfaces](java-programming/doc/oop/def-method-interface.md "Default Methods in interfaces"),
+[Static Methods in interfaces](java-programming/doc/oop/stat-method-interface.md "Static Methods in interfaces"),
+[Functional Interfaces in Java](java-programming/doc/oop/func-interface.md "Functional Interfaces in Java"),
+[Multiple Inheritance](java-programming/doc/oop/mult-inheritance.md "Multiple Inheritance"),
+[Aggregation and Composition](java-programming/doc/oop/aggreg-comp.md "Aggregation and Composition"),
+[Aggregation](java-programming/doc/oop/aggregation.md "Aggregation"),
+[Composition](java-programming/doc/oop/composition.md "Composition").
 
 ## [Design Patterns](design-patterns/README.md "The design patterns chapter")
 
