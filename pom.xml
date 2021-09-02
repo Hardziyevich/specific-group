@@ -9,7 +9,7 @@
 
     <name>jacademy-base</name>
     <description>Java Academy: Base</description>
-    <url>http://akarazhev.github.io/jacademy-base</url>
+    <url>https://akarazhev.github.io/jacademy-base</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
