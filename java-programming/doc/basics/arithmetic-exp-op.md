@@ -84,6 +84,19 @@ and warn you that this may entail a loss of precision. You can reassure Java by 
 `int x = (int) 5.6`. Notice that when casting to an integer, the part after the decimal is truncated, not rounded, 
 so this expression will compute the value 5, not 6.
 
+```java
+package com.github.akarazhev.jacademy.jprog.basics;
+
+public final class Cast {
+
+    public static void main(final String[] args) {
+        int numerator = 18;
+        int denominator = 5;
+        System.out.println((double) numerator / denominator);
+    }
+}
+```
+
 ## Combined assignment and arithmetic operators
 
 Like many other languages, Java permits arithmetic and assignment to be combined, with the operators `+=`, `-=`, `/=`, `*=`. 
