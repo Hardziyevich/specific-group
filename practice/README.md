@@ -29,6 +29,7 @@ Java Programming
 - [Task 20](doc/data-structures/task20.md "Task 20") - Let's work on a HashSet exercise;
 - [Task 21](doc/data-structures/task21.md "Task 21") - TreeSet: Exercise;
 - [Task 22](doc/data-structures/task22.md "Task 22") - Let's solve some HashMap practice problems;
+- [Task 23](doc/data-structures/task23.md "Task 23") - Quiz: Arrays.
   
 Programming Principles:
 - [Task 1](doc/principles/task1.md "Task 1") - Programming Principles Task;

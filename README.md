@@ -159,6 +159,7 @@ This is the practice module where the solution should be written. There the foll
 [Task 20](practice/doc/data-structures/task20.md "Task 20"),
 [Task 21](practice/doc/data-structures/task21.md "Task 21"),
 [Task 22](practice/doc/data-structures/task22.md "Task 22"),
+[Task 23](practice/doc/data-structures/task23.md "Task 23")
 
 ## Build Requirements
 
