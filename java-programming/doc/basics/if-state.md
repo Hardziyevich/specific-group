@@ -34,6 +34,25 @@ public final class IfExamples {
 }
 ```
 
+```java
+package com.github.akarazhev.jacademy.jprog.basics;
+
+public final class Temperature {
+
+    public static void main(final String[] args) {
+        int temperature = -5;
+        if (temperature < 0) {
+            System.out.println("It's very, very cold!");
+        }
+
+        temperature = 10;
+        if (temperature >= 0) {
+            System.out.println("It's not so cold!");
+        }
+    }
+}
+```
+
 ## `else` and `else if` statements
 
 Java also has `else` and `else if` statements; they work as you expect from other languages. 
