@@ -157,6 +157,7 @@ This is the practice module where the solution should be written. There the foll
 [Task 18](practice/doc/recursion/task18.md "Task 18"),
 [Task 19](practice/doc/data-structures/task19.md "Task 19"),
 [Task 20](practice/doc/data-structures/task20.md "Task 20"),
+[Task 21](practice/doc/data-structures/task21.md "Task 21"),
 
 ## Build Requirements
 
