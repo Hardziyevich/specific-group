@@ -92,6 +92,36 @@ The for-loop works like this:
 4. Execute the instruction <b>modify</b>;
 5. Go back to step 2.
 
+Blast off examples:
+
+```java
+package com.github.akarazhev.jacademy.jprog.basics;
+
+public class BlastOff {
+
+    public static void main(String[] args) {
+        int i = 10;
+        while (i > 0) {
+            System.out.println(i);
+            i--;
+        }
+
+        System.out.println("Blast off!");
+
+        for (int j = 10; j > 0; j--) {
+            System.out.println(j);
+        }
+
+        System.out.println("Blast off!");
+    }
+}
+```
+
+There’s a slight difference between the while-loop and the for-loop in the example. 
+The variable `j` created in the initialization section of the for-loop is in scope only for the for-loop body, 
+and goes out of scope after the body. On the other hand, the while-loop creates the variable `i` before the loop, so `i` 
+is available after the loop as well.
+
 ## foreach-loops
 
 Intention: Learn how to use foreach-loops to loop over list-like structures.
