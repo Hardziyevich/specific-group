@@ -25,6 +25,8 @@ Java Programming
 - [Task 16](doc/recursion/task16.md "Task 16") - Print all Permutations of a String;
 - [Task 17](doc/recursion/task17.md "Task 17") - Sort an Array;
 - [Task 18](doc/recursion/task18.md "Task 18") - Search for a Value in a Linked List;
+- [Task 19](doc/data-structures/task19.md "Task 19") - Let's solve some ArrayList practice problems;
+- [Task 20](doc/data-structures/task20.md "Task 20") - Let's work on a HashSet exercise;
   
 Programming Principles:
 - [Task 1](doc/principles/task1.md "Task 1") - Programming Principles Task;
@@ -59,7 +61,7 @@ Behavioral Patterns:
 - [Task 23](doc/design-patterns/task23.md "Task 23") - Visitor Task;
 
 Data Structures:  
-- [Task 1](doc/data-structures/task19.md "Task 91") - ArrayList Task;
+- [Task 1](doc/data-structures/task1.md "Task 1") - Array Task;
 - [Task 2](doc/data-structures/task2.md "Task 2") - List, Array List, Vector Task;
 - [Task 3](doc/data-structures/task3.md "Task 3") - Linked List Task;
 - [Task 4](doc/data-structures/task4.md "Task 4") - Double Linked List Task;
