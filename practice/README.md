@@ -93,6 +93,14 @@ Sort Algorithms:
 - [Task 11](doc/algorithms/task11.md "Task 11") - Binary Search Task;
 - [Task 12](doc/algorithms/task12.md "Task 12") - Factorial Task.
 
+Production library:
+- [Task 1](doc/library/task1.md "Task 1") - First Production Library Task;
+- [Task 2](doc/library/task2.md "Task 2") - Second Production Library Task.
+
+Microservice:
+- [Task 1](doc/microservice/task1.md "Task 1") - First Microservice Task;
+- [Task 2](doc/microservice/task2.md "Task 2") - Second Microservice Task. 
+
 ## Build Requirements
 
 * Java 11+
