@@ -159,7 +159,69 @@ This is the practice module where the solution should be written. There the foll
 [Task 20](practice/doc/data-structures/task20.md "Task 20"),
 [Task 21](practice/doc/data-structures/task21.md "Task 21"),
 [Task 22](practice/doc/data-structures/task22.md "Task 22"),
-[Task 23](practice/doc/data-structures/task23.md "Task 23")
+[Task 23](practice/doc/data-structures/task23.md "Task 23").
+
+* Programming Principles:
+[Task 1](practice/doc/principles/task1.md "Task 1").
+
+* Creational Patterns:
+[Task 1](practice/doc/design-patterns/task1.md "Task 1"),
+[Task 2](practice/doc/design-patterns/task2.md "Task 2"),
+[Task 3](practice/doc/design-patterns/task3.md "Task 3"),
+[Task 4](practice/doc/design-patterns/task4.md "Task 4"),
+[Task 5](practice/doc/design-patterns/task5.md "Task 5").
+
+* Structural Patterns:
+[Task 6](practice/doc/design-patterns/task6.md "Task 6"),
+[Task 7](practice/doc/design-patterns/task7.md "Task 7"),
+[Task 8](practice/doc/design-patterns/task8.md "Task 8"),
+[Task 9](practice/doc/design-patterns/task9.md "Task 9"),
+[Task 10](practice/doc/design-patterns/task10.md "Task 10"),
+[Task 11](practice/doc/design-patterns/task11.md "Task 11"),
+[Task 12](practice/doc/design-patterns/task12.md "Task 12").
+
+* Behavioral Patterns:
+[Task 13](practice/doc/design-patterns/task13.md "Task 13"),
+[Task 14](practice/doc/design-patterns/task14.md "Task 14"),
+[Task 15](practice/doc/design-patterns/task15.md "Task 15"),
+[Task 16](practice/doc/design-patterns/task16.md "Task 16"),
+[Task 17](practice/doc/design-patterns/task17.md "Task 17"),
+[Task 18](practice/doc/design-patterns/task18.md "Task 18"),
+[Task 19](practice/doc/design-patterns/task19.md "Task 19"),
+[Task 20](practice/doc/design-patterns/task20.md "Task 20"),
+[Task 21](practice/doc/design-patterns/task21.md "Task 21"),
+[Task 22](practice/doc/design-patterns/task22.md "Task 22"),
+[Task 23](practice/doc/design-patterns/task23.md "Task 23").
+
+* Data Structures:
+[Task 1](practice/doc/data-structures/task1.md "Task 1"),
+[Task 2](practice/doc/data-structures/task2.md "Task 2"),
+[Task 3](practice/doc/data-structures/task3.md "Task 3"),
+[Task 4](practice/doc/data-structures/task4.md "Task 4"),
+[Task 5](practice/doc/data-structures/task5.md "Task 5"),
+[Task 6](practice/doc/data-structures/task6.md "Task 6"),
+[Task 7](practice/doc/data-structures/task7.md "Task 7"),
+[Task 8](practice/doc/data-structures/task8.md "Task 8"),
+[Task 9](practice/doc/data-structures/task9.md "Task 9"),
+[Task 10](practice/doc/data-structures/task10.md "Task 10"),
+[Task 11](practice/doc/data-structures/task11.md "Task 11").
+
+* Big-O Notation:
+[Task 1](practice/doc/big-o/task1.md "Task 1").
+
+* Sort Algorithms:
+[Task 1](practice/doc/algorithms/task1.md "Task 1"),
+[Task 2](practice/doc/algorithms/task2.md "Task 2"),
+[Task 3](practice/doc/algorithms/task3.md "Task 3"),
+[Task 4](practice/doc/algorithms/task4.md "Task 4"),
+[Task 5](practice/doc/algorithms/task5.md "Task 5"),
+[Task 6](practice/doc/algorithms/task6.md "Task 6"),
+[Task 7](practice/doc/algorithms/task7.md "Task 7"),
+[Task 8](practice/doc/algorithms/task8.md "Task 8"),
+[Task 9](practice/doc/algorithms/task9.md "Task 9"),
+[Task 10](practice/doc/algorithms/task10.md "Task 10"),
+[Task 11](practice/doc/algorithms/task11.md "Task 11"),
+[Task 12](practice/doc/algorithms/task12.md "Task 12").
 
 ## Build Requirements
 

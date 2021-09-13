@@ -32,14 +32,14 @@ Java Programming
 - [Task 23](doc/data-structures/task23.md "Task 23") - Quiz: Arrays.
   
 Programming Principles:
-- [Task 1](doc/principles/task1.md "Task 1") - Programming Principles Task;
+- [Task 1](doc/principles/task1.md "Task 1") - Programming Principles Task.
 
 Creational Patterns:
 - [Task 1](doc/design-patterns/task1.md "Task 1") - Abstract Factory Task;
 - [Task 2](doc/design-patterns/task2.md "Task 2") - Builder Task;
 - [Task 3](doc/design-patterns/task3.md "Task 3") - Factory Method Task;
 - [Task 4](doc/design-patterns/task4.md "Task 4") - Prototype Task;
-- [Task 5](doc/design-patterns/task5.md "Task 5") - Singleton Task;
+- [Task 5](doc/design-patterns/task5.md "Task 5") - Singleton Task.
 
 Structural Patterns:
 - [Task 6](doc/design-patterns/task6.md "Task 6") - Adapter Task;
@@ -48,7 +48,7 @@ Structural Patterns:
 - [Task 9](doc/design-patterns/task9.md "Task 9") - Decorator Task;
 - [Task 10](doc/design-patterns/task10.md "Task 10") - Facade Task;
 - [Task 11](doc/design-patterns/task11.md "Task 11") - Flyweight Task;
-- [Task 12](doc/design-patterns/task12.md "Task 12") - Proxy Task;
+- [Task 12](doc/design-patterns/task12.md "Task 12") - Proxy Task.
 
 Behavioral Patterns:
 - [Task 13](doc/design-patterns/task13.md "Task 13") - Chain Of Responsibility Task;
@@ -61,7 +61,7 @@ Behavioral Patterns:
 - [Task 20](doc/design-patterns/task20.md "Task 20") - State Task;
 - [Task 21](doc/design-patterns/task21.md "Task 21") - Strategy Task;
 - [Task 22](doc/design-patterns/task22.md "Task 22") - Template Method Task;
-- [Task 23](doc/design-patterns/task23.md "Task 23") - Visitor Task;
+- [Task 23](doc/design-patterns/task23.md "Task 23") - Visitor Task.
 
 Data Structures:  
 - [Task 1](doc/data-structures/task1.md "Task 1") - Array Task;
@@ -74,7 +74,7 @@ Data Structures:
 - [Task 8](doc/data-structures/task8.md "Task 8") - Tree, Binary Search Tree Task;
 - [Task 9](doc/data-structures/task9.md "Task 9") - Heap Task;
 - [Task 10](doc/data-structures/task10.md "Task 10") - Priority Queue Task;
-- [Task 11](doc/data-structures/task11.md "Task 11") - Set Task;
+- [Task 11](doc/data-structures/task11.md "Task 11") - Set Task.
 
 Big-O Notation:
 - [Task 1](doc/big-o/task1.md "Task 1") - Big-O Notation Task;
