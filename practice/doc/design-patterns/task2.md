@@ -1,6 +1,6 @@
-# Creational Patterns: Abstract Factory
+# Creational Patterns: Builder
 
-Design your own solution to demonstrate the abstract factory pattern.
+Design your own solution to demonstrate the builder pattern.
 
 ## Task steps
 
