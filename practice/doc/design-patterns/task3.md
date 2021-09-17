@@ -1,6 +1,6 @@
 # Creational Patterns: Factory Method
 
-Design your own solution to demonstrate the abstract factory method pattern.
+Design your own solution to demonstrate the factory method pattern.
 
 ## Task steps
 
@@ -13,7 +13,7 @@ Design your own solution to demonstrate the abstract factory method pattern.
 
 ## Questions
 
-1. Describe please the abstract factory method pattern.
+1. Describe please the factory method pattern.
 
 ## Answers
 
