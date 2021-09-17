@@ -1,10 +1,10 @@
-# Structural Patterns: Decorator
+# Structural Patterns: Composite
 
-Design your own solution to demonstrate the decorator pattern.
+Design your own solution to demonstrate the composite pattern.
 
 ## Task steps
 
-1. Put your program here: `com.github.akarazhev.jacademy.practice.designpatterns.decorator` in the `Solution` class;
+1. Put your program here: `com.github.akarazhev.jacademy.practice.designpatterns.composite` in the `Solution` class;
 2. Implement unit tests;
 3. Add comments where they are needed;
 4. Write a meaningful message with a commit and push the code;
@@ -13,7 +13,7 @@ Design your own solution to demonstrate the decorator pattern.
 
 ## Questions
 
-1. Describe please the decorator pattern.
+1. Describe please the composite pattern.
 
 ## Answers
 
