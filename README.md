@@ -125,10 +125,10 @@ In this module the following algorithms will be described:
 [Quick Sort](algorithms/doc/quick-sort.md "The quick sort chapter"),
 [Counting Sort](algorithms/doc/counting-sort.md "The counting sort chapter"),
 [Radix Sort](algorithms/doc/radix-sort.md "The radix sort chapter"),
-[Bucket Sort](algorithms/doc/bucket-sort.md "The bucket sort chapter");
+[Bucket Sort](algorithms/doc/bucket-sort.md "The bucket sort chapter").
 * Search Algorithms:
-[Linear Search](algorithms/doc/linear-search.md "The linear search chapter").
-[Binary Search](algorithms/doc/binary-search.md "The binary search chapter");
+[Linear Search](algorithms/doc/linear-search.md "The linear search chapter"),
+[Binary Search](algorithms/doc/binary-search.md "The binary search chapter").
 * Other Algorithms:
 [Factorial](algorithms/doc/factorial.md "The factorial chapter").
 
@@ -218,9 +218,11 @@ This is the practice module where the solution should be written. There the foll
 [Task 6](practice/doc/algorithms/task6.md "Task 6"),
 [Task 7](practice/doc/algorithms/task7.md "Task 7"),
 [Task 8](practice/doc/algorithms/task8.md "Task 8"),
-[Task 9](practice/doc/algorithms/task9.md "Task 9"),
+[Task 9](practice/doc/algorithms/task9.md "Task 9").
+* Search Algorithms:
 [Task 10](practice/doc/algorithms/task10.md "Task 10"),
-[Task 11](practice/doc/algorithms/task11.md "Task 11"),
+[Task 11](practice/doc/algorithms/task11.md "Task 11").
+* Other Algorithms:
 [Task 12](practice/doc/algorithms/task12.md "Task 12").
 
 * Production library:

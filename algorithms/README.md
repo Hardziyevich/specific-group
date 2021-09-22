@@ -19,12 +19,13 @@ In this module the following algorithms will be described:
 [Quick Sort](./doc/quick-sort.md "The quick sort chapter"),
 [Counting Sort](./doc/counting-sort.md "The counting sort chapter"),
 [Radix Sort](./doc/radix-sort.md "The radix sort chapter"),
-[Bucket Sort](./doc/bucket-sort.md "The bucket sort chapter");
+[Bucket Sort](./doc/bucket-sort.md "The bucket sort chapter").
 * Search Algorithms:
-[Linear Search](./doc/linear-search.md "The linear search chapter").
-[Binary Search](./doc/binary-search.md "The binary search chapter");
+[Linear Search](./doc/linear-search.md "The linear search chapter"),
+[Binary Search](./doc/binary-search.md "The binary search chapter").
 * Other Algorithms:
 [Factorial](./doc/factorial.md "The factorial chapter").
+  
 ## Build Requirements
 
 * Java 11+
