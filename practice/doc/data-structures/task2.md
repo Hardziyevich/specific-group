@@ -1,11 +1,11 @@
-# Task
-
-The task description.
+# Data Structures: List, Array List, Vector Task;
 
 ## Questions
 
-Questions.
+1. Describe please characteristics of lists;
+2. Describe please the time complexity of lists;
+3. Describe appropriate use-cases for lists.
 
 ## Answers
 
-Answers.
+Answer questions to a mentor in English.
