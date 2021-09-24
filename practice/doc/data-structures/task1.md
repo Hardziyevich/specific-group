@@ -1,11 +1,11 @@
-# Task
-
-The task description.
+# Data Structures: Array Task
 
 ## Questions
 
-Questions.
+1. Describe please characteristics of arrays;
+2. Describe please the time complexity of arrays;
+3. Describe appropriate use-cases for arrays. 
 
 ## Answers
 
-Answers.
+Answer questions to a mentor in English.
