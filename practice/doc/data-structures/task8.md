@@ -1,11 +1,11 @@
-# Task
-
-The task description.
+# Data Structures: Tree, Binary Search Tree Task;
 
 ## Questions
 
-Questions.
+1. Describe please characteristics of trees;
+2. Describe please the time complexity of trees;
+3. Describe appropriate use-cases for trees.
 
 ## Answers
 
-Answers.
+Answer questions to a mentor in English.
