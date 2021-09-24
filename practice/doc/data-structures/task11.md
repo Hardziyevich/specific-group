@@ -1,11 +1,11 @@
-# Task
-
-The task description.
+# Data Structures: Set Task
 
 ## Questions
 
-Questions.
+1. Describe please characteristics of a set;
+2. Describe please the time complexity of a set;
+3. Describe appropriate use-cases for a set.
 
 ## Answers
 
-Answers.
+Answer questions to a mentor in English.
