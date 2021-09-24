@@ -225,8 +225,8 @@ This is the practice module where the solution should be written. There the foll
 * Other Algorithms:
 [Task 12](practice/doc/algorithms/task12.md "Task 12").
 
-* Production library:
-[Task 1](practice/doc/library/task1.md "Task 1"),
+* Application:
+[Task 1](practice/doc/app/task1.md "Task 1"),
 [Task 2](practice/doc/library/task2.md "Task 2").
 
 * Microservice:
