@@ -230,8 +230,7 @@ This is the practice module where the solution should be written. There the foll
 [Task 2](practice/doc/library/task2.md "Task 2").
 
 * Microservice:
-[Task 1](practice/doc/microservice/task1.md "Task 1"),
-[Task 2](practice/doc/microservice/task2.md "Task 2").
+[Task 1](practice/doc/microservice/task1.md "Task 1").
 
 ## Build Requirements
 

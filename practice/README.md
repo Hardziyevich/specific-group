@@ -98,8 +98,7 @@ Application:
 - [Task 2](doc/app/task2.md "Task 2") - Second Application Task.
 
 Microservice:
-- [Task 1](doc/microservice/task1.md "Task 1") - First Microservice Task;
-- [Task 2](doc/microservice/task2.md "Task 2") - Second Microservice Task. 
+- [Task 1](doc/microservice/task1.md "Task 1") - Microservice Task;
 
 ## Build Requirements
 
