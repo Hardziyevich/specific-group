@@ -125,7 +125,7 @@ public final class Demo {
 
 This is much more convenient than the default constructor!
 
-In the next lesson, we will learn a bit more about constructors.
+In the next chapter, we will learn a bit more about constructors.
 
 <hr>
 
