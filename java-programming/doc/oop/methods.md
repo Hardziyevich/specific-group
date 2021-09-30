@@ -163,7 +163,7 @@ methods.
 Polymorphism is a very important concept in object-oriented programming. It will come up later on in the project, 
 but method overloading plays a vital role in its implementation.
 
-![alt text](../../etc/oop/overloading.png "Overloading")
+![alt text](../../etc/oop/mtd-1.png "Overloading")
 
 At this point, we know all about the attributes of a class. However, the most crucial part is still left to explore. 
 How do we define what happens when an object of our class is created? We’ll find out in the next chapter.

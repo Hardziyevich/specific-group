@@ -14,7 +14,7 @@ A private member cannot be accessed directly from outside the class. The aim is 
 and other classes. It is a popular practice to <b>keep the data members private</b> since we do not want anyone 
 manipulating our data directly. We can make members private using the keyword `private`.
 
-![alt text](../../etc/oop/cop-main-1.png "Class")
+![alt text](../../etc/oop/mdf-1.png "Class")
 
 ```java
 package com.github.akarazhev.jacademy.jprog.oop.justice;
@@ -35,7 +35,7 @@ with our private members.
 
 Public members can be declared using the keyword `public`.
 
-![alt text](../../etc/oop/cop-main-2.png "Class")
+![alt text](../../etc/oop/mdf-2.png "Class")
 
 ```java
 package com.github.akarazhev.jacademy.jprog.oop.justice;

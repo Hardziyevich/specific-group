@@ -8,7 +8,7 @@ In the real world, we can find many objects around us like cars, buildings, and 
 some state and behavior. If we consider a car, then its states are <b>name</b>, <b>speed</b>, and <b>fuel</b>, and 
 the behavior is <b>refuel</b>, <b>drive</b>, and <b>park</b>.
 
-![alt text](../../etc/oop/car.png "Car")
+![alt text](../../etc/oop/intro-1.png "Car")
 
 ## Definition
 
@@ -29,7 +29,7 @@ pointers, and functions which would be available to us whenever a class object i
 
 Let’s start with an example of a `Car` class. Below, we can see the <b>state</b> of a car object represented as variables:
 
-![alt text](../../etc/oop/car_class.png "Car class")
+![alt text](../../etc/oop/car-cls-1.png "Car class")
 
 We can see two types of attributes in the `Car` class above. In general, these two categories are present in all classes.
 
