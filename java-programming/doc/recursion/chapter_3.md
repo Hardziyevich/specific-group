@@ -14,4 +14,5 @@ TODO:
 
 Next: [When to use Recursion](chapter_4.md "When to use Recursion") - When to use Recursion.
 
-Previous: [Recursion and Memory Visualization](chapter_2.md "Recursion and Memory Visualization") - Recursion and Memory Visualization.
+Previous: [Recursion and Memory Visualization](chapter_2.md "Recursion and Memory Visualization") - 
+Recursion and Memory Visualization.

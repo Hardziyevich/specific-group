@@ -12,6 +12,7 @@ TODO:
 
 <hr>
 
-Next: [Understanding a Recursive Problem](chapter_6.md "Understanding a Recursive Problem") - Understanding a Recursive Problem.
+Next: [Understanding a Recursive Problem](chapter_6.md "Understanding a Recursive Problem") - 
+Understanding a Recursive Problem.
 
 Previous: [When to use Recursion](chapter_4.md "When to use Recursion") - When to use Recursion.

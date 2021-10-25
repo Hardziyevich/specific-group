@@ -14,4 +14,4 @@ TODO:
 
 Next: [Direct vs. Indirect Recursion](chapter_3.md "Direct vs. Indirect Recursion") - Direct vs. Indirect Recursion.
 
-Previous: [What is Recursion?](chapter_1.md "What is Recursion?") - What is Recursion?.
+Previous: [What is Recursion?](chapter_1.md "What is Recursion?") - What is Recursion?

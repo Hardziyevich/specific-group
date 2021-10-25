@@ -14,4 +14,5 @@ TODO:
 
 Next: [Print a Reversed Linked List](chapter_17.md "Print a Reversed Linked List") - Print a Reversed Linked List.
 
-Previous: [Find the First Occurrence of a Number in an Array](chapter_15.md "Find the First Occurrence of a Number in an Array") - Find the First Occurrence of a Number in an Array.
+Previous: [Find the First Occurrence of a Number in an Array](chapter_15.md "Find the First Occurrence of a Number in an Array") - 
+Find the First Occurrence of a Number in an Array.

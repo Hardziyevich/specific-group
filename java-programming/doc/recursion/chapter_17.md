@@ -12,6 +12,8 @@ TODO:
 
 <hr>
 
-Next: [Insert Values in a Binary Search Tree](chapter_18.md "Insert Values in a Binary Search Tree") - Insert Values in a Binary Search Tree.
+Next: [Insert Values in a Binary Search Tree](chapter_18.md "Insert Values in a Binary Search Tree") - 
+Insert Values in a Binary Search Tree.
 
-Previous: [Invert the Position of Elements in an Array](chapter_16.md "Invert the Position of Elements in an Array") - Invert the Position of Elements in an Array.
+Previous: [Invert the Position of Elements in an Array](chapter_16.md "Invert the Position of Elements in an Array") - 
+Invert the Position of Elements in an Array.

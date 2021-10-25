@@ -12,6 +12,7 @@ TODO:
 
 <hr>
 
-Next: [Find the First Occurrence of a Number in an Array](chapter_15.md "Find the First Occurrence of a Number in an Array") - Find the First Occurrence of a Number in an Array.
+Next: [Find the First Occurrence of a Number in an Array](chapter_15.md "Find the First Occurrence of a Number in an Array") - 
+Find the First Occurrence of a Number in an Array.
 
 Previous: [Reversing a String](chapter_13.md "Reversing a String") - Reversing a String.

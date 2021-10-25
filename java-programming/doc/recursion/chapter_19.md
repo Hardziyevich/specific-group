@@ -14,4 +14,5 @@ TODO:
 
 Next: [Topological Sort in Graphs](chapter_20.md "Topological Sort in Graphs") - Topological Sort in Graphs.
 
-Previous: [Insert Values in a Binary Search Tree](chapter_18.md "Insert Values in a Binary Search Tree") - Insert Values in a Binary Search Tree.
+Previous: [Insert Values in a Binary Search Tree](chapter_18.md "Insert Values in a Binary Search Tree") - 
+Insert Values in a Binary Search Tree.

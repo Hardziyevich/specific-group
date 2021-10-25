@@ -12,6 +12,7 @@ TODO:
 
 <hr>
 
-Next: [Invert the Position of Elements in an Array](chapter_16.md "Invert the Position of Elements in an Array") - Invert the Position of Elements in an Array.
+Next: [Invert the Position of Elements in an Array](chapter_16.md "Invert the Position of Elements in an Array") - 
+Invert the Position of Elements in an Array.
 
 Previous: [Removing Duplicates in a String](chapter_14.md "Removing Duplicates in a String") - Removing Duplicates in a String.
