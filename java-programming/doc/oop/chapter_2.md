@@ -41,7 +41,7 @@ public final class ClassName { // Class name
 
 Let’s implement the `Car` class illustrated below:
 
-![alt text](../../etc/oop/car-cls-1.png "Car Class")
+![alt text](../../etc/oop/img_2.png "Car Class")
 
 ```java
 package com.github.akarazhev.jacademy.jprog.oop.declimpl;

@@ -10,7 +10,7 @@ might contain the following fields:
 - <i>totalSeats</i>;
 - <i>fuelCapacity</i>.
 
-![alt text](../../etc/oop/flds-1.png "Car Class")
+![alt text](../../etc/oop/img_5.png "Car Class")
 
 The Java class could be defined like this:
 
@@ -32,7 +32,7 @@ Java supports static and non-static fields.
 
 A static field resides in a class. All the objects we create will share this field and its value.
 
-![alt text](../../etc/oop/flds-2.png "Car Class")
+![alt text](../../etc/oop/img_6.png "Car Class")
 
 You can define a `static` field by using the static keyword in Java:
 
@@ -60,7 +60,7 @@ System.out.println(Car.capacity);
 Non-static fields are located in the instances of the class. Each instance of the class can have its own values for 
 these fields.
 
-![alt text](../../etc/oop/flds-3.png "Car Class")
+![alt text](../../etc/oop/img_7.png "Car Class")
 
 You can define a non-static field like this in Java:
 

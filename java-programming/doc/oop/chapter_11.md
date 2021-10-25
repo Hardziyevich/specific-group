@@ -16,7 +16,7 @@ the existing class. The existing class is used as a starting point or as a <i>ba
 After reading the above definition, the next question that comes to your mind is <i>What is the use case of inheritance?</i> 
 Well, the answer is that wherever we come across an <b><i>IS A</i></b> relationship between objects, we can use inheritance.
 
-![alt text](../../etc/oop/inhrt-1.png "The IS A Relationship")
+![alt text](../../etc/oop/img_15.png "The IS A Relationship")
 
 In the above illustration, we can see there are three objects having an <b><i>IS A</i></b> relationship between them. 
 We can write it as:
@@ -28,11 +28,11 @@ We can write it as:
 So from the above descriptions regarding <i>inheritance</i>, we can conclude that we can build new classes by depending 
 on the <i>existing classes</i>. We can build some new <i>classes</i>.
 
-![alt text](../../etc/oop/inhrt-2.png "Existing - Derived Classes")
+![alt text](../../etc/oop/img_16.png "Existing - Derived Classes")
 
 Let’s find out where an <b><i>IS A</i></b> relationship doesn’t exist.
 
-![alt text](../../etc/oop/inhrt-3.png "IS A Not Relationship")
+![alt text](../../etc/oop/img_17.png "IS A Not Relationship")
 
 In the above illustration, it’s obvious that we cannot use <i>inheritance</i> as an <b><i>IS A</i></b> relationship doesn’t 
 exist between the objects.

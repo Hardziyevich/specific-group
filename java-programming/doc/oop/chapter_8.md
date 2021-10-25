@@ -41,7 +41,7 @@ Data hiding can be divided into two primary components:
 
 We will leave the abstraction part to a later chapter. In this section, will cover the encapsulation part in detail.
 
-![alt text](../../etc/oop/dt-hid.png "Data Hiding")
+![alt text](../../etc/oop/img_9.png "Data Hiding")
 
 This was pretty much about <b>data hiding</b> and the related techniques. In the next chapter, you will learn about 
 <b>Encapsulation</b>.

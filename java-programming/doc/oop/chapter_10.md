@@ -19,13 +19,13 @@ A very basic `User` class will be modeled as:
 
 Whenever a new user comes, a new object can be created by passing the `userName` and `password` to the constructor of this class.
 
-![alt text](../../etc/oop/encpln-3.png "Classes")
+![alt text](../../etc/oop/img_12.png "Classes")
 
 ## A Bad Example
 
 Now it is time to implement the above discussed `User` class.
 
-![alt text](../../etc/oop/encpln-4.png "Public Members")
+![alt text](../../etc/oop/img_13.png "Public Members")
 
 The code according to the above illustration is given below:
 
@@ -76,7 +76,7 @@ So the above code was not a good coding convention.
 
 Let’s move on to a good convention for implementing the `User` class!
 
-![alt text](../../etc/oop/encpln-5.png "Private Members")
+![alt text](../../etc/oop/img_14.png "Private Members")
 
 ```java
 package com.github.akarazhev.jacademy.jprog.oop.encpln.good;
