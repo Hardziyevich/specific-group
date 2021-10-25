@@ -61,6 +61,30 @@ In this module the following topics will be described:
 [Aggregation](java-programming/doc/oop/aggregation.md "Aggregation"),
 [Composition](java-programming/doc/oop/composition.md "Composition").
 
+* Recursion:
+[What is Recursion?](java-programming/doc/recursion/chapter_1.md "What is Recursion?"),
+[Recursion and Memory Visualization](java-programming/doc/recursion/chapter_2.md "Recursion and Memory Visualization"),
+[Direct vs. Indirect Recursion](java-programming/doc/recursion/chapter_3.md "Direct vs. Indirect Recursion"),
+[When to use Recursion](java-programming/doc/recursion/chapter_4.md "When to use Recursion"),
+[What to Expect](java-programming/doc/recursion/chapter_5.md "What to Expect"),
+[Understanding a Recursive Problem](java-programming/doc/recursion/chapter_6.md "Understanding a Recursive Problem"),
+[Advantages and Disadvantages](java-programming/doc/recursion/chapter_7.md "Advantages and Disadvantages"),
+[Introduction](java-programming/doc/recursion/chapter_8.md "Introduction"),
+[Recursion vs. Iteration](java-programming/doc/recursion/chapter_9.md "Recursion vs. Iteration"),
+[Changing Iterative Code to Recursive](java-programming/doc/recursion/chapter_10.md "Changing Iterative Code to Recursive"),
+[Sum of Integers from 1 to n](java-programming/doc/recursion/chapter_11.md "Sum of Integers from 1 to n"),
+[Computing Fibonacci Sequence](java-programming/doc/recursion/chapter_12.md "Computing Fibonacci Sequence"),
+[Reversing a String](java-programming/doc/recursion/chapter_13.md "Reversing a String"),
+[Removing Duplicates in a String](java-programming/doc/recursion/chapter_14.md "Removing Duplicates in a String"),
+[Find the First Occurrence of a Number in an Array](java-programming/doc/recursion/chapter_15.md
+    "Find the First Occurrence of a Number in an Array"),
+[Invert the Position of Elements in an Array](java-programming/doc/recursion/chapter_16.md 
+    "Invert the Position of Elements in an Array"),
+[Print a Reversed Linked List](java-programming/doc/recursion/chapter_17.md "Print a Reversed Linked List"),
+[Insert Values in a Binary Search Tree](java-programming/doc/recursion/chapter_18.md "Insert Values in a Binary Search Tree"),
+[Depth First Search in Graphs](java-programming/doc/recursion/chapter_19.md "Depth First Search in Graphs"),
+[Topological Sort in Graphs](java-programming/doc/recursion/chapter_20.md "Topological Sort in Graphs").
+
 ## [Design Patterns](design-patterns/README.md "The design patterns chapter")
 
 In this module the following design patterns will be described:
