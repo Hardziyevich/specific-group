@@ -12,7 +12,7 @@ TODO:
 
 <hr>
 
-Next: [Static Methods in interfaces](stat-method-interface.md "Static Methods in interfaces") -
+Next: [Static Methods in interfaces](chapter_26.md "Static Methods in interfaces") -
 Static Methods in interfaces.
 
-Previous: [Interfaces](interfaces.md "Interfaces") - Interfaces.
+Previous: [Interfaces](chapter_24.md "Interfaces") - Interfaces.

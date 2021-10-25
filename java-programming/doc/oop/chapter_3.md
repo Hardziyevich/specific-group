@@ -113,6 +113,6 @@ on the topic.
 
 <hr>
 
-Next: [Fields](fields.md "Fields") - Fields.
+Next: [Fields](chapter_4.md "Fields") - Fields.
 
-Previous: [Declaration and Implementation](decl-impl.md "Declaration and Implementation") - Declaration and Implementation.
+Previous: [Declaration and Implementation](chapter_2.md "Declaration and Implementation") - Declaration and Implementation.

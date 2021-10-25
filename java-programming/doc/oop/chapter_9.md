@@ -35,7 +35,7 @@ In the next chapter, we’ll learn more about <b>Encapsulation</b> with the help
 
 <hr>
 
-Next: [Understanding Encapsulation Using Examples](encap-understanding.md "Understanding Encapsulation Using Examples") - 
+Next: [Understanding Encapsulation Using Examples](chapter_10.md "Understanding Encapsulation Using Examples") - 
 Understanding Encapsulation Using Examples.
 
-Previous: [What is Data Hiding?](data-hiding.md "What is Data Hiding?") - What is Data Hiding?
+Previous: [What is Data Hiding?](chapter_8.md "What is Data Hiding?") - What is Data Hiding?

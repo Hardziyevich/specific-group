@@ -12,8 +12,8 @@ TODO:
 
 <hr>
 
-Next: [Default Methods in interfaces](def-method-interface.md "Default Methods in interfaces") -
+Next: [Default Methods in interfaces](chapter_25.md "Default Methods in interfaces") -
 Default Methods in interfaces.
 
-Previous: [Abstract Classes and Methods](abstract-class-method.md "Abstract Classes and Methods") -
+Previous: [Abstract Classes and Methods](chapter_23.md "Abstract Classes and Methods") -
 Abstract Classes and Methods.

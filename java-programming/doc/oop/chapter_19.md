@@ -12,6 +12,6 @@ TODO:
 
 <hr>
 
-Next: [Dynamic Polymorphism](polymorph-dyn.md "Dynamic Polymorphism") - Dynamic Polymorphism.
+Next: [Dynamic Polymorphism](chapter_20.md "Dynamic Polymorphism") - Dynamic Polymorphism.
 
-Previous: [Method Overriding](method-overriding.md "Method Overriding") - Method Overriding.
+Previous: [Method Overriding](chapter_18.md "Method Overriding") - Method Overriding.

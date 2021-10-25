@@ -12,6 +12,6 @@ TODO:
 
 <hr>
 
-Next: [Aggregation](aggregation.md "Aggregation") - Aggregation.
+Next: [Aggregation](chapter_30.md "Aggregation") - Aggregation.
 
-Previous: [Multiple Inheritance](mult-inheritance.md "Multiple Inheritance") - Multiple Inheritance.
+Previous: [Multiple Inheritance](chapter_28.md "Multiple Inheritance") - Multiple Inheritance.

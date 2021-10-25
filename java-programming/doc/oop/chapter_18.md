@@ -12,8 +12,8 @@ TODO:
 
 <hr>
 
-Next: [Difference Between the Overloading and Overriding of Methods](overload-override.md
+Next: [Difference Between the Overloading and Overriding of Methods](chapter_19.md
 "Difference Between the Overloading and Overriding of Methods") -
 Difference Between the Overloading and Overriding of Methods.
 
-Previous: [Polymorphism in OOP](polymorphism-oop.md "Polymorphism in OOP") - Polymorphism in OOP.
+Previous: [Polymorphism in OOP](chapter_17.md "Polymorphism in OOP") - Polymorphism in OOP.

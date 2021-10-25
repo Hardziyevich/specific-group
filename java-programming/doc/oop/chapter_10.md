@@ -126,6 +126,6 @@ an interface to access those fields are public.
 
 <hr>
 
-Next: [What is Inheritance?](inheritance.md "What is Inheritance?") - What is Inheritance?
+Next: [What is Inheritance?](chapter_11.md "What is Inheritance?") - What is Inheritance?
 
-Previous: [Encapsulation](encapsulation.md "Encapsulation") - Encapsulation.   
+Previous: [Encapsulation](chapter_9.md "Encapsulation") - Encapsulation.   

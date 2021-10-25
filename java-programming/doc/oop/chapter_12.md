@@ -97,6 +97,6 @@ In the code above, ignore the line `super(make, color, year, model)` for now, yo
 
 <hr>
 
-Next: [Super Keyword](super-keyword.md "Super Keyword") - Super Keyword.
+Next: [Super Keyword](chapter_13.md "Super Keyword") - Super Keyword.
 
-Previous: [What is Inheritance?](inheritance.md "What is Inheritance?") - What is Inheritance?
+Previous: [What is Inheritance?](chapter_11.md "What is Inheritance?") - What is Inheritance?

@@ -12,6 +12,6 @@ TODO:
 
 <hr>
 
-Next: [What is Abstraction?](abstraction.md "What is Abstraction?") - What is Abstraction?
+Next: [What is Abstraction?](chapter_22.md "What is Abstraction?") - What is Abstraction?
 
-Previous: [Dynamic Polymorphism](polymorph-dyn.md "Dynamic Polymorphism") - Dynamic Polymorphism.
+Previous: [Dynamic Polymorphism](chapter_20.md "Dynamic Polymorphism") - Dynamic Polymorphism.

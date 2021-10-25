@@ -51,47 +51,47 @@ Module Objectives:
 - Learn how to implement abstraction, inheritance, polymorphism, aggregation and composition in Java.
 
 Chapters:
-1. [Introduction](doc/oop/introduction.md "Introduction to Classes") - Introduction to Classes;
-2. [Declaration and Implementation](doc/oop/decl-impl.md "Declaration and Implementation") - Declaration and Implementation;
-3. [Access Modifiers](doc/oop/modifiers.md "Access Modifiers") - Access Modifiers;
-4. [Fields](doc/oop/fields.md "Fields") - Fields;
-5. [Methods](doc/oop/methods.md "Methods") - Methods;
-6. [Constructors](doc/oop/constructors.md "Constructors") - Constructors;
-7. [A Bit More about Constructors](doc/oop/constructors-more.md "A Bit More about Constructors") - 
+1. [Introduction](doc/oop/chapter_1.md "Introduction to Classes") - Introduction to Classes;
+2. [Declaration and Implementation](doc/oop/chapter_2.md "Declaration and Implementation") - Declaration and Implementation;
+3. [Access Modifiers](doc/oop/chapter_3.md "Access Modifiers") - Access Modifiers;
+4. [Fields](doc/oop/chapter_4.md "Fields") - Fields;
+5. [Methods](doc/oop/chapter_5.md "Methods") - Methods;
+6. [Constructors](doc/oop/chapter_6.md "Constructors") - Constructors;
+7. [A Bit More about Constructors](doc/oop/chapter_7.md "A Bit More about Constructors") - 
    A Bit More about Constructors;
-8. [What is Data Hiding?](doc/oop/data-hiding.md "What is Data Hiding?") - What is Data Hiding?   
-9. [Encapsulation](doc/oop/encapsulation.md "Encapsulation") - Encapsulation;   
-10. [Understanding Encapsulation Using Examples](doc/oop/encap-understanding.md "Understanding Encapsulation Using Examples") - 
+8. [What is Data Hiding?](doc/oop/chapter_8.md "What is Data Hiding?") - What is Data Hiding?   
+9. [Encapsulation](doc/oop/chapter_9.md "Encapsulation") - Encapsulation;   
+10. [Understanding Encapsulation Using Examples](doc/oop/chapter_10.md "Understanding Encapsulation Using Examples") - 
     Understanding Encapsulation Using Examples;   
-11. [What is Inheritance?](doc/oop/inheritance.md "What is Inheritance?") - What is Inheritance?
-12. [The Syntax and Terminologies](doc/oop/syntax-term.md "The Syntax and Terminologies") - The Syntax and Terminologies;
-13. [Super Keyword](doc/oop/super-keyword.md "Super Keyword") - Super Keyword;
-14. [Types of Inheritance](doc/oop/types-inheritance.md "Types of Inheritance") - Types of Inheritance;
-15. [Advantages of Inheritance](doc/oop/adv-inheritance.md "Advantages of Inheritance") - Advantages of Inheritance;
-16. [What is Polymorphism?](doc/oop/polymorphism.md "What is Polymorphism?") - What is Polymorphism?
-17. [Polymorphism in OOP](doc/oop/polymorphism-oop.md "Polymorphism in OOP") - Polymorphism in OOP;
-18. [Method Overriding](doc/oop/method-overriding.md "Method Overriding") - Method Overriding;
-19. [Difference Between the Overloading and Overriding of Methods](doc/oop/overload-override.md 
+11. [What is Inheritance?](doc/oop/chapter_11.md "What is Inheritance?") - What is Inheritance?
+12. [The Syntax and Terminologies](doc/oop/chapter_12.md "The Syntax and Terminologies") - The Syntax and Terminologies;
+13. [Super Keyword](doc/oop/chapter_13.md "Super Keyword") - Super Keyword;
+14. [Types of Inheritance](doc/oop/chapter_14.md "Types of Inheritance") - Types of Inheritance;
+15. [Advantages of Inheritance](doc/oop/chapter_15.md "Advantages of Inheritance") - Advantages of Inheritance;
+16. [What is Polymorphism?](doc/oop/chapter_16.md "What is Polymorphism?") - What is Polymorphism?
+17. [Polymorphism in OOP](doc/oop/chapter_17.md "Polymorphism in OOP") - Polymorphism in OOP;
+18. [Method Overriding](doc/oop/chapter_18.md "Method Overriding") - Method Overriding;
+19. [Difference Between the Overloading and Overriding of Methods](doc/oop/chapter_19.md 
     "Difference Between the Overloading and Overriding of Methods") - 
     Difference Between the Overloading and Overriding of Methods;
-20. [Dynamic Polymorphism](doc/oop/polymorph-dyn.md "Dynamic Polymorphism") - Dynamic Polymorphism;
-21. [Difference between Static and Dynamic Polymorphism](doc/oop/stat-dyn-polymorph.md 
+20. [Dynamic Polymorphism](doc/oop/chapter_20.md "Dynamic Polymorphism") - Dynamic Polymorphism;
+21. [Difference between Static and Dynamic Polymorphism](doc/oop/chapter_21.md 
     "Difference between Static and Dynamic Polymorphism") - 
     Difference between Static and Dynamic Polymorphism;
-22. [What is Abstraction?](doc/oop/abstraction.md "What is Abstraction?") - What is Abstraction?
-23. [Abstract Classes and Methods](doc/oop/abstract-class-method.md "Abstract Classes and Methods") - 
+22. [What is Abstraction?](doc/oop/chapter_22.md "What is Abstraction?") - What is Abstraction?
+23. [Abstract Classes and Methods](doc/oop/chapter_23.md "Abstract Classes and Methods") - 
     Abstract Classes and Methods;
-24. [Interfaces](doc/oop/interfaces.md "Interfaces") - Interfaces;
-25. [Default Methods in interfaces](doc/oop/def-method-interface.md "Default Methods in interfaces") - 
+24. [Interfaces](doc/oop/chapter_24.md "Interfaces") - Interfaces;
+25. [Default Methods in interfaces](doc/oop/chapter_25.md "Default Methods in interfaces") - 
     Default Methods in interfaces;
-26. [Static Methods in interfaces](doc/oop/stat-method-interface.md "Static Methods in interfaces") -
+26. [Static Methods in interfaces](doc/oop/chapter_26.md "Static Methods in interfaces") -
     Static Methods in interfaces;
-27. [Functional Interfaces in Java](doc/oop/func-interface.md "Functional Interfaces in Java") -
+27. [Functional Interfaces in Java](doc/oop/chapter_27.md "Functional Interfaces in Java") -
     Functional Interfaces in Java;
-28. [Multiple Inheritance](doc/oop/mult-inheritance.md "Multiple Inheritance") - Multiple Inheritance;
-29. [Aggregation and Composition](doc/oop/aggreg-comp.md "Aggregation and Composition") - Aggregation and Composition;
-30. [Aggregation](doc/oop/aggregation.md "Aggregation") - Aggregation;
-31. [Composition](doc/oop/composition.md "Composition") - Composition.
+28. [Multiple Inheritance](doc/oop/chapter_28.md "Multiple Inheritance") - Multiple Inheritance;
+29. [Aggregation and Composition](doc/oop/chapter_29.md "Aggregation and Composition") - Aggregation and Composition;
+30. [Aggregation](doc/oop/chapter_30.md "Aggregation") - Aggregation;
+31. [Composition](doc/oop/chapter_31.md "Composition") - Composition.
     
 ## Recursion
 

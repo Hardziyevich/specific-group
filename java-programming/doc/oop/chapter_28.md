@@ -12,7 +12,7 @@ TODO:
 
 <hr>
 
-Next: [Aggregation and Composition](aggreg-comp.md "Aggregation and Composition") - Aggregation and Composition.
+Next: [Aggregation and Composition](chapter_29.md "Aggregation and Composition") - Aggregation and Composition.
 
-Previous: [Functional Interfaces in Java](func-interface.md "Functional Interfaces in Java") -
+Previous: [Functional Interfaces in Java](chapter_27.md "Functional Interfaces in Java") -
 Functional Interfaces in Java.

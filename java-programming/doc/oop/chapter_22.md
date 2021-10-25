@@ -12,9 +12,9 @@ TODO:
 
 <hr>
 
-Next: [Abstract Classes and Methods](abstract-class-method.md "Abstract Classes and Methods") -
+Next: [Abstract Classes and Methods](chapter_23.md "Abstract Classes and Methods") -
 Abstract Classes and Methods.
 
-Previous: [Difference between Static and Dynamic Polymorphism](stat-dyn-polymorph.md
+Previous: [Difference between Static and Dynamic Polymorphism](chapter_21.md
 "Difference between Static and Dynamic Polymorphism") -
 Difference between Static and Dynamic Polymorphism.

@@ -12,6 +12,6 @@ TODO:
 
 <hr>
 
-Next: [Polymorphism in OOP](polymorphism-oop.md "Polymorphism in OOP") - Polymorphism in OOP.
+Next: [Polymorphism in OOP](chapter_17.md "Polymorphism in OOP") - Polymorphism in OOP.
 
-Previous: [Advantages of Inheritance](adv-inheritance.md "Advantages of Inheritance") - Advantages of Inheritance.
+Previous: [Advantages of Inheritance](chapter_15.md "Advantages of Inheritance") - Advantages of Inheritance.

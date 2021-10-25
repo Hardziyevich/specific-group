@@ -5,7 +5,7 @@ data hiding.
 
 ## Introduction
 
-In the [previous chapter](introduction.md "Introduction") you got familiar with the concept of objects and classes.
+In the [previous chapter](chapter_1.md "Introduction") you got familiar with the concept of objects and classes.
 
 In <i>OOP</i>, objects and classes are the basic entities. Objects are created using classes. One can observe that classes 
 contain data members and objects are created to manipulate and access this data. To make this object-oriented system 
@@ -48,6 +48,6 @@ This was pretty much about <b>data hiding</b> and the related techniques. In the
 
 <hr>
 
-Next: [Encapsulation](encapsulation.md "Encapsulation") - Encapsulation.
+Next: [Encapsulation](chapter_9.md "Encapsulation") - Encapsulation.
 
-Previous: [A Bit More about Constructors](constructors-more.md "A Bit More about Constructors") - A Bit More about Constructors.
+Previous: [A Bit More about Constructors](chapter_7.md "A Bit More about Constructors") - A Bit More about Constructors.

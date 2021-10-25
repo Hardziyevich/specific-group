@@ -12,10 +12,10 @@ TODO:
 
 <hr>
 
-Next: [Difference between Static and Dynamic Polymorphism](stat-dyn-polymorph.md
+Next: [Difference between Static and Dynamic Polymorphism](chapter_21.md
 "Difference between Static and Dynamic Polymorphism") -
 Difference between Static and Dynamic Polymorphism.
 
-Previous: [Difference Between the Overloading and Overriding of Methods](overload-override.md
+Previous: [Difference Between the Overloading and Overriding of Methods](chapter_19.md
 "Difference Between the Overloading and Overriding of Methods") -
 Difference Between the Overloading and Overriding of Methods.

@@ -12,6 +12,6 @@ TODO:
 
 <hr>
 
-Next: [Interfaces](interfaces.md "Interfaces") - Interfaces.
+Next: [Interfaces](chapter_24.md "Interfaces") - Interfaces.
 
-Previous: [What is Abstraction?](abstraction.md "What is Abstraction?") - What is Abstraction?
+Previous: [What is Abstraction?](chapter_22.md "What is Abstraction?") - What is Abstraction?

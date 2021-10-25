@@ -26,40 +26,40 @@ In this module the following topics will be described:
 [Loops](java-programming/doc/basics/chapter_11.md "Loops");
 
 * Object-Oriented Programming:
-[Introduction](java-programming/doc/oop/introduction.md "Introduction to Classes"),
-[Declaration and Implementation](java-programming/doc/oop/decl-impl.md "Declaration and Implementation"),
-[Access Modifiers](java-programming/doc/oop/modifiers.md "Access Modifiers"),
-[Fields](java-programming/doc/oop/fields.md "Fields"),
-[Methods](java-programming/doc/oop/methods.md "Methods"),
-[Constructors](java-programming/doc/oop/constructors.md "Constructors"),
-[A Bit More about Constructors](java-programming/doc/oop/constructors-more.md "A Bit More about Constructors"),
-[What is Data Hiding?](java-programming/doc/oop/data-hiding.md "What is Data Hiding?"),
-[Encapsulation](java-programming/doc/oop/encapsulation.md "Encapsulation"),
-[Understanding Encapsulation Using Examples](java-programming/doc/oop/encap-understanding.md 
+[Introduction](java-programming/doc/oop/chapter_1.md "Introduction to Classes"),
+[Declaration and Implementation](java-programming/doc/oop/chapter_2.md "Declaration and Implementation"),
+[Access Modifiers](java-programming/doc/oop/chapter_3.md "Access Modifiers"),
+[Fields](java-programming/doc/oop/chapter_4.md "Fields"),
+[Methods](java-programming/doc/oop/chapter_5.md "Methods"),
+[Constructors](java-programming/doc/oop/chapter_6.md "Constructors"),
+[A Bit More about Constructors](java-programming/doc/oop/chapter_7.md "A Bit More about Constructors"),
+[What is Data Hiding?](java-programming/doc/oop/chapter_8.md "What is Data Hiding?"),
+[Encapsulation](java-programming/doc/oop/chapter_9.md "Encapsulation"),
+[Understanding Encapsulation Using Examples](java-programming/doc/oop/chapter_10.md 
   "Understanding Encapsulation Using Examples"),
-[What is Inheritance?](java-programming/doc/oop/inheritance.md "What is Inheritance?"),
-[The Syntax and Terminologies](java-programming/doc/oop/syntax-term.md "The Syntax and Terminologies"),
-[Super Keyword](java-programming/doc/oop/super-keyword.md "Super Keyword"),
-[Types of Inheritance](java-programming/doc/oop/types-inheritance.md "Types of Inheritance"),
-[Advantages of Inheritance](java-programming/doc/oop/adv-inheritance.md "Advantages of Inheritance"),
-[What is Polymorphism?](java-programming/doc/oop/polymorphism.md "What is Polymorphism?"),
-[Polymorphism in OOP](java-programming/doc/oop/polymorphism-oop.md "Polymorphism in OOP"),
-[Method Overriding](java-programming/doc/oop/method-overriding.md "Method Overriding"),
-[Difference Between the Overloading and Overriding of Methods](java-programming/doc/oop/overload-override.md
+[What is Inheritance?](java-programming/doc/oop/chapter_11.md "What is Inheritance?"),
+[The Syntax and Terminologies](java-programming/doc/oop/chapter_12.md "The Syntax and Terminologies"),
+[Super Keyword](java-programming/doc/oop/chapter_13.md "Super Keyword"),
+[Types of Inheritance](java-programming/doc/oop/chapter_14.md "Types of Inheritance"),
+[Advantages of Inheritance](java-programming/doc/oop/chapter_15.md "Advantages of Inheritance"),
+[What is Polymorphism?](java-programming/doc/oop/chapter_16.md "What is Polymorphism?"),
+[Polymorphism in OOP](java-programming/doc/oop/chapter_17.md "Polymorphism in OOP"),
+[Method Overriding](java-programming/doc/oop/chapter_18.md "Method Overriding"),
+[Difference Between the Overloading and Overriding of Methods](java-programming/doc/oop/chapter_19.md
     "Difference Between the Overloading and Overriding of Methods"),
-[Dynamic Polymorphism](java-programming/doc/oop/polymorph-dyn.md "Dynamic Polymorphism"),
-[Difference between Static and Dynamic Polymorphism](java-programming/doc/oop/stat-dyn-polymorph.md
+[Dynamic Polymorphism](java-programming/doc/oop/chapter_20.md "Dynamic Polymorphism"),
+[Difference between Static and Dynamic Polymorphism](java-programming/doc/oop/chapter_21.md
     "Difference between Static and Dynamic Polymorphism"),
-[What is Abstraction?](java-programming/doc/oop/abstraction.md "What is Abstraction?"),
-[Abstract Classes and Methods](java-programming/doc/oop/abstract-class-method.md "Abstract Classes and Methods"),
-[Interfaces](java-programming/doc/oop/interfaces.md "Interfaces"),
-[Default Methods in interfaces](java-programming/doc/oop/def-method-interface.md "Default Methods in interfaces"),
-[Static Methods in interfaces](java-programming/doc/oop/stat-method-interface.md "Static Methods in interfaces"),
-[Functional Interfaces in Java](java-programming/doc/oop/func-interface.md "Functional Interfaces in Java"),
-[Multiple Inheritance](java-programming/doc/oop/mult-inheritance.md "Multiple Inheritance"),
-[Aggregation and Composition](java-programming/doc/oop/aggreg-comp.md "Aggregation and Composition"),
-[Aggregation](java-programming/doc/oop/aggregation.md "Aggregation"),
-[Composition](java-programming/doc/oop/composition.md "Composition").
+[What is Abstraction?](java-programming/doc/oop/chapter_22.md "What is Abstraction?"),
+[Abstract Classes and Methods](java-programming/doc/oop/chapter_23.md "Abstract Classes and Methods"),
+[Interfaces](java-programming/doc/oop/chapter_24.md "Interfaces"),
+[Default Methods in interfaces](java-programming/doc/oop/chapter_25.md "Default Methods in interfaces"),
+[Static Methods in interfaces](java-programming/doc/oop/chapter_26.md "Static Methods in interfaces"),
+[Functional Interfaces in Java](java-programming/doc/oop/chapter_27.md "Functional Interfaces in Java"),
+[Multiple Inheritance](java-programming/doc/oop/chapter_28.md "Multiple Inheritance"),
+[Aggregation and Composition](java-programming/doc/oop/chapter_29.md "Aggregation and Composition"),
+[Aggregation](java-programming/doc/oop/chapter_30.md "Aggregation"),
+[Composition](java-programming/doc/oop/chapter_31.md "Composition").
 
 * Recursion:
 [What is Recursion?](java-programming/doc/recursion/chapter_1.md "What is Recursion?"),

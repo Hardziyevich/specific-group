@@ -12,7 +12,7 @@ TODO:
 
 <hr>
 
-Next: [Multiple Inheritance](mult-inheritance.md "Multiple Inheritance") - Multiple Inheritance.
+Next: [Multiple Inheritance](chapter_28.md "Multiple Inheritance") - Multiple Inheritance.
 
-Previous: [Static Methods in interfaces](stat-method-interface.md "Static Methods in interfaces") -
+Previous: [Static Methods in interfaces](chapter_26.md "Static Methods in interfaces") -
 Static Methods in interfaces.

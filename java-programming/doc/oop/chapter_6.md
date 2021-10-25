@@ -129,6 +129,6 @@ In the next chapter, we will learn a bit more about constructors.
 
 <hr>
 
-Next: [A Bit More about Constructors](constructors-more.md "A Bit More about Constructors") - A Bit More about Constructors.
+Next: [A Bit More about Constructors](chapter_7.md "A Bit More about Constructors") - A Bit More about Constructors.
 
-Previous: [Methods](methods.md "Methods") - Methods.
+Previous: [Methods](chapter_5.md "Methods") - Methods.

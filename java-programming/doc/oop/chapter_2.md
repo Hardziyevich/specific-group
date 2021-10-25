@@ -71,6 +71,6 @@ we build upon this by introducing the concept of access modifiers.
 
 <hr>
 
-Next: [Access Modifiers](modifiers.md "Access Modifiers") - Access Modifiers.
+Next: [Access Modifiers](chapter_3.md "Access Modifiers") - Access Modifiers.
 
-Previous: [Introduction](introduction.md "Introduction to Classes") - Introduction to Classes.
+Previous: [Introduction](chapter_1.md "Introduction to Classes") - Introduction to Classes.

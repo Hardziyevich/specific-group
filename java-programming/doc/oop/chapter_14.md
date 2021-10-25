@@ -13,6 +13,6 @@ TODO:
 
 <hr>
 
-Next: [Advantages of Inheritance](adv-inheritance.md "Advantages of Inheritance") - Advantages of Inheritance.
+Next: [Advantages of Inheritance](chapter_15.md "Advantages of Inheritance") - Advantages of Inheritance.
 
-Previous: [Super Keyword](super-keyword.md "Super Keyword") - Super Keyword.
+Previous: [Super Keyword](chapter_13.md "Super Keyword") - Super Keyword.
