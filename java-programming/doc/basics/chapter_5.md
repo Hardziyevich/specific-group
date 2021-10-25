@@ -172,8 +172,8 @@ public final class Preincrement {
 
 <hr>
 
-Next: [Method parameters and return values](method-params.md "Method parameters and return values") -
+Next: [Method parameters and return values](chapter_6.md "Method parameters and return values") -
 Method parameters and return values.
 
-Previous: [Variables; integer values with 'int'](variables.md "Variables; integer values with 'int'") -
+Previous: [Variables; integer values with 'int'](chapter_4.md "Variables; integer values with 'int'") -
 Variables; integer values with 'int'.

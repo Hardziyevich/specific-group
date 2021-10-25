@@ -155,4 +155,4 @@ Java 8 also introduced a method `.forEach()` of collections.
 
 Next: [Java Programming](../../README.md "Java Programming") - Java Programming.
 
-Previous: [if-statements](if-state.md "if-statements") - if-statements.
+Previous: [if-statements](chapter_10.md "if-statements") - if-statements.

@@ -78,7 +78,7 @@ public final class PrintExamples {
 
 <hr>
 
-Next: [Variables; integer values with 'int'](variables.md "Variables; integer values with 'int'") -
+Next: [Variables; integer values with 'int'](chapter_4.md "Variables; integer values with 'int'") -
 Variables; integer values with 'int'.
 
-Previous: [First Java Program](first-program.md "First Java Program") - A First Java Program.
+Previous: [First Java Program](chapter_2.md "First Java Program") - A First Java Program.

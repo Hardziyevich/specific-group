@@ -13,17 +13,17 @@ As a start point, let's address to:
 In this module the following topics will be described:
 
 * Basics:
-[Introduction](java-programming/doc/basics/introduction.md "Introduction"),
-[First Java Program](java-programming/doc/basics/first-program.md "First Java Program"),
-[Printing to the screen](java-programming/doc/basics/screen-printing.md "Printing to the screen"),
-[Variables; integer values with 'int'](java-programming/doc/basics/variables.md "Variables; integer values with 'int'"),
-[Arithmetic expressions and operators](java-programming/doc/basics/arithmetic-exp-op.md "Arithmetic expressions and operators"),
-[Method parameters and return values](java-programming/doc/basics/method-params.md "Method parameters and return values"),
-[Text values with String and char](java-programming/doc/basics/string-chart.md "Text values with String and char"),
-[Arrays](java-programming/doc/basics/arrays.md "Arrays"),
-[Conditional and logical operators](java-programming/doc/basics/cond-log-op.md "Conditional and logical operators"),
-[if-statements](java-programming/doc/basics/if-state.md "if-statements"),
-[Loops](java-programming/doc/basics/loops.md "Loops");
+[Introduction](java-programming/doc/basics/chapter_1.md "Introduction"),
+[First Java Program](java-programming/doc/basics/chapter_2.md "First Java Program"),
+[Printing to the screen](java-programming/doc/basics/chapter_3.md "Printing to the screen"),
+[Variables; integer values with 'int'](java-programming/doc/basics/chapter_4.md "Variables; integer values with 'int'"),
+[Arithmetic expressions and operators](java-programming/doc/basics/chapter_5.md "Arithmetic expressions and operators"),
+[Method parameters and return values](java-programming/doc/basics/chapter_6.md "Method parameters and return values"),
+[Text values with String and char](java-programming/doc/basics/chapter_7.md "Text values with String and char"),
+[Arrays](java-programming/doc/basics/chapter_8.md "Arrays"),
+[Conditional and logical operators](java-programming/doc/basics/chapter_9.md "Conditional and logical operators"),
+[if-statements](java-programming/doc/basics/chapter_10.md "if-statements"),
+[Loops](java-programming/doc/basics/chapter_11.md "Loops");
 
 * Object-Oriented Programming:
 [Introduction](java-programming/doc/oop/introduction.md "Introduction to Classes"),

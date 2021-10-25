@@ -156,8 +156,8 @@ public final class HardStop {
 
 <hr>
 
-Next: [Text values with String and char](string-chart.md "Text values with String and char") -
+Next: [Text values with String and char](chapter_7.md "Text values with String and char") -
 Text values with String and char.
 
-Previous: [Arithmetic expressions and operators](arithmetic-exp-op.md "Arithmetic expressions and operators") -
+Previous: [Arithmetic expressions and operators](chapter_5.md "Arithmetic expressions and operators") -
 Arithmetic expressions and operators.

@@ -152,7 +152,7 @@ character arrays. For example, you might use a `StringBuffer` to store the text 
 
 <hr>
 
-Next: [Arrays](arrays.md "Arrays") - Arrays.
+Next: [Arrays](chapter_8.md "Arrays") - Arrays.
 
-Previous: [Method parameters and return values](method-params.md "Method parameters and return values") -
+Previous: [Method parameters and return values](chapter_6.md "Method parameters and return values") -
 Method parameters and return values.

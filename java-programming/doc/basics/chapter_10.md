@@ -60,7 +60,7 @@ Java also has `else` and `else if` statements; they work as you expect from othe
 
 <hr>
 
-Next: [Loops](loops.md "Loops") - while, for, foreach loops.
+Next: [Loops](chapter_11.md "Loops") - while, for, foreach loops.
 
-Previous: [Conditional and logical operators](cond-log-op.md "Conditional and logical operators") -
+Previous: [Conditional and logical operators](chapter_9.md "Conditional and logical operators") -
 Conditional and logical operators.

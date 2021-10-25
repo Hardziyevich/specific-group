@@ -135,8 +135,8 @@ an `ArrayList` object to store your list of data.
 
 <hr>
 
-Next: [Conditional and logical operators](cond-log-op.md "Conditional and logical operators") -
+Next: [Conditional and logical operators](chapter_9.md "Conditional and logical operators") -
 Conditional and logical operators.
 
-Previous: [Text values with String and char](string-chart.md "Text values with String and char") -
+Previous: [Text values with String and char](chapter_7.md "Text values with String and char") -
 Text values with String and char.

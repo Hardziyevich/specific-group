@@ -35,6 +35,6 @@ or functions.
 
 <hr>
 
-Next: [Printing to the screen](screen-printing.md "Printing to the screen") - Printing to the screen.
+Next: [Printing to the screen](chapter_3.md "Printing to the screen") - Printing to the screen.
 
-Previous: [Introduction](introduction.md "Introduction") - Introduction.
+Previous: [Introduction](chapter_1.md "Introduction") - Introduction.
