@@ -59,16 +59,16 @@ Chapters:
 6. [Constructors](doc/oop/constructors.md "Constructors") - Constructors;
 7. [A Bit More about Constructors](doc/oop/constructors-more.md "A Bit More about Constructors") - 
    A Bit More about Constructors;
-8. [What is Data Hiding?](doc/oop/data-hiding.md "What is Data Hiding?") - What is Data Hiding?;   
+8. [What is Data Hiding?](doc/oop/data-hiding.md "What is Data Hiding?") - What is Data Hiding?   
 9. [Encapsulation](doc/oop/encapsulation.md "Encapsulation") - Encapsulation;   
 10. [Understanding Encapsulation Using Examples](doc/oop/encap-understanding.md "Understanding Encapsulation Using Examples") - 
     Understanding Encapsulation Using Examples;   
-11. [What is Inheritance?](doc/oop/inheritance.md "What is Inheritance?") - What is Inheritance?;
+11. [What is Inheritance?](doc/oop/inheritance.md "What is Inheritance?") - What is Inheritance?
 12. [The Syntax and Terminologies](doc/oop/syntax-term.md "The Syntax and Terminologies") - The Syntax and Terminologies;
 13. [Super Keyword](doc/oop/super-keyword.md "Super Keyword") - Super Keyword;
 14. [Types of Inheritance](doc/oop/types-inheritance.md "Types of Inheritance") - Types of Inheritance;
 15. [Advantages of Inheritance](doc/oop/adv-inheritance.md "Advantages of Inheritance") - Advantages of Inheritance;
-16. [What is Polymorphism?](doc/oop/polymorphism.md "What is Polymorphism?") - What is Polymorphism?;
+16. [What is Polymorphism?](doc/oop/polymorphism.md "What is Polymorphism?") - What is Polymorphism?
 17. [Polymorphism in OOP](doc/oop/polymorphism-oop.md "Polymorphism in OOP") - Polymorphism in OOP;
 18. [Method Overriding](doc/oop/method-overriding.md "Method Overriding") - Method Overriding;
 19. [Difference Between the Overloading and Overriding of Methods](doc/oop/overload-override.md 
@@ -78,7 +78,7 @@ Chapters:
 21. [Difference between Static and Dynamic Polymorphism](doc/oop/stat-dyn-polymorph.md 
     "Difference between Static and Dynamic Polymorphism") - 
     Difference between Static and Dynamic Polymorphism;
-22. [What is Abstraction?](doc/oop/abstraction.md "What is Abstraction?") - What is Abstraction?;
+22. [What is Abstraction?](doc/oop/abstraction.md "What is Abstraction?") - What is Abstraction?
 23. [Abstract Classes and Methods](doc/oop/abstract-class-method.md "Abstract Classes and Methods") - 
     Abstract Classes and Methods;
 24. [Interfaces](doc/oop/interfaces.md "Interfaces") - Interfaces;
@@ -104,7 +104,40 @@ Module Objectives:
 - Learn recursive problem-solving with data structures.
 
 Chapters:
-TODO:
+1. [What is Recursion?](doc/recursion/chapter_1.md "What is Recursion?") - What is Recursion?
+2. [Recursion and Memory Visualization](doc/recursion/chapter_2.md "Recursion and Memory Visualization") - 
+   Recursion and Memory Visualization;
+3. [Direct vs. Indirect Recursion](doc/recursion/chapter_3.md "Direct vs. Indirect Recursion") - 
+   Direct vs. Indirect Recursion;
+4. [When to use Recursion](doc/recursion/chapter_4.md "When to use Recursion") - When to use Recursion;
+5. [What to Expect](doc/recursion/chapter_5.md "What to Expect") - What to Expect;
+6. [Understanding a Recursive Problem](doc/recursion/chapter_6.md "Understanding a Recursive Problem") - 
+   Understanding a Recursive Problem;
+7. [Advantages and Disadvantages](doc/recursion/chapter_7.md "Advantages and Disadvantages") - 
+   Advantages and Disadvantages;
+8. [Introduction](doc/recursion/chapter_8.md "Introduction") - Introduction;
+9. [Recursion vs. Iteration](doc/recursion/chapter_9.md "Recursion vs. Iteration") - Recursion vs. Iteration;
+10. [Changing Iterative Code to Recursive](doc/recursion/chapter_10.md "Changing Iterative Code to Recursive") - 
+    Changing Iterative Code to Recursive;
+11. [Sum of Integers from 1 to n](doc/recursion/chapter_11.md "Sum of Integers from 1 to n") - Sum of Integers from 1 to n;
+12. [Computing Fibonacci Sequence](doc/recursion/chapter_12.md "Computing Fibonacci Sequence") - 
+    Computing Fibonacci Sequence;
+13. [Reversing a String](doc/recursion/chapter_13.md "Reversing a String") - Reversing a String;
+14. [Removing Duplicates in a String](doc/recursion/chapter_14.md "Removing Duplicates in a String") - 
+    Removing Duplicates in a String;
+15. [Find the First Occurrence of a Number in an Array](doc/recursion/chapter_15.md 
+    "Find the First Occurrence of a Number in an Array") - 
+    Find the First Occurrence of a Number in an Array;
+17. [Invert the Position of Elements in an Array](doc/recursion/chapter_16.md "Invert the Position of Elements in an Array") - 
+    Invert the Position of Elements in an Array;
+18. [Print a Reversed Linked List](doc/recursion/chapter_17.md "Print a Reversed Linked List") - 
+    Print a Reversed Linked List;
+19. [Insert Values in a Binary Search Tree](doc/recursion/chapter_18.md "Insert Values in a Binary Search Tree") - 
+    Insert Values in a Binary Search Tree;
+20. [Depth First Search in Graphs](doc/recursion/chapter_19.md "Depth First Search in Graphs") - 
+    Depth First Search in Graphs;
+21. [Topological Sort in Graphs](doc/recursion/chapter_20.md "Topological Sort in Graphs") - 
+    Topological Sort in Graphs.
 
 ## Java Multithreading
 
