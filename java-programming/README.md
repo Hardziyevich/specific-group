@@ -150,7 +150,55 @@ Module Objectives:
 - Learn about challenges in multi-threaded programs and their solution techniques in Java.
 
 Chapters:
-TODO:
+1. [Introduction](doc/multithreading/chapter_1.md "Introduction") - Introduction;
+2. [Program vs Process vs Thread](doc/multithreading/chapter_2.md "Program vs Process vs Thread") - Program vs Process vs Thread;
+3. [Concurrency vs Parallelism](doc/multithreading/chapter_3.md "Concurrency vs Parallelism") - Concurrency vs Parallelism;
+4. [Cooperative Multitasking vs Preemptive Multitasking](doc/multithreading/chapter_4.md "") - 
+   Cooperative Multitasking vs Preemptive Multitasking;
+5. [Synchronous vs Asynchronous](doc/multithreading/chapter_5.md "Synchronous vs Asynchronous") - Synchronous vs Asynchronous;
+6. [I/O Bound vs CPU Bound](doc/multithreading/chapter_6.md "I/O Bound vs CPU Bound") - I/O Bound vs CPU Bound;
+7. [Throughput vs Latency](doc/multithreading/chapter_7.md "Throughput vs Latency") - Throughput vs Latency;
+8. [Critical Sections & Race Conditions](doc/multithreading/chapter_8.md "Critical Sections & Race Conditions") - 
+   Critical Sections & Race Conditions;
+9. [Deadlocks, Liveness & Reentrant Locks](doc/multithreading/chapter_9.md "Deadlocks, Liveness & Reentrant Locks") - 
+   Deadlocks, Liveness & Reentrant Locks;
+10. [Mutex vs Semaphore](doc/multithreading/chapter_10.md "Mutex vs Semaphore") - Mutex vs Semaphore;
+11. [Mutex vs Monitor](doc/multithreading/chapter_11.md "Mutex vs Monitor") - Mutex vs Monitor;
+12. [Java's Monitor & Hoare vs Mesa Monitors](doc/multithreading/chapter_12.md "Java's Monitor & Hoare vs Mesa Monitors") - 
+    Java's Monitor & Hoare vs Mesa Monitors;
+13. [Semaphore vs Monitor](doc/multithreading/chapter_13.md "Semaphore vs Monitor") - Semaphore vs Monitor;
+14. [Amdahl's Law](doc/multithreading/chapter_14.md "Amdahl's Law") - Amdahl's Law;
+15. [Moore's Law](doc/multithreading/chapter_15.md "Moore's Law") - Moore's Law;
+16. [Thready Safety & Synchronized](doc/multithreading/chapter_16.md "Thready Safety & Synchronized") - 
+    Thready Safety & Synchronized;
+17. [Wait & Notify](doc/multithreading/chapter_17.md "Wait & Notify") - Wait & Notify;
+18. [Interrupting Threads](doc/multithreading/chapter_18.md "Interrupting Threads") - Interrupting Threads;
+19. [Volatile](doc/multithreading/chapter_19.md "Volatile") - Volatile;
+20. [Reentrant Locks & Condition Variables](doc/multithreading/chapter_20.md "Reentrant Locks & Condition Variables") - 
+    Reentrant Locks & Condition Variables;
+21. [Missed Signals](doc/multithreading/chapter_21.md "Missed Signals") - Missed Signals;
+22. [Semaphore in Java](doc/multithreading/chapter_22.md "Semaphore in Java") - Semaphore in Java;
+23. [Spurious Wakeups](doc/multithreading/chapter_23.md "Spurious Wakeups") - Spurious Wakeups;
+24. [Java Memory Model](doc/multithreading/chapter_24.md "Java Memory Model") - Java Memory Model;
+25. [Reordering Effects](doc/multithreading/chapter_25.md "Reordering Effects") - Reordering Effects;
+26. [The happens-before Relationship](doc/multithreading/chapter_26.md "The happens-before Relationship") - 
+    The happens-before Relationship;
+27. [Setting-up Threads](doc/multithreading/chapter_27.md "Setting-up Threads") - Setting-up Threads;
+28. [Basic Thread Handling](doc/multithreading/chapter_28.md "Basic Thread Handling") - Basic Thread Handling;
+29. [Executor Framework](doc/multithreading/chapter_29.md "Executor Framework") - Executor Framework;
+30. [Executor Implementations](doc/multithreading/chapter_30.md "Executor Implementations") - Executor Implementations;
+31. [Thread Pools](doc/multithreading/chapter_31.md "Thread Pools") - Thread Pools;
+32. [Types of Thread Pools](doc/multithreading/chapter_32.md "Types of Thread Pools") - Types of Thread Pools;
+33. [An Example: Timer vs ScheduledThreadPool](doc/multithreading/chapter_33.md "An Example: Timer vs ScheduledThreadPool") - 
+    An Example: Timer vs ScheduledThreadPool;
+34. [Callable Interface](doc/multithreading/chapter_34.md "Callable Interface") - Callable Interface;
+35. [Future Interface](doc/multithreading/chapter_35.md "Future Interface") - Future Interface;
+36. [CompletionService Interface](doc/multithreading/chapter_36.md "CompletionService Interface") - 
+    CompletionService Interface;
+38. [ThreadLocal](doc/multithreading/chapter_37.md "ThreadLocal") - ThreadLocal;
+39. [CountDownLatch](doc/multithreading/chapter_38.md "CountDownLatch") - CountDownLatch;
+40. [CyclicBarrier](doc/multithreading/chapter_39.md "CyclicBarrier") - CyclicBarrier;
+41. [Concurrent Collections](doc/multithreading/chapter_40.md "Concurrent Collections") - Concurrent Collections;
 
 ## Java Collections
 
