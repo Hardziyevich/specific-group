@@ -12,7 +12,7 @@ As a start point, let's address to:
 
 In this module the following topics will be described:
 
-* Basics:
+* Basics of Java Programming:
 [Introduction](java-programming/doc/basics/chapter_1.md "Introduction"),
 [First Java Program](java-programming/doc/basics/chapter_2.md "First Java Program"),
 [Printing to the screen](java-programming/doc/basics/chapter_3.md "Printing to the screen"),
@@ -36,7 +36,7 @@ In this module the following topics will be described:
 [What is Data Hiding?](java-programming/doc/oop/chapter_8.md "What is Data Hiding?"),
 [Encapsulation](java-programming/doc/oop/chapter_9.md "Encapsulation"),
 [Understanding Encapsulation Using Examples](java-programming/doc/oop/chapter_10.md 
-  "Understanding Encapsulation Using Examples"),
+    "Understanding Encapsulation Using Examples"),
 [What is Inheritance?](java-programming/doc/oop/chapter_11.md "What is Inheritance?"),
 [The Syntax and Terminologies](java-programming/doc/oop/chapter_12.md "The Syntax and Terminologies"),
 [Super Keyword](java-programming/doc/oop/chapter_13.md "Super Keyword"),
@@ -84,6 +84,53 @@ In this module the following topics will be described:
 [Insert Values in a Binary Search Tree](java-programming/doc/recursion/chapter_18.md "Insert Values in a Binary Search Tree"),
 [Depth First Search in Graphs](java-programming/doc/recursion/chapter_19.md "Depth First Search in Graphs"),
 [Topological Sort in Graphs](java-programming/doc/recursion/chapter_20.md "Topological Sort in Graphs").
+
+* Java Multithreading:
+[Introduction](java-programming/doc/multithreading/chapter_1.md "Introduction"),
+[Program vs Process vs Thread](java-programming/doc/multithreading/chapter_2.md "Program vs Process vs Thread"),
+[Concurrency vs Parallelism](java-programming/doc/multithreading/chapter_3.md "Concurrency vs Parallelism"),
+[Cooperative Multitasking vs Preemptive Multitasking](java-programming/doc/multithreading/chapter_4.md ""),
+[Synchronous vs Asynchronous](java-programming/doc/multithreading/chapter_5.md "Synchronous vs Asynchronous"),
+[I/O Bound vs CPU Bound](java-programming/doc/multithreading/chapter_6.md "I/O Bound vs CPU Bound"),
+[Throughput vs Latency](java-programming/doc/multithreading/chapter_7.md "Throughput vs Latency"),
+[Critical Sections & Race Conditions](java-programming/doc/multithreading/chapter_8.md 
+    "Critical Sections & Race Conditions"),
+[Deadlocks, Liveness & Reentrant Locks](java-programming/doc/multithreading/chapter_9.md 
+    "Deadlocks, Liveness & Reentrant Locks"),
+[Mutex vs Semaphore](java-programming/doc/multithreading/chapter_10.md "Mutex vs Semaphore"),
+[Mutex vs Monitor](java-programming/doc/multithreading/chapter_11.md "Mutex vs Monitor"),
+[Java's Monitor & Hoare vs Mesa Monitors](java-programming/doc/multithreading/chapter_12.md 
+    "Java's Monitor & Hoare vs Mesa Monitors"),
+[Semaphore vs Monitor](java-programming/doc/multithreading/chapter_13.md "Semaphore vs Monitor"),
+[Amdahl's Law](java-programming/doc/multithreading/chapter_14.md "Amdahl's Law"),
+[Moore's Law](java-programming/doc/multithreading/chapter_15.md "Moore's Law"),
+[Thready Safety & Synchronized](java-programming/doc/multithreading/chapter_16.md "Thready Safety & Synchronized"),
+[Wait & Notify](java-programming/doc/multithreading/chapter_17.md "Wait & Notify"),
+[Interrupting Threads](java-programming/doc/multithreading/chapter_18.md "Interrupting Threads"),
+[Volatile](java-programming/doc/multithreading/chapter_19.md "Volatile"),
+[Reentrant Locks & Condition Variables](java-programming/doc/multithreading/chapter_20.md 
+    "Reentrant Locks & Condition Variables"),
+[Missed Signals](java-programming/doc/multithreading/chapter_21.md "Missed Signals"),
+[Semaphore in Java](java-programming/doc/multithreading/chapter_22.md "Semaphore in Java"),
+[Spurious Wakeups](java-programming/doc/multithreading/chapter_23.md "Spurious Wakeups"),
+[Java Memory Model](java-programming/doc/multithreading/chapter_24.md "Java Memory Model"),
+[Reordering Effects](java-programming/doc/multithreading/chapter_25.md "Reordering Effects"),
+[The happens-before Relationship](java-programming/doc/multithreading/chapter_26.md "The happens-before Relationship"),
+[Setting-up Threads](java-programming/doc/multithreading/chapter_27.md "Setting-up Threads"),
+[Basic Thread Handling](java-programming/doc/multithreading/chapter_28.md "Basic Thread Handling"),
+[Executor Framework](java-programming/doc/multithreading/chapter_29.md "Executor Framework"),
+[Executor Implementations](java-programming/doc/multithreading/chapter_30.md "Executor Implementations"),
+[Thread Pools](java-programming/doc/multithreading/chapter_31.md "Thread Pools"),
+[Types of Thread Pools](java-programming/doc/multithreading/chapter_32.md "Types of Thread Pools"),
+[An Example: Timer vs ScheduledThreadPool](java-programming/doc/multithreading/chapter_33.md 
+    "An Example: Timer vs ScheduledThreadPool"),
+[Callable Interface](java-programming/doc/multithreading/chapter_34.md "Callable Interface"),
+[Future Interface](java-programming/doc/multithreading/chapter_35.md "Future Interface"),
+[CompletionService Interface](java-programming/doc/multithreading/chapter_36.md "CompletionService Interface"),
+[ThreadLocal](java-programming/doc/multithreading/chapter_37.md "ThreadLocal"),
+[CountDownLatch](java-programming/doc/multithreading/chapter_38.md "CountDownLatch"),
+[CyclicBarrier](java-programming/doc/multithreading/chapter_39.md "CyclicBarrier"),
+[Concurrent Collections](java-programming/doc/multithreading/chapter_40.md "Concurrent Collections").
 
 ## [Design Patterns](design-patterns/README.md "The design patterns chapter")
 

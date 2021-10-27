@@ -153,7 +153,8 @@ Chapters:
 1. [Introduction](doc/multithreading/chapter_1.md "Introduction") - Introduction;
 2. [Program vs Process vs Thread](doc/multithreading/chapter_2.md "Program vs Process vs Thread") - Program vs Process vs Thread;
 3. [Concurrency vs Parallelism](doc/multithreading/chapter_3.md "Concurrency vs Parallelism") - Concurrency vs Parallelism;
-4. [Cooperative Multitasking vs Preemptive Multitasking](doc/multithreading/chapter_4.md "") - 
+4. [Cooperative Multitasking vs Preemptive Multitasking](doc/multithreading/chapter_4.md 
+   "Cooperative Multitasking vs Preemptive Multitasking") - 
    Cooperative Multitasking vs Preemptive Multitasking;
 5. [Synchronous vs Asynchronous](doc/multithreading/chapter_5.md "Synchronous vs Asynchronous") - Synchronous vs Asynchronous;
 6. [I/O Bound vs CPU Bound](doc/multithreading/chapter_6.md "I/O Bound vs CPU Bound") - I/O Bound vs CPU Bound;
