@@ -198,7 +198,7 @@ Chapters:
 37. [ThreadLocal](doc/multithreading/chapter_37.md "ThreadLocal") - ThreadLocal;
 38. [CountDownLatch](doc/multithreading/chapter_38.md "CountDownLatch") - CountDownLatch;
 39. [CyclicBarrier](doc/multithreading/chapter_39.md "CyclicBarrier") - CyclicBarrier;
-40. [Concurrent Collections](doc/multithreading/chapter_40.md "Concurrent Collections") - Concurrent Collections;
+40. [Concurrent Collections](doc/multithreading/chapter_40.md "Concurrent Collections") - Concurrent Collections.
 
 ## Java Collections
 
