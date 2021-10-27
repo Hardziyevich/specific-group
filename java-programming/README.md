@@ -195,10 +195,10 @@ Chapters:
 35. [Future Interface](doc/multithreading/chapter_35.md "Future Interface") - Future Interface;
 36. [CompletionService Interface](doc/multithreading/chapter_36.md "CompletionService Interface") - 
     CompletionService Interface;
-38. [ThreadLocal](doc/multithreading/chapter_37.md "ThreadLocal") - ThreadLocal;
-39. [CountDownLatch](doc/multithreading/chapter_38.md "CountDownLatch") - CountDownLatch;
-40. [CyclicBarrier](doc/multithreading/chapter_39.md "CyclicBarrier") - CyclicBarrier;
-41. [Concurrent Collections](doc/multithreading/chapter_40.md "Concurrent Collections") - Concurrent Collections;
+37. [ThreadLocal](doc/multithreading/chapter_37.md "ThreadLocal") - ThreadLocal;
+38. [CountDownLatch](doc/multithreading/chapter_38.md "CountDownLatch") - CountDownLatch;
+39. [CyclicBarrier](doc/multithreading/chapter_39.md "CyclicBarrier") - CyclicBarrier;
+40. [Concurrent Collections](doc/multithreading/chapter_40.md "Concurrent Collections") - Concurrent Collections;
 
 ## Java Collections
 
