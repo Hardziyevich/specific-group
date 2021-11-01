@@ -218,7 +218,78 @@ Module Objectives:
 - Learn how to choose the right collection for your Java program.
 
 Chapters:
-TODO:
+1. [Introduction to Collection](doc/collections/chapter_1.md "Introduction to Collection") - Introduction to Collection;
+2. [ArrayList: Introduction](doc/collections/chapter_2.md "ArrayList: Introduction") - ArrayList: Introduction;
+3. [ArrayList: Inserting and Retrieving Elements](doc/collections/chapter_3.md "ArrayList: Inserting and Retrieving Elements") - 
+   ArrayList: Inserting and Retrieving Elements;
+4. [ArrayList: Few More Operations](doc/collections/chapter_4.md "ArrayList: Few More Operations") - 
+   ArrayList: Few More Operations;
+5. [ArrayList: Iteration](doc/collections/chapter_5.md "ArrayList: Iteration") - ArrayList: Iteration;
+6. [ArrayList: Iteration using ListIterator](doc/collections/chapter_6.md "ArrayList: Iteration using ListIterator") - 
+   ArrayList: Iteration using ListIterator;
+7. [ArrayList Sorting](doc/collections/chapter_7.md "ArrayList Sorting") - ArrayList Sorting;
+8. [Understanding Comparable Interface](doc/collections/chapter_8.md "Understanding Comparable Interface") - 
+   Understanding Comparable Interface;
+9. [Understanding Comparator Interface](doc/collections/chapter_9.md "Understanding Comparator Interface") - 
+    Understanding Comparator Interface;
+10. [LinkedList: Introduction](doc/collections/chapter_10.md "LinkedList: Introduction") - LinkedList: Introduction;
+11. [LinkedList: Fetching and Removing](doc/collections/chapter_11.md "LinkedList: Fetching and Removing") - 
+    LinkedList: Fetching and Removing;
+12. [CopyOnWriteArrayList: Introduction](doc/collections/chapter_12.md "CopyOnWriteArrayList: Introduction") - 
+    CopyOnWriteArrayList: Introduction;
+13. [CopyOnWriteArrayList: Internal Working](doc/collections/chapter_13.md "CopyOnWriteArrayList: Internal Working") - 
+    CopyOnWriteArrayList: Internal Working;
+14. [CopyOnWriteArrayList: Iteration](doc/collections/chapter_14.md "CopyOnWriteArrayList: Iteration") - 
+    CopyOnWriteArrayList: Iteration;
+15. [HashSet: Creation and Insertion](doc/collections/chapter_15.md "HashSet: Creation and Insertion") - 
+    HashSet: Creation and Insertion;
+16. [HashSet: Additional Operations](doc/collections/chapter_16.md "HashSet: Additional Operations") - 
+    HashSet: Additional Operations;
+17. [HashSet: Iteration and Sorting](doc/collections/chapter_17.md "HashSet: Iteration and Sorting") - 
+    HashSet: Iteration and Sorting;
+18. [TreeSet: Creation and Insertion](doc/collections/chapter_18.md "TreeSet: Creation and Insertion") - 
+    TreeSet: Creation and Insertion;
+19. [TreeSet: Fetching and Removal](doc/collections/chapter_19.md "TreeSet: Fetching and Removal") - 
+    TreeSet: Fetching and Removal;
+20. [HashMap: Creation and Insertion](doc/collections/chapter_20.md "HashMap: Creation and Insertion") - 
+    HashMap: Creation and Insertion;
+21. [HashMap: Updation and Removal](doc/collections/chapter_21.md "HashMap: Updation and Removal") - 
+    HashMap: Updation and Removal;
+22. [HashMap: A Few More Operations](doc/collections/chapter_22.md "HashMap: A Few More Operations") - 
+    HashMap: A Few More Operations;
+23. [HashMap: Java 8 Improvements](doc/collections/chapter_23.md "HashMap: Java 8 Improvements") - 
+    HashMap: Java 8 Improvements;
+24. [HashMap: Internal Implementation](doc/collections/chapter_24.md "HashMap: Internal Implementation") - 
+    HashMap: Internal Implementation;
+25. [HashMap: How to Design a Good Key](doc/collections/chapter_25.md "HashMap: How to Design a Good Key") - 
+    HashMap: How to Design a Good Key;
+26. [HashMap: Iteration](doc/collections/chapter_26.md "HashMap: Iteration") - HashMap: Iteration;
+27. [TreeMap: Creation and Insertion](doc/collections/chapter_27.md "TreeMap: Creation and Insertion") - 
+    TreeMap: Creation and Insertion;
+28. [TreeMap: Fetching and Removal](doc/collections/chapter_28.md "TreeMap: Fetching and Removal") - 
+    TreeMap: Fetching and Removal;
+29. [TreeMap: Sorting a TreeMap by Values](doc/collections/chapter_29.md "TreeMap: Sorting a TreeMap by Values") - 
+    TreeMap: Sorting a TreeMap by Values;
+30. [HashMap Sorting](doc/collections/chapter_30.md "HashMap Sorting") - HashMap Sorting;
+31. [LinkedHashMap: Introduction](doc/collections/chapter_31.md "LinkedHashMap: Introduction") - 
+    LinkedHashMap: Introduction;
+32. [LinkedHashMap: Internal Working](doc/collections/chapter_32.md "LinkedHashMap: Internal Working") - 
+    LinkedHashMap: Internal Working;
+33. [ConcurrentHashMap](doc/collections/chapter_33.md "ConcurrentHashMap") - ConcurrentHashMap;
+34. [IdentityHashMap](doc/collections/chapter_34.md "IdentityHashMap") - IdentityHashMap;
+35. [EnumMap](doc/collections/chapter_35.md "EnumMap") - EnumMap;
+36. [Searching an Array](doc/collections/chapter_36.md "Searching an Array") - Searching an Array;
+37. [Sorting an Array](doc/collections/chapter_37.md "Sorting an Array") - Sorting an Array;
+38. [Copying an Array](doc/collections/chapter_38.md "Copying an Array") - Copying an Array;
+39. [Additional Operations](doc/collections/chapter_39.md "Additional Operations") - Additional Operations;
+40. [Finding the Min and Max element](doc/collections/chapter_40.md "Finding the Min and Max element") - 
+    Finding the Min and Max element;
+41. [Searching, Filing, and Copying Collection](doc/collections/chapter_41.md "Searching, Filing, and Copying Collection") - 
+    Searching, Filing, and Copying Collection;
+42. [Making Collections Unmodifiable](doc/collections/chapter_42.md "Making Collections Unmodifiable") - 
+    Making Collections Unmodifiable;
+43. [Making Collections thread-safe](doc/collections/chapter_43.md "Making Collections thread-safe") - 
+    Making Collections thread-safe.
 
 ## Features
 
@@ -231,7 +302,53 @@ Module Objectives
 - Learn about Java 8's concurrency features.
 
 Chapters:
-TODO:
+1. [About This Module](doc/features/chapter_1.md "About This Module") - About This Module;
+2. [Writing your first lambda](doc/features/chapter_2.md "Writing your first lambda") - Writing your first lambda;
+3. [Java Comparator Using Lambda](doc/features/chapter_3.md "Java Comparator Using Lambda") - Java Comparator Using Lambda;
+4. [Predicate Functional Interface](doc/features/chapter_4.md "Predicate Functional Interface") - 
+   Predicate Functional Interface;
+5. [Supplier Functional Interface](doc/features/chapter_5.md "Supplier Functional Interface") - Supplier Functional Interface;
+6. [Consumer Functional Interface](doc/features/chapter_6.md "Consumer Functional Interface") - Consumer Functional Interface;
+7. [Function Interface](doc/features/chapter_7.md "Function Interface") - Function Interface;
+8. [Unary Operator](doc/features/chapter_8.md "Unary Operator") - Unary Operator;
+9. [Binary operator](doc/features/chapter_9.md "Binary operator") - Binary operator;
+10. [Capturing lambdas](doc/features/chapter_10.md "Capturing lambdas") - Capturing lambdas;
+11. [Introduction](doc/features/chapter_11.md "Introduction") - Introduction;
+12. [Filtering Operations in Stream](doc/features/chapter_12.md "Filtering Operations in Stream") - 
+    Filtering Operations in Stream;
+13. [Mapping Operations in Stream](doc/features/chapter_13.md "Mapping Operations in Stream") - Mapping Operations in Stream;
+14. [Method References](doc/features/chapter_14.md "Method References") - Method References;
+15. [Optional in Java 8: Part 1](doc/features/chapter_15.md "Optional in Java 8: Part 1") - Optional in Java 8: Part 1;
+16. [Optional in Java 8: Part 2](doc/features/chapter_16.md "Optional in Java 8: Part 2") - Optional in Java 8: Part 2;
+17. [Slicing Operations in Stream](doc/features/chapter_17.md "Slicing Operations in Stream") - Slicing Operations in Stream;
+18. [Matching Operations in Stream](doc/features/chapter_18.md "Matching Operations in Stream") - Matching Operations in Stream;
+19. [Finding Operations in Stream](doc/features/chapter_19.md "Finding Operations in Stream") - Finding Operations in Stream;
+20. [Mutable Reduction Through reduce()](doc/features/chapter_20.md "Mutable Reduction Through reduce()") - 
+    Mutable Reduction Through reduce();
+21. [Collectors: Collection Operations](doc/features/chapter_21.md "Collectors: Collection Operations") - 
+    Collectors: Collection Operations;
+22. [Collectors: Aggregation Operations](doc/features/chapter_22.md "Collectors: Aggregation Operations") - 
+    Collectors: Aggregation Operations;
+23. [Collectors: Grouping Operations](doc/features/chapter_23.md "Collectors: Grouping Operations") - 
+    Collectors: Grouping Operations;
+24. [Parallel Stream](doc/features/chapter_24.md "Parallel Stream") - Parallel Stream;
+25. [Lazy Evaluation in Streams](doc/features/chapter_25.md "Lazy Evaluation in Streams") - Lazy Evaluation in Streams;
+26. [CompletableFuture: Introduction](doc/features/chapter_26.md "CompletableFuture: Introduction") - 
+    CompletableFuture: Introduction;
+27. [CompletableFuture: Processing Results](doc/features/chapter_27.md "CompletableFuture: Processing Results") - 
+    CompletableFuture: Processing Results;
+28. [CompletableFuture: Chaining](doc/features/chapter_28.md "CompletableFuture: Chaining") - CompletableFuture: Chaining;
+29. [CompletableFuture: Combining Results of Futures](doc/features/chapter_29.md "CompletableFuture: Combining Results of Futures") - 
+    CompletableFuture: Combining Results of Futures;
+30. [StampedLock](doc/features/chapter_30.md "StampedLock") - StampedLock;
+31. [Limitations of Old Date/Time API](doc/features/chapter_31.md "Limitations of Old Date/Time API") - 
+    Limitations of Old Date/Time API;
+32. [LocalDate](doc/features/chapter_32.md "LocalDate") - LocalDate;
+33. [LocalTime](doc/features/chapter_33.md "LocalTime") - LocalTime;
+34. [LocalDateTime](doc/features/chapter_34.md "LocalDateTime") - LocalDateTime;
+35. [ZonedDateTime](doc/features/chapter_35.md "ZonedDateTime") - ZonedDateTime;
+36. [Period and Duration](doc/features/chapter_36.md "Period and Duration") - Period and Duration;
+37. [Where to Go From Here](doc/features/chapter_37.md "Where to Go From Here") - Where to Go From Here.
 
 ## Clean Code
 
