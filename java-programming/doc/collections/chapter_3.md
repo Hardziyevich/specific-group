@@ -1,0 +1,17 @@
+# ArrayList: Inserting and Retrieving Elements
+
+Intention: Let's see how we insert and retrieve elements from an ArrayList.
+
+TODO:
+
+![alt text](../../etc/collections/img.png "Img")
+
+```java
+
+```
+
+<hr>
+
+Next: [ArrayList: Few More Operations](chapter_4.md "ArrayList: Few More Operations") - ArrayList: Few More Operations.
+
+Previous: [ArrayList: Introduction](chapter_2.md "ArrayList: Introduction") - ArrayList: Introduction.
