@@ -13,7 +13,7 @@ the immediate Subclass. The use of super comes into play when we implement inher
 
 The super keyword is used in three major contexts:
 
-# Accessing Parent Class Fields
+## Accessing Parent Class Fields
 
 Consider the fields named as fuelCap defined inside a Vehicle class to keep track of the fuel capacity of a vehicle. 
 Another class named as Car extends from this Vehicle class. We declare a field inside the Car class with the same name i.e. 
@@ -26,7 +26,7 @@ Let’s understand this using a bit of code.
 
 ```
 
-# Calling a Parent Class Method
+## Calling a Parent Class Method
 
 Just like the fields, super is also used with the methods. Whenever a SuperClass and the immediate SubClass have any 
 methods with the same name we use super to access the methods from the SuperClass inside the SubClass. 
@@ -36,7 +36,7 @@ Let’s go through an example:
 
 ```
 
-# Using with Constructors
+## Using with Constructors
 
 Another very important use of the keyword super is to call the constructor of the SuperClass from inside of 
 the constructor of the SubClass.

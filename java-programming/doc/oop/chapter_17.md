@@ -18,7 +18,7 @@ the area for the respective shape.
 
 We will be implementing the Base class and the Derived classes respectively.
 
-# Shape Class
+## Shape Class
 
 The Shape class has only one public method called getArea().
 
@@ -28,7 +28,7 @@ Let’s look at the implementation of the Shape class:
 
 ```
 
-# Rectangle Class
+## Rectangle Class
 
 Now, consider the Rectangle class which is extended from the Shape class. It has two data members, i.e., width and 
 height and it returns the Area of the rectangle by using the getArea() method.
@@ -39,7 +39,7 @@ Let’s look at the implementation of the Rectangle class:
 
 ```
 
-# Circle Class
+## Circle Class
 
 Now, consider the Circle class which is extended from the Shape class. It has only one data member, i.e., 
 radius and it returns the Area of the circle by using the getArea() method.
@@ -50,7 +50,7 @@ Let’s look at the implementation of the Circle class:
 
 ```
 
-# Complete Program
+## Complete Program
 
 Now, by merging all the classes and calling the getArea() method, see what happens:
 
@@ -58,7 +58,7 @@ Now, by merging all the classes and calling the getArea() method, see what happe
 
 ```
 
-Program Execution
+# Program Execution
 
 In the main function, we have declared a Shape class array of size 2 and declared the Circle and the Rectangle class 
 objects at index 0 and 1 respectively. Now the getArea() method returns the area of the respective shape. 

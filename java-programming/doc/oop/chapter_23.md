@@ -6,7 +6,7 @@ Intention: In this chapter, you'll get to know about the abstract classes and me
 
 A method with the keyword abstract in its declaration is known as an abstract method.
 
-# Rules to be Followed
+## Rules to be Followed
 
 - In contrast to a concrete/normal Java method an abstract method does not have a body/definition i.e. it only has 
 a declaration or method signature inside an abstract class or an interface (more on these later).
@@ -15,7 +15,7 @@ a declaration or method signature inside an abstract class or an interface (more
 as an abstract class because non-abstract classes cannot have abstract methods.
 - An abstract method cannot be declared private as it has to be implemented in some other class.
 
-# Declaration
+## Declaration
 
 Now moving on to the syntax part, syntactically, the generalized declaration of an abstract method is as follows:
 
@@ -41,7 +41,7 @@ Well, the upcoming topics will address the above question.
 
 An abstract class is a class which is declared using the keyword abstract.
 
-# Rules to be Followed
+## Rules to be Followed
 
 - An abstract class cannot be instantiated i.e. one cannot create an object of an abstract class.
 - An abstract class can have the declaration of abstract method(s) (as an abstract method’s body cannot be implemented 
@@ -51,7 +51,7 @@ in an abstract class) but it is not compulsory to have any.
 - The class which inherits from the abstract class must implement all the abstract methods declared in the parent abstract class.
 - An abstract class can have everything else as same as a normal Java class has i.e. constructor, static variables and methods.
 
-# Declaration
+## Declaration
 
 Talking about the syntax, the declaration of an abstract class in Java is as follows:
 
@@ -59,7 +59,7 @@ Talking about the syntax, the declaration of an abstract class in Java is as fol
 
 ```
 
-# Implementation
+## Implementation
 
 Abstraction has already been discussed in the previous lesson. Abstract classes are used to achieve abstraction in Java.
 
