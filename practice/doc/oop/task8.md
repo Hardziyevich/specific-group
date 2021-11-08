@@ -61,3 +61,15 @@ obj.divide()
 ## Answers
 
 Answer questions to a mentor in English.
+
+## Theory chapters
+
+1. [Introduction](../../../java-programming/doc/oop/chapter_1.md "Introduction to Classes") - Introduction to Classes;
+2. [Declaration and Implementation](../../../java-programming/doc/oop/chapter_2.md "Declaration and Implementation") - 
+   Declaration and Implementation;
+3. [Access Modifiers](../../../java-programming/doc/oop/chapter_3.md "Access Modifiers") - Access Modifiers;
+4. [Fields](../../../java-programming/doc/oop/chapter_4.md "Fields") - Fields;
+5. [Methods](../../../java-programming/doc/oop/chapter_5.md "Methods") - Methods;
+6. [Constructors](../../../java-programming/doc/oop/chapter_6.md "Constructors") - Constructors;
+7. [A Bit More about Constructors](../../../java-programming/doc/oop/chapter_7.md "A Bit More about Constructors") -
+   A Bit More about Constructors.
