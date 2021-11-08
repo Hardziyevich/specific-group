@@ -12,6 +12,8 @@ Learning Objectives:
 - Gain a mastery of multithreading and concurrency concepts;
 - Learn to write effective unit tests with JUnit 5.
 
+Approximated efforts (theory + practice): 48 hours.
+
 ## Basics of Java Programming
 
 The module describes Java syntax and shows code examples. Cover static methods, variables, strings, arrays, and loops.

@@ -2,6 +2,8 @@
 
 This is the practice module where the solution should be written. Every solution must be accompanied by unit tests and documentation. 
 
+Approximated efforts (theory + practice): 206 hours.
+
 ## Tasks
 
 Each task must be done within its own package. The whole task list is:

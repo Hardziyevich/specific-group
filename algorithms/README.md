@@ -4,6 +4,8 @@ In mathematics and computer science, an algorithm is a finite sequence of well-d
 instructions, typically to solve a class of problems or to perform a computation. Algorithms are always unambiguous and 
 are used as specifications for performing calculations, data processing, automated reasoning, and other tasks.
 
+Approximated efforts (theory + practice): 12 hours.
+
 ## Content
 
 As a start point, let's address to [Big-O Notation](doc/big-o-notation.md "Big-O Notation").

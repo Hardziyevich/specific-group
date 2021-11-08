@@ -12,6 +12,8 @@ All designs should be as simple as possible. You should start with KISS, YAGNI, 
 Could Possibly Work principles. Complexity and patterns should only be introduced when they are needed for 
 practical extensibility.
 
+Approximated efforts (theory + practice): 18 hours.
+
 ## Content
 
 In this module the following design patterns will be described:
