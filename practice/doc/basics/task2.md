@@ -21,3 +21,9 @@ of the code by running it. A few things to note:
 2. Write a meaningful message with a commit and push the code;
 3. Add comments where they are needed;
 4. Show the result to a mentor.
+
+## Theory chapters
+
+1. [Introduction](../../../java-programming/doc/basics/chapter_1.md "Introduction") - Introduction;
+2. [First Java Program](../../../java-programming/doc/basics/chapter_2.md "First Java Program") - A First Java Program;
+3. [Printing to the screen](../../../java-programming/doc/basics/chapter_3.md "Printing to the screen") - Printing to the screen.

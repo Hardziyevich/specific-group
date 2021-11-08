@@ -23,3 +23,11 @@ Notice from the sample solution that you can declare multiple variables of the s
 ## Answers
 
 Answer a question to a mentor in English.
+
+## Theory chapters
+
+1. [Introduction](../../../java-programming/doc/basics/chapter_1.md "Introduction") - Introduction;
+2. [First Java Program](../../../java-programming/doc/basics/chapter_2.md "First Java Program") - A First Java Program;
+3. [Printing to the screen](../../../java-programming/doc/basics/chapter_3.md "Printing to the screen") - Printing to the screen;
+4. [Variables; integer values with 'int'](../../../java-programming/doc/basics/chapter_4.md "Variables; integer values with 'int'") -
+   Variables; integer values with 'int'.
