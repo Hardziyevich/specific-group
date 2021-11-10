@@ -10,6 +10,10 @@ public final class CoinFlip {
 
         // pick a random number between 0 and 1:
         int n = rand.nextInt(2);
+        if(n == 0)
+            System.out.println("Heads");
+        else
+            System.out.println("Tails");
         System.out.println("Picked random value " + n);
 
     }
