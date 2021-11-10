@@ -4,7 +4,7 @@ public final class EvenInRange {
 
     public static boolean evenInRange(final int x) {
         // you write this part (a one-line return statement)
-        return false;
+        return x >= 24 && x <= 32;
     }
 
     public static void main(final String[] args) {
