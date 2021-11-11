@@ -38,11 +38,13 @@ public class Car extends Vehicle {
     // This function calls the Base class functions and append the result with input
     public String getDetails() {
         //
-        return "";
+        return name + ", " + getModel() + ", " + getSpeed();
     }
 
     public static void main(final String[] args) {
         final Car car = new Car();
         //
+        car.name = "Roadster";
+        System.out.println(car.getDetails());
     }
 }
