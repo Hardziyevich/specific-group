@@ -26,8 +26,7 @@ class XShape extends Shape {
     // Overridden Method
     public String getName() {
         // write your code here
-
-        return this.name;
+        return super.getName() + ", " + this.name;
     }
 }
 
@@ -36,5 +35,6 @@ public final class Demo {
     public static void main(final String[] args) {
         final Shape circle = new XShape("Circle");
         //
+        System.out.println(circle.getName());;
     }
 }
