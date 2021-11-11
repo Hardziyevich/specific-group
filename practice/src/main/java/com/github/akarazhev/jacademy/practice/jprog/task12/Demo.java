@@ -29,7 +29,7 @@ class MyBook extends Book {
     // Overriding the getDetails Abstract Method of the Base Class
     public String getDetails() {
         // Write your code here
-        return "";
+        return String.format("%s, %s, %s",name,author,price);
     }
 }
 
@@ -38,5 +38,6 @@ public final class Demo {
     public static void main(final String[] args) {
         final Book myBook = new MyBook("Harry Potter", "J.k. Rowling", "100");
         //
+        System.out.println(myBook.getDetails());
     }
 }
