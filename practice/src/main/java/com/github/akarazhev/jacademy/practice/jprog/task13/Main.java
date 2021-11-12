@@ -24,6 +24,7 @@ class Driver {
     private final String driverName;
     private Vehicle vehicle;
 
+    //removed constructor without vehicle
     public Driver(String driverName, Vehicle vehicle) {
         this.driverName = driverName;
         this.vehicle = vehicle;
@@ -44,6 +45,7 @@ class Driver {
 
 public class Main {
 
+    //added vehicle into driver
     public static void main(final String[] args) {
         // Write your code here
         Vehicle vehicle = new Vehicle(4453, "Volvo s60");

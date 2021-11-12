@@ -37,7 +37,7 @@ public final class Demo {
 
     public static void main(final String[] args) {
         final Book myBook = new MyBook("Harry Potter", "J.k. Rowling", "100");
-        //
+        //removed ;
         System.out.println(myBook.getDetails());
     }
 }

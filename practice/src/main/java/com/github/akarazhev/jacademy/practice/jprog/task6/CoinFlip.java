@@ -9,6 +9,7 @@ public final class CoinFlip {
         Random rand = new Random();
 
         // pick a random number between 0 and 1:
+        //added bracket
         int n = rand.nextInt(2);
         if (n == 0) {
             System.out.println("Heads");
