@@ -2,9 +2,17 @@ package com.github.akarazhev.jacademy.practice.jprog.task15;
 
 public final class Solution {
 
+    //Method is working and finding the Greatest Common Divisor.
     public static int gcd(int num1, int num2) {
         // Write your code here
-        return 0;
+        //Base case
+        if (num1 == num2) {
+            return num1;
+        } else if (num1 > num2) {
+            return gcd(num1 - num2, num2);
+        } else {
+            return gcd(num2 - num1, num1);
+        }
     }
 
     public static void main(final String[] args) {
