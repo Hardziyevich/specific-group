@@ -2,8 +2,25 @@ package com.github.akarazhev.jacademy.practice.jprog.task17;
 
 public final class Solution {
 
+    //Method is working and sorting input array using recursion.
     public static void sortArray(int[] array, int n) {
         // Write your code here
+        //Base case
+        if (n >= 0) {
+            for (int i = n; i < array.length - 1; i++) {
+                if (array[i] > array[i + 1])
+                    swap(array, i, i + 1);
+            }
+            //Recursion case
+            sortArray(array, n - 1);
+        }
+    }
+
+    //swap two element in massive
+    private static void swap(int[] array, int i, int j) {
+        int temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
     }
 
     public static void main(final String[] args) {

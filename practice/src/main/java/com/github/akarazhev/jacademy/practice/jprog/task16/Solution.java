@@ -19,7 +19,7 @@ public class Solution {
     }
 
     //swap two element in massive
-    public static void swap(char[] array, int i, int j) {
+    private static void swap(char[] array, int i, int j) {
         char temp = array[i];
         array[i] = array[j];
         array[j] = temp;
