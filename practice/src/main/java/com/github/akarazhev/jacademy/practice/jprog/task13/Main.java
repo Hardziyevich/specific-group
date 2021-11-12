@@ -24,10 +24,6 @@ class Driver {
     private final String driverName;
     private Vehicle vehicle;
 
-    public Driver(String driverName) {
-        this.driverName = driverName;
-    }
-
     public Driver(String driverName, Vehicle vehicle) {
         this.driverName = driverName;
         this.vehicle = vehicle;
@@ -51,8 +47,7 @@ public class Main {
     public static void main(final String[] args) {
         // Write your code here
         Vehicle vehicle = new Vehicle(4453, "Volvo s60");
-        Driver driver = new Driver("John");
-        driver.setVehicle(vehicle);
+        Driver driver = new Driver("John", vehicle);
         System.out.println(driver);
     }
 }
