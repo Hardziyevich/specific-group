@@ -28,7 +28,7 @@ final class Calculator {
 
     double divide() {
         // write definition here
-        return num2/num1;
+        return num2 / num1;
     }
 }
 
