@@ -35,6 +35,6 @@ public final class Demo {
     public static void main(final String[] args) {
         final Shape circle = new XShape("Circle");
         //
-        System.out.println(circle.getName());;
+        System.out.println(circle.getName());
     }
 }
