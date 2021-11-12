@@ -38,7 +38,7 @@ public class Car extends Vehicle {
     // This function calls the Base class functions and append the result with input
     public String getDetails() {
         //
-        return name + ", " + getModel() + ", " + getSpeed();
+        return name + ", " + super.getModel() + ", " + super.getSpeed();
     }
 
     public static void main(final String[] args) {
