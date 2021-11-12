@@ -12,6 +12,7 @@ public final class Solution {
         // Modify the return statement according to your code
         //Checking Base case
         if (head != null) {
+            //Recursive case
             return lengthOfList(head.getNext()) + 1;
         } else {
             return 0;

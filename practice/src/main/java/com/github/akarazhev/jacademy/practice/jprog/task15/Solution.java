@@ -9,8 +9,10 @@ public final class Solution {
         if (num1 == num2) {
             return num1;
         } else if (num1 > num2) {
+            //Recursive case
             return gcd(num1 - num2, num2);
         } else {
+            //Recursive case
             return gcd(num2 - num1, num1);
         }
     }
