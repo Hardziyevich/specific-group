@@ -2,7 +2,8 @@
 
 Intention: Let's see how we can fetch and remove elements from a TreeMap.
 
-Download the PDF file of the [chapter](chapter_28.pdf).
+Download the PDF file of the [chapter](chapter_28.pdf). Sources are available in the <b>src</b> directory. 
+Additional resource are located in the <b>etc</b> directory.
 
 <hr>
 

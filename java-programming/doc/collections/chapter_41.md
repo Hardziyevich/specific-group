@@ -2,7 +2,8 @@
 
 Intention: Let's discuss a few more operations available in the Collections class.
 
-Download the PDF file of the [chapter](chapter_41.pdf).
+Download the PDF file of the [chapter](chapter_41.pdf). Sources are available in the <b>src</b> directory. 
+Additional resource are located in the <b>etc</b> directory.
 
 <hr>
 

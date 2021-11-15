@@ -2,7 +2,8 @@
 
 Intention: Let's discuss how we can create a copy of an array using the copyOf() method.
 
-Download the PDF file of the [chapter](chapter_38.pdf).
+Download the PDF file of the [chapter](chapter_38.pdf). Sources are available in the <b>src</b> directory. 
+Additional resource are located in the <b>etc</b> directory.
 
 <hr>
 

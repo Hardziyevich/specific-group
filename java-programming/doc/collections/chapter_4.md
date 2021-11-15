@@ -2,7 +2,8 @@
 
 Intention: Let's discuss some more operations that can be done in an ArrayList.
 
-Download the PDF file of the [chapter](chapter_4.pdf).
+Download the PDF file of the [chapter](chapter_4.pdf). Sources are available in the <b>src</b> directory. 
+Additional resource are located in the <b>etc</b> directory.
 
 <hr>
 

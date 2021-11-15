@@ -2,7 +2,8 @@
 
 Intention: Let's see how we can iterate the elements of a HashMap.
 
-Download the PDF file of the [chapter](chapter_26.pdf).
+Download the PDF file of the [chapter](chapter_26.pdf). Sources are available in the <b>src</b> directory. 
+Additional resource are located in the <b>etc</b> directory.
 
 <hr>
 

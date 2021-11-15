@@ -2,7 +2,8 @@
 
 Intention: Let's see how we can sort an array using the sort() method of the Arrays class.
 
-Download the PDF file of the [chapter](chapter_37.pdf).
+Download the PDF file of the [chapter](chapter_37.pdf). Sources are available in the <b>src</b> directory. 
+Additional resource are located in the <b>etc</b> directory.
 
 <hr>
 
