@@ -2,13 +2,7 @@
 
 Intention: Let's discuss fetching and removal operations in TreeSet.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_19.pdf).
 
 <hr>
 

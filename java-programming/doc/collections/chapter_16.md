@@ -2,13 +2,7 @@
 
 Intention: Let's discuss some more operations that can be done on ArrayList.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_16.pdf).
 
 <hr>
 

@@ -2,13 +2,7 @@
 
 Intention: Let's discuss how to fetch and remove elements from LinkedList.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_11.pdf).
 
 <hr>
 

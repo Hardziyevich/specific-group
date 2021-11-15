@@ -2,13 +2,7 @@
 
 Intention: Let's see how ArrayList can be sorted.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_7.pdf).
 
 <hr>
 

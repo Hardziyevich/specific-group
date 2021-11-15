@@ -2,13 +2,7 @@
 
 Intention: Let's discuss HashSet creation and insertion.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_15.pdf).
 
 <hr>
 

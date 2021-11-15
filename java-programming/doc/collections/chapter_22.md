@@ -2,13 +2,7 @@
 
 Intention: Let's discuss some additional HashMap operations.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_22.pdf).
 
 <hr>
 

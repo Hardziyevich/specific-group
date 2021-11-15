@@ -2,13 +2,7 @@
 
 Intention: Let's see how we can iterate the elements of a HashMap.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_26.pdf).
 
 <hr>
 

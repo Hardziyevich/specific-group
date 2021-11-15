@@ -2,13 +2,7 @@
 
 Intention: Let's discuss the update and deletion operations in HashMap.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_21.pdf).
 
 <hr>
 

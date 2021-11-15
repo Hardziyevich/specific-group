@@ -2,13 +2,7 @@
 
 Intention: Let's see how LinkedList works in Java.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_10.pdf).
 
 <hr>
 

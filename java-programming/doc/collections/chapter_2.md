@@ -2,13 +2,7 @@
 
 Intention: Let's discuss how ArrayList works in Java.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_2.pdf).
 
 <hr>
 

@@ -2,13 +2,7 @@
 
 Intention: Let's discuss a thread-safe list called CopyOnWriteArrayList.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_12.pdf).
 
 <hr>
 

@@ -2,13 +2,7 @@
 
 Intention: Let's look at how to create a HashMap and insert elements into it.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_20.pdf).
 
 <hr>
 

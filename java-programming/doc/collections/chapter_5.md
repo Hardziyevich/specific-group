@@ -2,13 +2,7 @@
 
 Intention: Let's discuss how an ArrayList can be iterated.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_5.pdf).
 
 <hr>
 

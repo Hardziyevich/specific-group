@@ -2,13 +2,7 @@
 
 Intention: Let's look at how HashMap works internally.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_24.pdf).
 
 <hr>
 

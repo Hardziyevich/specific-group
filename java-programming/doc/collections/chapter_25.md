@@ -2,13 +2,7 @@
 
 Intention: Let's see how we can design a good HashMap key.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_25.pdf).
 
 <hr>
 

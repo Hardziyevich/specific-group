@@ -2,13 +2,7 @@
 
 Intention: Let's discuss how we can use the binarySearch() method to search an element in an array.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_36.pdf).
 
 <hr>
 

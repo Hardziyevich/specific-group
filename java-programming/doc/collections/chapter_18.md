@@ -2,13 +2,7 @@
 
 Intention: Let's look at TreeSet creation and insertion.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_18.pdf).
 
 <hr>
 

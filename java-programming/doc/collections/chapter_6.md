@@ -2,13 +2,7 @@
 
 Intention: Let's discuss how to iterate an ArrayList using a ListIterator.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_6.pdf).
 
 <hr>
 

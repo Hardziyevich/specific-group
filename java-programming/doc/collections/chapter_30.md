@@ -2,13 +2,7 @@
 
 Intention: Let's learn how to sort a HashMap by key and value.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_30.pdf).
 
 <hr>
 

@@ -2,13 +2,7 @@
 
 Intention: Let's discuss how we can create a copy of an array using the copyOf() method.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_38.pdf).
 
 <hr>
 

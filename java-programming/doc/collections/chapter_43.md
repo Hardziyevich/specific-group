@@ -2,13 +2,7 @@
 
 Intention: Let's discuss how collections can be made thread-safe.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_43.pdf).
 
 <hr>
 

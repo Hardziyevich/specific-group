@@ -2,13 +2,7 @@
 
 Intention: Let's discuss the internal workings of CopyOnWriteArrayList.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_13.pdf).
 
 <hr>
 

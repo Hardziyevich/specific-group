@@ -2,13 +2,7 @@
 
 Intention: Let's discuss how a collection can be made unmodifiable.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_42.pdf).
 
 <hr>
 

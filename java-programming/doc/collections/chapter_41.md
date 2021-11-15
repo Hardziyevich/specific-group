@@ -2,13 +2,7 @@
 
 Intention: Let's discuss a few more operations available in the Collections class.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_41.pdf).
 
 <hr>
 

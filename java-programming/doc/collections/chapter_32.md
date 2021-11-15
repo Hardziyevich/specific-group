@@ -2,13 +2,7 @@
 
 Intention: Take a look at the internal workings of LinkedHashMap.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_32.pdf).
 
 <hr>
 

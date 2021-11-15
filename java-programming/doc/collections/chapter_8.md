@@ -2,13 +2,7 @@
 
 Intention: Let's discuss Comparable Interface in Java.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_8.pdf).
 
 <hr>
 

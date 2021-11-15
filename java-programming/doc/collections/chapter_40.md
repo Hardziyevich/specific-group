@@ -2,13 +2,7 @@
 
 Intention: Let's look at how we can find the min and max elements in a Collection.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_40.pdf).
 
 <hr>
 

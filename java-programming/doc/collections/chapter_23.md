@@ -2,13 +2,7 @@
 
 Intention: Let's discuss the improvements made in the HashMap class in Java 8.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_23.pdf).
 
 <hr>
 

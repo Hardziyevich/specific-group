@@ -2,13 +2,7 @@
 
 Intention: Let's discuss how we can iterate over a CopyOnWriteArrayList.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_14.pdf).
 
 <hr>
 

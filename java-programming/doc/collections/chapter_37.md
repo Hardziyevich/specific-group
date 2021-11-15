@@ -2,13 +2,7 @@
 
 Intention: Let's see how we can sort an array using the sort() method of the Arrays class.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_37.pdf).
 
 <hr>
 

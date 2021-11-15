@@ -2,13 +2,7 @@
 
 Intention: Let's look at the creation and insertion of TreeMap.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_27.pdf).
 
 <hr>
 

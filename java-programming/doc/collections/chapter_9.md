@@ -2,13 +2,7 @@
 
 Intention: Let's discuss the working of Comparator Interface.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_9.pdf).
 
 <hr>
 
