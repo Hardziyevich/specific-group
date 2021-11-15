@@ -5,11 +5,23 @@ import com.github.akarazhev.jacademy.practice.jprog.task14.Node;
 
 public final class Solution {
 
+    //Method is working and finding a digit in LinkedList.
     public static boolean search(Node head, int num) {
         // Write your code here
         // Do not change the input parameters
-
-        return false;
+        //Base case
+        if(head != null){
+            //Base case
+            if(head.getValue() != num){
+                //Recursive case
+                return search(head.getNext(),num);
+            }
+            else {
+                return true;
+            }
+        } else {
+            return false;
+        }
     }
 
     public static void main(final String[] args) {
