@@ -3,13 +3,7 @@
 Intention: Blindly adding threads to speed up program execution may not always be a good idea. 
 Find out what Amdahl's Law says about parallelizing a program.
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_14.pdf).
 
 <hr>
 

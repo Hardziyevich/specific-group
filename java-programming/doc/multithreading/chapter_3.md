@@ -2,13 +2,7 @@
 
 Intention: This lesson clarifies the common misunderstandings and confusions around concurrency and parallelism.
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_3.pdf).
 
 <hr>
 

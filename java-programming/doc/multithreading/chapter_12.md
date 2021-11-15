@@ -3,13 +3,7 @@
 Intention: Continues the discussion of the differences between a mutex and a monitor and also looks at Java's 
 implementation of the monitor.
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_12.pdf).
 
 <hr>
 

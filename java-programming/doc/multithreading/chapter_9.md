@@ -3,13 +3,7 @@
 Intention: We discuss important concurrency concepts deadlock, liveness, live-lock, starvation and reentrant locks in depth. 
 Also included are executable code examples for illustrating these concepts.
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_9.pdf).
 
 <hr>
 

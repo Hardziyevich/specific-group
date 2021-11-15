@@ -2,13 +2,7 @@
 
 Intention: This lessons discusses throughput and latency in the context of concurrent systems.
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_7.pdf).
 
 <hr>
 

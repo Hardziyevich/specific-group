@@ -3,13 +3,7 @@
 Intention: This lesson details the reasons why threads exist and what benefit do they provide. 
 We also discuss the problems that come with threads.
 
-TODO:
-
-![alt text](../../etc/mutithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_1.pdf).
 
 <hr>
 

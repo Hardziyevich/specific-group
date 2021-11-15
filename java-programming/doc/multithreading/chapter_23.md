@@ -1,12 +1,6 @@
 # Spurious Wakeups
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_23.pdf).
 
 <hr>
 

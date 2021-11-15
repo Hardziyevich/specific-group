@@ -1,12 +1,6 @@
 # Semaphore in Java
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_22.pdf).
 
 <hr>
 

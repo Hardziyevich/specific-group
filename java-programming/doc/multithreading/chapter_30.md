@@ -1,12 +1,6 @@
 # Executor Implementations
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_30.pdf).
 
 <hr>
 

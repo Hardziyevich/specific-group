@@ -3,13 +3,7 @@
 Intention: We delve into the characteristics of programs with different resource-use profiles and how that can 
 affect program design choices.
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_6.pdf).
 
 <hr>
 

@@ -2,13 +2,7 @@
 
 Intention: This lesson continues the in-depth discussion of Java memory model.
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_26.pdf).
 
 <hr>
 

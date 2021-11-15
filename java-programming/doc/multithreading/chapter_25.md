@@ -3,13 +3,7 @@
 Intention: This lesson discusses the compiler, runtime or hardware optimizations that can cause reordering of 
 program instructions.
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_25.pdf).
 
 <hr>
 

@@ -2,13 +2,7 @@
 
 Intention: This lesson discusses thread management using executors.
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_29.pdf).
 
 <hr>
 

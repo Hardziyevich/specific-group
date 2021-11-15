@@ -2,13 +2,7 @@
 
 Intention: This lesson lays out the ground work for understanding the Java Memory Model.
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_24.pdf).
 
 <hr>
 

@@ -3,13 +3,7 @@
 Intention: This lesson discusses the differences between asynchronous and synchronous programming which are often 
 talked about in the context of concurrency.
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_5.pdf).
 
 <hr>
 

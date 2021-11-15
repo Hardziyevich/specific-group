@@ -2,13 +2,7 @@
 
 Intention: Contrasting Timer and ScheduledThreadPool.
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_33.pdf).
 
 <hr>
 
