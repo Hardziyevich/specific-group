@@ -18,7 +18,7 @@ public class ArrayListExercise3 {
         list.forEach(x -> System.out.println(x.getCountry()));
     }
 
-    //Method is working and helping sort List Employee by Country using interface Comparator
+    //Method is working and helping sort List Employee by Country using interface Comparator.
     public static void sortListEmployeeByCountry(List<Employee> employees){
         employees.sort(Comparator.comparing(Employee::getCountry));
     }
