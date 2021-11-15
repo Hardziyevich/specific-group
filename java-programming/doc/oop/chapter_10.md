@@ -3,7 +3,7 @@
 Intention: In this chapter, you will get a firmer understanding of encapsulation in Java with the help of examples.
 
 Download the PDF file of the [chapter](chapter_10.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

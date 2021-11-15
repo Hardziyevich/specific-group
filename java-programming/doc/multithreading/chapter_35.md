@@ -3,7 +3,7 @@
 Intention: This lesson discusses the Future interface.
 
 Download the PDF file of the [chapter](chapter_35.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

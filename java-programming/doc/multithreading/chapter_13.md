@@ -3,7 +3,7 @@
 Intention: This lesson discusses the differences between a monitor and a semaphore.
 
 Download the PDF file of the [chapter](chapter_13.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

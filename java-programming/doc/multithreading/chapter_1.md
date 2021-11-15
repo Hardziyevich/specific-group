@@ -4,7 +4,7 @@ Intention: This lesson details the reasons why threads exist and what benefit do
 We also discuss the problems that come with threads.
 
 Download the PDF file of the [chapter](chapter_1.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

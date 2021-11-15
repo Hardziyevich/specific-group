@@ -4,7 +4,7 @@ Intention: Learn how to compute expressions in Java, and how to convert between 
 Be careful of the difference between integer and floating-point division!
 
 Download the PDF file of the [chapter](chapter_5.pdf). Sources are available in the <b>src</b> directory.
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

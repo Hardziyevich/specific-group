@@ -3,7 +3,7 @@
 Intention: This chapter explains the concept of functional interfaces which were introduced in Java 8.
 
 Download the PDF file of the [chapter](chapter_27.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

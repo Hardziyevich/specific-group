@@ -4,7 +4,7 @@ Intention: This lesson discusses the compiler, runtime or hardware optimizations
 program instructions.
 
 Download the PDF file of the [chapter](chapter_25.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

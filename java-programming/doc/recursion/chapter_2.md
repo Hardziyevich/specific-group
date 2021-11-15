@@ -3,7 +3,7 @@
 Intention: This lesson will discuss how recursive methods use the stack.
 
 Download the PDF file of the [chapter](chapter_2.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

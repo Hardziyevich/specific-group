@@ -4,7 +4,7 @@ Intention: Java is a statically-typed language, which means that you must explic
 type of data (for example, an integer) that variable will store before using it.
 
 Download the PDF file of the [chapter](chapter_4.pdf). Sources are available in the <b>src</b> directory.
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

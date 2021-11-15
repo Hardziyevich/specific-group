@@ -3,7 +3,7 @@
 Intention: This lesson explores the Binary operator functional interface in Java.
 
 Download the PDF file of the [chapter](chapter_9.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

@@ -3,7 +3,7 @@
 Intention: This lesson will teach you how to print the linked list in reverse order using recursion.
 
 Download the PDF file of the [chapter](chapter_17.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

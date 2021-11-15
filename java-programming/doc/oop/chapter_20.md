@@ -3,7 +3,7 @@
 Intention: In this chapter, you will learn about the concepts of dynamic polymorphism.
 
 Download the PDF file of the [chapter](chapter_20.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

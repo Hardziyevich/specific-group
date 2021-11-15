@@ -4,7 +4,7 @@ Intention: Learn what a monitor is and how it is different than a mutex. Monitor
 specific to languages frameworks.
 
 Download the PDF file of the [chapter](chapter_11.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

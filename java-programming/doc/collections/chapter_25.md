@@ -3,7 +3,7 @@
 Intention: Let's see how we can design a good HashMap key.
 
 Download the PDF file of the [chapter](chapter_25.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

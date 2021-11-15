@@ -4,7 +4,7 @@ Intention: Arrays in Java, like Python lists, Javascript arrays, and C arrays, s
 Java arrays cannot be resized without creating a new array and making a copy.
 
 Download the PDF file of the [chapter](chapter_8.pdf). Sources are available in the <b>src</b> directory.
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

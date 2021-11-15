@@ -3,7 +3,7 @@
 Intention: In this chapter, the concept of Polymorphism will be explained which is an important concept related to OOP.
 
 Download the PDF file of the [chapter](chapter_16.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

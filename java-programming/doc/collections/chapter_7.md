@@ -3,7 +3,7 @@
 Intention: Let's see how ArrayList can be sorted.
 
 Download the PDF file of the [chapter](chapter_7.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

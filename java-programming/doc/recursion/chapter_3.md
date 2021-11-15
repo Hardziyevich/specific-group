@@ -3,7 +3,7 @@
 Intention: This lesson explains two different types of recursion: direct and indirect recursion.
 
 Download the PDF file of the [chapter](chapter_3.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

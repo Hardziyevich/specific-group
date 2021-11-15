@@ -3,7 +3,7 @@
 Intention: You will get to know about the role of methods in classes.
 
 Download the PDF file of the [chapter](chapter_5.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

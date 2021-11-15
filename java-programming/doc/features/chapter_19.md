@@ -3,7 +3,7 @@
 Intention: This lesson discusses the finding operations in Streams provided by the findFirst() and findAny() methods.
 
 Download the PDF file of the [chapter](chapter_19.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

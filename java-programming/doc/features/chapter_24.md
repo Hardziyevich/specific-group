@@ -3,7 +3,7 @@
 Intention: This lesson introduces parallel streams, which are used to process the stream elements in parallel.
 
 Download the PDF file of the [chapter](chapter_24.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

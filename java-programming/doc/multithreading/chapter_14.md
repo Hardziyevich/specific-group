@@ -4,7 +4,7 @@ Intention: Blindly adding threads to speed up program execution may not always b
 Find out what Amdahl's Law says about parallelizing a program.
 
 Download the PDF file of the [chapter](chapter_14.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

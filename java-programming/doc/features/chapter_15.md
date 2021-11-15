@@ -4,7 +4,7 @@ Intention: In this lesson, we will look at the newly introduced Optional class. 
 creating an Optional.
 
 Download the PDF file of the [chapter](chapter_15.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

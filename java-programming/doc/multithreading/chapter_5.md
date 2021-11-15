@@ -4,7 +4,7 @@ Intention: This lesson discusses the differences between asynchronous and synchr
 talked about in the context of concurrency.
 
 Download the PDF file of the [chapter](chapter_5.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

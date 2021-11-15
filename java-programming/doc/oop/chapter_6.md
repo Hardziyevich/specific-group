@@ -3,7 +3,7 @@
 Intention: In this chapter, the world of constructors is explored and you'll learn why they are necessary for a class.
 
 Download the PDF file of the [chapter](chapter_6.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

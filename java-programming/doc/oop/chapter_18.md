@@ -3,7 +3,7 @@
 Intention: In this chapter, you'll be learning about what method overriding is and how to achieve it in Java.
 
 Download the PDF file of the [chapter](chapter_18.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

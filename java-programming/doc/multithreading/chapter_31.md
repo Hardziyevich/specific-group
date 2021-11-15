@@ -3,7 +3,7 @@
 Intention: This lesson introduces thread pools and their utility in concurrent programming.
 
 Download the PDF file of the [chapter](chapter_31.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

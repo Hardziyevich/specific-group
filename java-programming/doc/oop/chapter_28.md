@@ -3,7 +3,7 @@
 Intention: In this chapter, you'll learn what multiple inheritance is and how it can be implemented in Java.
 
 Download the PDF file of the [chapter](chapter_28.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

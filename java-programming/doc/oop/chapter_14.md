@@ -4,7 +4,7 @@ Intention: In the chapter lessons, you covered the basics of inheritance. In thi
 the various types of inheritance in Java.
 
 Download the PDF file of the [chapter](chapter_14.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

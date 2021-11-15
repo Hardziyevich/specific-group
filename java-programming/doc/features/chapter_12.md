@@ -3,7 +3,7 @@
 Intention: This lesson discusses filtering operations in streams.
 
 Download the PDF file of the [chapter](chapter_12.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

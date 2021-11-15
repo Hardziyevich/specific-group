@@ -3,7 +3,7 @@
 Intention: This lesson explains the Unary operator, which is a subtype of the Function interface.
 
 Download the PDF file of the [chapter](chapter_8.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 

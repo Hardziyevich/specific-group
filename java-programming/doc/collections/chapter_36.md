@@ -3,7 +3,7 @@
 Intention: Let's discuss how we can use the binarySearch() method to search an element in an array.
 
 Download the PDF file of the [chapter](chapter_36.pdf). Sources are available in the <b>src</b> directory. 
-Additional resource are located in the <b>etc</b> directory.
+
 
 <hr>
 
