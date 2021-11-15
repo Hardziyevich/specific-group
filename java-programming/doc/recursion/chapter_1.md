@@ -2,13 +2,7 @@
 
 Intention: This lesson explains the basics of recursion.
 
-TODO:
-
-![alt text](../../etc/recursion/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_1.pdf).
 
 <hr>
 

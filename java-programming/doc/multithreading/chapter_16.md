@@ -2,13 +2,7 @@
 
 Intention: This lesson explains thread-safety and the use of the synchronized keyword.
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_16.pdf).
 
 <hr>
 

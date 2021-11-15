@@ -5,13 +5,7 @@ developers' faces. We discuss the differences between the two most fundamental c
 almost all language frameworks. Difference between a mutex and a semaphore makes a pet interview question for 
 senior engineering positions!
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_10.pdf).
 
 <hr>
 

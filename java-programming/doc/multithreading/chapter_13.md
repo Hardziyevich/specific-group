@@ -2,13 +2,7 @@
 
 Intention: This lesson discusses the differences between a monitor and a semaphore.
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_13.pdf).
 
 <hr>
 

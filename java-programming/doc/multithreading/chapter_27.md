@@ -2,13 +2,7 @@
 
 Intention: This lesson discusses how threads can be created in Java.
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_27.pdf).
 
 <hr>
 

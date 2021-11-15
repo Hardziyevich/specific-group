@@ -2,13 +2,7 @@
 
 Intention: In this lesson, we will learn how to compute the sum of integers from 1 to n using recursion.
 
-TODO:
-
-![alt text](../../etc/recursion/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_11.pdf).
 
 <hr>
 

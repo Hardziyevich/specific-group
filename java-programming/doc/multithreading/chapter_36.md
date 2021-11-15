@@ -2,13 +2,7 @@
 
 Intention: This lesson talks about how to batch multiple tasks together.
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_36.pdf).
 
 <hr>
 

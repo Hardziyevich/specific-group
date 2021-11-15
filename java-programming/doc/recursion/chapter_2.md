@@ -2,13 +2,7 @@
 
 Intention: This lesson will discuss how recursive methods use the stack.
 
-TODO:
-
-![alt text](../../etc/recursion/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_2.pdf).
 
 <hr>
 

@@ -2,13 +2,7 @@
 
 Intention: This lesson details the different types of thread pools available in the Java class library.
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_32.pdf).
 
 <hr>
 

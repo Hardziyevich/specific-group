@@ -2,13 +2,7 @@
 
 Intention: This lesson gives a brief introduction about Java's concurrent collection classes.
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_40.pdf).
 
 <hr>
 

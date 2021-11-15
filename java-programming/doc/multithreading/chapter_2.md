@@ -3,13 +3,7 @@
 Intention: This lesson discusses the differences between a program, process and a thread. 
 Also included is an example of a thread-unsafe program.
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_2.pdf).
 
 <hr>
 

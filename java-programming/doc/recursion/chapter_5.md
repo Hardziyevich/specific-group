@@ -2,13 +2,7 @@
 
 Intention: This lesson gives you a brief introduction to the course as a whole and what you can expect for in the upcoming lessons.
 
-TODO:
-
-![alt text](../../etc/recursion/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_5.pdf).
 
 <hr>
 

@@ -2,13 +2,7 @@
 
 Intention: This lesson shows various thread handling methods with examples.
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_28.pdf).
 
 <hr>
 

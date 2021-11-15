@@ -2,13 +2,7 @@
 
 Intention: This lesson discusses the Future interface.
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_35.pdf).
 
 <hr>
 

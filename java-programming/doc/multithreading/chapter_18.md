@@ -1,12 +1,6 @@
 # Interrupting Threads
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_18.pdf).
 
 <hr>
 

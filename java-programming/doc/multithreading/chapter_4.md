@@ -2,13 +2,7 @@
 
 Intention: This lesson details the differences between the two common models of multitasking.
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_4.pdf).
 
 <hr>
 

@@ -2,13 +2,7 @@
 
 Intention: This lesson discusses the Callable interface.
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_34.pdf).
 
 <hr>
 

@@ -4,13 +4,7 @@ Intention: This section exhibits how incorrect synchronization in a critical sec
 buggy code. The concepts of critical section and race condition are explained in depth. Also included is 
 an executable example of a race condition.
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_8.pdf).
 
 <hr>
 

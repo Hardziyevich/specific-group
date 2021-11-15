@@ -2,13 +2,7 @@
 
 Intention: This lesson introduces thread pools and their utility in concurrent programming.
 
-TODO:
-
-![alt text](../../etc/multithreading/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_31.pdf).
 
 <hr>
 
