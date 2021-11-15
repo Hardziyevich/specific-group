@@ -2,13 +2,7 @@
 
 Intention: This lesson introduces the Stream API.
 
-TODO:
-
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_11.pdf).
 
 <hr>
 

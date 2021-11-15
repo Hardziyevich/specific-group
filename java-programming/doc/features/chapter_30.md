@@ -2,13 +2,7 @@
 
 Intention: This lesson introduces a new kind of Lock class introduced in Java 8.
 
-TODO:
-
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_30.pdf).
 
 <hr>
 

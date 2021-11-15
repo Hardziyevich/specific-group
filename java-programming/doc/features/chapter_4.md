@@ -3,13 +3,7 @@
 Intention: This lesson introduces the Predicate functional interface. We will discuss where a Predicate interface can be 
 used and how to use it.
 
-TODO:
-
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_4.pdf).
 
 <hr>
 

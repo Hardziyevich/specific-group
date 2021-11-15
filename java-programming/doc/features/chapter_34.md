@@ -2,13 +2,7 @@
 
 Intention: This lesson discusses the LocalDatetime class and few of its methods.
 
-TODO:
-
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_34.pdf).
 
 <hr>
 

@@ -2,13 +2,7 @@
 
 Intention: In this lesson, you will learn about method references and explore its types.
 
-TODO:
-
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_14.pdf).
 
 <hr>
 

@@ -2,13 +2,7 @@
 
 Intention: This lessons provides a brief introduction of the topics that will be covered in this module.
 
-TODO:
-
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_1.pdf).
 
 <hr>
 

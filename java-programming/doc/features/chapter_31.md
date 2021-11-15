@@ -2,13 +2,7 @@
 
 Intention: This lesson discusses the limitations of old date and time API.
 
-TODO:
-
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_31.pdf).
 
 <hr>
 

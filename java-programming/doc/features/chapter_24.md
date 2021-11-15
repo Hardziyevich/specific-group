@@ -2,13 +2,7 @@
 
 Intention: This lesson introduces parallel streams, which are used to process the stream elements in parallel.
 
-TODO:
-
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_24.pdf).
 
 <hr>
 

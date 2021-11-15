@@ -2,13 +2,7 @@
 
 Intention: In this lesson, we will look at the LocalTime class.
 
-TODO:
-
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_33.pdf).
 
 <hr>
 

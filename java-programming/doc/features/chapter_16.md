@@ -2,13 +2,7 @@
 
 Intention: In this lesson, we will look at some of the methods added in Optional class and discuss their functionalities.
 
-TODO:
-
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_16.pdf).
 
 <hr>
 

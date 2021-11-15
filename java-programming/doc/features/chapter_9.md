@@ -2,13 +2,7 @@
 
 Intention: This lesson explores the Binary operator functional interface in Java.
 
-TODO:
-
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_9.pdf).
 
 <hr>
 

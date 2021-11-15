@@ -2,13 +2,7 @@
 
 Intention: This lesson explains the Function interface in Java.
 
-TODO:
-
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_7.pdf).
 
 <hr>
 

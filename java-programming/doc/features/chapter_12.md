@@ -2,13 +2,7 @@
 
 Intention: This lesson discusses filtering operations in streams.
 
-TODO:
-
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_12.pdf).
 
 <hr>
 

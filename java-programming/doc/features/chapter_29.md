@@ -2,13 +2,7 @@
 
 Intention: This lesson explains how we can combine the results of an arbitrary number of futures together.
 
-TODO:
-
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_29.pdf).
 
 <hr>
 

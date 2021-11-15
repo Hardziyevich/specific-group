@@ -2,13 +2,7 @@
 
 Intention: This lesson discusses, how to process the result of a CompletableFuture.
 
-TODO:
-
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_27.pdf).
 
 <hr>
 

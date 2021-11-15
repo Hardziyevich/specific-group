@@ -3,13 +3,7 @@
 Intention: In this lesson, we will look at the newly introduced Optional class. We will also look at different ways of 
 creating an Optional.
 
-TODO:
-
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_15.pdf).
 
 <hr>
 

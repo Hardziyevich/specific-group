@@ -2,13 +2,7 @@
 
 Intention: This lesson introduces the LocalDate class.
 
-TODO:
-
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_32.pdf).
 
 <hr>
 

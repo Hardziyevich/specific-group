@@ -2,13 +2,7 @@
 
 Intention: This lesson introduces the newly added CompletableFuture interface.
 
-TODO:
-
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_26.pdf).
 
 <hr>
 

@@ -2,13 +2,7 @@
 
 Intention: This lesson explains the basics of Consumer functional interfaces.
 
-TODO:
-
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_6.pdf).
 
 <hr>
 

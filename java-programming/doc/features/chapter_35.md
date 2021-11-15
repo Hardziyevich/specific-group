@@ -2,13 +2,7 @@
 
 Intention: In this lesson, we will explore the ZonedDateTime class and its methods.
 
-TODO:
-
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_35.pdf).
 
 <hr>
 

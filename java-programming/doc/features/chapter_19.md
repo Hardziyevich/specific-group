@@ -2,13 +2,7 @@
 
 Intention: This lesson discusses the finding operations in Streams provided by the findFirst() and findAny() methods.
 
-TODO:
-
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_19.pdf).
 
 <hr>
 

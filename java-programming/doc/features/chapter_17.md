@@ -2,13 +2,7 @@
 
 Intention: In this lesson, we will look at some of the most common slicing methods present in the Streams API.
 
-TODO:
-
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_17.pdf).
 
 <hr>
 

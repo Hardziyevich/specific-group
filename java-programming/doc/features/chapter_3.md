@@ -2,13 +2,7 @@
 
 Intention: In this lesson, you will learn how to use the power of lambdas to write a concise comparator.
 
-TODO:
-
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_3.pdf).
 
 <hr>
 
