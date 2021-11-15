@@ -1,6 +1,7 @@
 package com.github.akarazhev.jacademy.practice.jprog.task19;
 
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.List;
 
 public class ArrayListExercise2 {
@@ -13,5 +14,14 @@ public class ArrayListExercise2 {
         list.add(new Employee("Joe", 56, "Russia"));
         list.add(new Employee("Amit", 64, "China"));
         list.add(new Employee("Ryan", 19, "Brazil"));
+
+        removeResideInTheUSA(list);
+
+        list.forEach(e -> System.out.println(e.getCountry()));
+    }
+
+    //Methode is working and remove all Employee who is resided in the USA.
+    public static void removeResideInTheUSA(Collection<Employee> employees) {
+        employees.removeIf(employee -> employee.getCountry().equals("USA"));
     }
 }
