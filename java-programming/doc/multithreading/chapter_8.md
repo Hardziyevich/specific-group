@@ -4,7 +4,8 @@ Intention: This section exhibits how incorrect synchronization in a critical sec
 buggy code. The concepts of critical section and race condition are explained in depth. Also included is 
 an executable example of a race condition.
 
-Download the PDF file of the [chapter](chapter_8.pdf).
+Download the PDF file of the [chapter](chapter_8.pdf). Sources are available in the <b>src</b> directory. 
+Additional resource are located in the <b>etc</b> directory.
 
 <hr>
 

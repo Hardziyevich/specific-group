@@ -2,7 +2,8 @@
 
 Intention: This lesson lays out the ground work for understanding the Java Memory Model.
 
-Download the PDF file of the [chapter](chapter_24.pdf).
+Download the PDF file of the [chapter](chapter_24.pdf). Sources are available in the <b>src</b> directory. 
+Additional resource are located in the <b>etc</b> directory.
 
 <hr>
 
