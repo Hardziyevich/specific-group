@@ -2,13 +2,7 @@
 
 Intention: This lesson introduces to the basics of iteration.
 
-TODO:
-
-![alt text](../../etc/recursion/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_8.pdf).
 
 <hr>
 

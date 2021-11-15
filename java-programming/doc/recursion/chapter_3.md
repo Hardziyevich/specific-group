@@ -2,13 +2,7 @@
 
 Intention: This lesson explains two different types of recursion: direct and indirect recursion.
 
-TODO:
-
-![alt text](../../etc/recursion/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_3.pdf).
 
 <hr>
 

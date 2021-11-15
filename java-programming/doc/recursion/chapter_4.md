@@ -2,13 +2,7 @@
 
 Intention: This lesson covers all the factors of when you should use Recursion.
 
-TODO:
-
-![alt text](../../etc/recursion/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_4.pdf).
 
 <hr>
 

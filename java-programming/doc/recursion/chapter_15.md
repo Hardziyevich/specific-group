@@ -2,13 +2,7 @@
 
 Intention: This lesson will teach you how to find the first occurrence of a number in an array using recursion.
 
-TODO:
-
-![alt text](../../etc/recursion/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_15.pdf).
 
 <hr>
 

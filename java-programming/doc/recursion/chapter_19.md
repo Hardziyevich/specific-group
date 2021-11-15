@@ -2,13 +2,7 @@
 
 Intention: This lesson will teach you how to write a recursive code for depth-first search in graphs.
 
-TODO:
-
-![alt text](../../etc/recursion/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_19.pdf).
 
 <hr>
 

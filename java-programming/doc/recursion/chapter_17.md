@@ -2,13 +2,7 @@
 
 Intention: This lesson will teach you how to print the linked list in reverse order using recursion.
 
-TODO:
-
-![alt text](../../etc/recursion/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_17.pdf).
 
 <hr>
 

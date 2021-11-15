@@ -2,13 +2,7 @@
 
 Intention: This lesson will teach you how to change an iterative code to a recursive code.
 
-TODO:
-
-![alt text](../../etc/recursion/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_10.pdf).
 
 <hr>
 

@@ -2,13 +2,7 @@
 
 Intention: In this lesson, we will go deep into understanding a recursive problem.
 
-TODO:
-
-![alt text](../../etc/recursion/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_6.pdf).
 
 <hr>
 

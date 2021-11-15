@@ -2,13 +2,7 @@
 
 Intention: This lesson will teach you how to remove duplicates in a string using recursion.
 
-TODO:
-
-![alt text](../../etc/recursion/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_14.pdf).
 
 <hr>
 

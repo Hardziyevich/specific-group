@@ -2,13 +2,7 @@
 
 Intention: This lesson will discuss the advantages and disadvantages of recursion.
 
-TODO:
-
-![alt text](../../etc/recursion/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_7.pdf).
 
 <hr>
 

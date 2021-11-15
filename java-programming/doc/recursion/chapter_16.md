@@ -2,13 +2,7 @@
 
 Intention: In this lesson,we will learn how to invert the position of the elements in an array using recursion.
 
-TODO:
-
-![alt text](../../etc/recursion/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_16.pdf).
 
 <hr>
 

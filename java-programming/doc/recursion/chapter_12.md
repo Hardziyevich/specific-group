@@ -2,13 +2,7 @@
 
 Intention: In this lesson, we will learn how to compute the Fibonacci sequence using recursion.
 
-TODO:
-
-![alt text](../../etc/recursion/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_12.pdf).
 
 <hr>
 

@@ -2,13 +2,7 @@
 
 Intention: This lesson will help you learn recursion through trees.
 
-TODO:
-
-![alt text](../../etc/recursion/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_18.pdf).
 
 <hr>
 

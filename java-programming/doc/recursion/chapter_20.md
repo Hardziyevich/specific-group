@@ -2,13 +2,7 @@
 
 Intention: This lesson will teach you how to write a recursive code for topological sorting in graphs.
 
-TODO:
-
-![alt text](../../etc/recursion/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_20.pdf)..
 
 <hr>
 
