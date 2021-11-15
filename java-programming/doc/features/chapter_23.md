@@ -3,7 +3,8 @@
 Intention: In this lesson, we will look at the grouping operations that can be performed through the APIs provided in 
 the Collectors class.
 
-Download the PDF file of the [chapter](chapter_23.pdf).
+Download the PDF file of the [chapter](chapter_23.pdf). Sources are available in the <b>src</b> directory. 
+Additional resource are located in the <b>etc</b> directory.
 
 <hr>
 

@@ -2,7 +2,8 @@
 
 Intention: This lesson explains all the basic concepts of lambdas.
 
-Download the PDF file of the [chapter](chapter_2.pdf).
+Download the PDF file of the [chapter](chapter_2.pdf). Sources are available in the <b>src</b> directory. 
+Additional resource are located in the <b>etc</b> directory.
 
 <hr>
 

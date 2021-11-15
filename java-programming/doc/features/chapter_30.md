@@ -2,7 +2,8 @@
 
 Intention: This lesson introduces a new kind of Lock class introduced in Java 8.
 
-Download the PDF file of the [chapter](chapter_30.pdf).
+Download the PDF file of the [chapter](chapter_30.pdf). Sources are available in the <b>src</b> directory. 
+Additional resource are located in the <b>etc</b> directory.
 
 <hr>
 

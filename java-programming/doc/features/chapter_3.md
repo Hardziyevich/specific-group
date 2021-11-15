@@ -2,7 +2,8 @@
 
 Intention: In this lesson, you will learn how to use the power of lambdas to write a concise comparator.
 
-Download the PDF file of the [chapter](chapter_3.pdf).
+Download the PDF file of the [chapter](chapter_3.pdf). Sources are available in the <b>src</b> directory. 
+Additional resource are located in the <b>etc</b> directory.
 
 <hr>
 

@@ -2,7 +2,8 @@
 
 Intention: In this lesson, we will explore the matching operations in Stream.
 
-Download the PDF file of the [chapter](chapter_18.pdf).
+Download the PDF file of the [chapter](chapter_18.pdf). Sources are available in the <b>src</b> directory. 
+Additional resource are located in the <b>etc</b> directory.
 
 <hr>
 

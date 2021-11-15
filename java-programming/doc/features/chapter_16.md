@@ -2,7 +2,8 @@
 
 Intention: In this lesson, we will look at some of the methods added in Optional class and discuss their functionalities.
 
-Download the PDF file of the [chapter](chapter_16.pdf).
+Download the PDF file of the [chapter](chapter_16.pdf). Sources are available in the <b>src</b> directory. 
+Additional resource are located in the <b>etc</b> directory.
 
 <hr>
 

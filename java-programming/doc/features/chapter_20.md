@@ -2,7 +2,8 @@
 
 Intention: In this lesson, you will learn about immutable reduction using the reduce() method.
 
-Download the PDF file of the [chapter](chapter_20.pdf).
+Download the PDF file of the [chapter](chapter_20.pdf). Sources are available in the <b>src</b> directory. 
+Additional resource are located in the <b>etc</b> directory.
 
 <hr>
 
