@@ -10,7 +10,7 @@ public class Calculator {
         return num1 + num2 + num3;
     }
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Calculator obj = new Calculator();
         System.out.println("10 + 20 = " + obj.add(10, 20));
         System.out.println("10 + 20 + 30 = " + obj.add(10, 20, 30));

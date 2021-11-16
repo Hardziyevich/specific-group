@@ -2,7 +2,7 @@ package com.github.akarazhev.jacademy.jprog.oop.abstraction;
 
 public class TestAbstraction {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         int min = Math.min(15, 18);     //find min of two numbers
         double square = Math.pow(2, 2); //calculate the power of a number
 

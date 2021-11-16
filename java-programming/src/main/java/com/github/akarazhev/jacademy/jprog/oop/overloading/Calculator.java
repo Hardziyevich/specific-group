@@ -17,7 +17,7 @@ public class Calculator {
         return num1 + num2 + num3 + num4;
     }
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Calculator cal = new Calculator();
 
         System.out.println("10 + 20 =  " + cal.add(10, 20));

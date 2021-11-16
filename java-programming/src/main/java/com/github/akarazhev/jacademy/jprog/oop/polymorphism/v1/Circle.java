@@ -35,7 +35,7 @@ public class Circle extends Shape {
         return 3.13 * this.radius * this.radius;
     }
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Shape[] shape = new Shape[2]; // Creating the shape array of size 2
         shape[0] = new Circle(3); // creating the circle object at index 0
         shape[1] = new Rectangle(2, 3); // creating the rectangle object at index 1
