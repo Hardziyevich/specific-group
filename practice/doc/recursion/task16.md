@@ -71,7 +71,7 @@ public static int totalVowels(String text, int len, int index) {
     return count + totalVowels(text, len - 1, index + 1);
 }
 
-public static void main(String args[]) {
+public static void main(String[] args) {
     String text = "thisisrecursion";
     int cnt = 0;
     cnt = recursiveFunc(text, text.length, 0);
