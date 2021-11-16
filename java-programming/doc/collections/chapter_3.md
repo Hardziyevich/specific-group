@@ -2,13 +2,8 @@
 
 Intention: Let's see how we insert and retrieve elements from an ArrayList.
 
-TODO:
+Download the PDF file of the [chapter](chapter_3.pdf). Sources are available in the <b>src</b> directory. 
 
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
 
 <hr>
 

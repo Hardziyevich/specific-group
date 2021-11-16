@@ -2,7 +2,8 @@
 
 Intention: This lesson will teach you how to remove duplicates in a string using recursion.
 
-Download the PDF file of the [chapter](chapter_14.pdf).
+Download the PDF file of the [chapter](chapter_14.pdf). Sources are available in the <b>src</b> directory. 
+
 
 <hr>
 

@@ -2,13 +2,8 @@
 
 Intention: In this lesson, we discuss how streams are evaluated lazily.
 
-TODO:
+Download the PDF file of the [chapter](chapter_25.pdf). Sources are available in the <b>src</b> directory. 
 
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
 
 <hr>
 

@@ -2,7 +2,8 @@
 
 Intention: This lesson will help you learn recursion through trees.
 
-Download the PDF file of the [chapter](chapter_18.pdf).
+Download the PDF file of the [chapter](chapter_18.pdf). Sources are available in the <b>src</b> directory. 
+
 
 <hr>
 

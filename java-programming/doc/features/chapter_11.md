@@ -2,13 +2,8 @@
 
 Intention: This lesson introduces the Stream API.
 
-TODO:
+Download the PDF file of the [chapter](chapter_11.pdf). Sources are available in the <b>src</b> directory. 
 
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
 
 <hr>
 

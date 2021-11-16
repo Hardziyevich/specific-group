@@ -2,13 +2,8 @@
 
 Intention: This lessons provides a brief introduction of the topics that will be covered in this module.
 
-TODO:
+Download the PDF file of the [chapter](chapter_1.pdf). Sources are available in the <b>src</b> directory. 
 
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
 
 <hr>
 

@@ -2,13 +2,8 @@
 
 Intention: Let's see how LinkedList works in Java.
 
-TODO:
+Download the PDF file of the [chapter](chapter_10.pdf). Sources are available in the <b>src</b> directory. 
 
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
 
 <hr>
 

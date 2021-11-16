@@ -1,6 +1,7 @@
 # CyclicBarrier
 
-Download the PDF file of the [chapter](chapter_39.pdf).
+Download the PDF file of the [chapter](chapter_39.pdf). Sources are available in the <b>src</b> directory. 
+
 
 <hr>
 

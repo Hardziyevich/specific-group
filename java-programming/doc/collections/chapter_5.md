@@ -2,13 +2,8 @@
 
 Intention: Let's discuss how an ArrayList can be iterated.
 
-TODO:
+Download the PDF file of the [chapter](chapter_5.pdf). Sources are available in the <b>src</b> directory. 
 
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
 
 <hr>
 

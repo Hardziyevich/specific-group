@@ -2,13 +2,8 @@
 
 Intention: Let's look at different ways to iterate a HashSet.
 
-TODO:
+Download the PDF file of the [chapter](chapter_17.pdf). Sources are available in the <b>src</b> directory. 
 
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
 
 <hr>
 

@@ -2,13 +2,8 @@
 
 Intention: This lesson discusses filtering operations in streams.
 
-TODO:
+Download the PDF file of the [chapter](chapter_12.pdf). Sources are available in the <b>src</b> directory. 
 
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
 
 <hr>
 

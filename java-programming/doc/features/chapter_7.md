@@ -2,13 +2,8 @@
 
 Intention: This lesson explains the Function interface in Java.
 
-TODO:
+Download the PDF file of the [chapter](chapter_7.pdf). Sources are available in the <b>src</b> directory. 
 
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
 
 <hr>
 

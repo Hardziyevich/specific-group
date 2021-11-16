@@ -2,13 +2,8 @@
 
 Intention: This lesson discusses the immutable reduction operations tusing the collect() method.
 
-TODO:
+Download the PDF file of the [chapter](chapter_21.pdf). Sources are available in the <b>src</b> directory. 
 
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
 
 <hr>
 

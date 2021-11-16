@@ -2,13 +2,8 @@
 
 Intention: Let's discuss some additional HashMap operations.
 
-TODO:
+Download the PDF file of the [chapter](chapter_22.pdf). Sources are available in the <b>src</b> directory. 
 
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
 
 <hr>
 

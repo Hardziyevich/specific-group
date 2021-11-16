@@ -2,13 +2,8 @@
 
 Intention: Let's discuss how we can sort the TreeMap elements on the basis of values.
 
-TODO:
+Download the PDF file of the [chapter](chapter_29.pdf). Sources are available in the <b>src</b> directory. 
 
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
 
 <hr>
 

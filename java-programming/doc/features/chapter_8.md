@@ -2,13 +2,8 @@
 
 Intention: This lesson explains the Unary operator, which is a subtype of the Function interface.
 
-TODO:
+Download the PDF file of the [chapter](chapter_8.pdf). Sources are available in the <b>src</b> directory. 
 
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
 
 <hr>
 

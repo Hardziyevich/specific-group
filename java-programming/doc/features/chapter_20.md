@@ -2,13 +2,8 @@
 
 Intention: In this lesson, you will learn about immutable reduction using the reduce() method.
 
-TODO:
+Download the PDF file of the [chapter](chapter_20.pdf). Sources are available in the <b>src</b> directory. 
 
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
 
 <hr>
 

@@ -2,13 +2,8 @@
 
 Intention: This lesson discusses how to chain Completable Futures.
 
-TODO:
+Download the PDF file of the [chapter](chapter_28.pdf). Sources are available in the <b>src</b> directory. 
 
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
 
 <hr>
 

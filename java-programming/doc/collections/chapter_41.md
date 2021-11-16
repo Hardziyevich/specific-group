@@ -2,13 +2,8 @@
 
 Intention: Let's discuss a few more operations available in the Collections class.
 
-TODO:
+Download the PDF file of the [chapter](chapter_41.pdf). Sources are available in the <b>src</b> directory. 
 
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
 
 <hr>
 

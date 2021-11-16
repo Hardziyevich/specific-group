@@ -1,6 +1,7 @@
 # Spurious Wakeups
 
-Download the PDF file of the [chapter](chapter_23.pdf).
+Download the PDF file of the [chapter](chapter_23.pdf). Sources are available in the <b>src</b> directory. 
+
 
 <hr>
 

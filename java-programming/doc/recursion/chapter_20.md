@@ -2,7 +2,8 @@
 
 Intention: This lesson will teach you how to write a recursive code for topological sorting in graphs.
 
-Download the PDF file of the [chapter](chapter_20.pdf)..
+Download the PDF file of the [chapter](chapter_20.pdf). Sources are available in the <b>src</b> directory. 
+.
 
 <hr>
 

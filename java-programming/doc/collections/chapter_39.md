@@ -2,13 +2,8 @@
 
 Intention: Let's discuss some additional operations that can be performed using the Arrays class.
 
-TODO:
+Download the PDF file of the [chapter](chapter_39.pdf). Sources are available in the <b>src</b> directory. 
 
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
 
 <hr>
 

@@ -1,6 +1,7 @@
 # Wait & Notify
 
-Download the PDF file of the [chapter](chapter_17.pdf).
+Download the PDF file of the [chapter](chapter_17.pdf). Sources are available in the <b>src</b> directory. 
+
 
 <hr>
 

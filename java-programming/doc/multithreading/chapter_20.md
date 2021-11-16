@@ -1,6 +1,7 @@
 # Reentrant Locks & Condition Variables
 
-Download the PDF file of the [chapter](chapter_20.pdf).
+Download the PDF file of the [chapter](chapter_20.pdf). Sources are available in the <b>src</b> directory. 
+
 
 <hr>
 

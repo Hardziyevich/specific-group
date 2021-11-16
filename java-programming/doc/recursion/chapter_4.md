@@ -2,7 +2,8 @@
 
 Intention: This lesson covers all the factors of when you should use Recursion.
 
-Download the PDF file of the [chapter](chapter_4.pdf).
+Download the PDF file of the [chapter](chapter_4.pdf). Sources are available in the <b>src</b> directory. 
+
 
 <hr>
 

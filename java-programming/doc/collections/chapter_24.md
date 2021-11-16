@@ -2,13 +2,8 @@
 
 Intention: Let's look at how HashMap works internally.
 
-TODO:
+Download the PDF file of the [chapter](chapter_24.pdf). Sources are available in the <b>src</b> directory. 
 
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
 
 <hr>
 

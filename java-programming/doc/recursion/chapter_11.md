@@ -2,7 +2,8 @@
 
 Intention: In this lesson, we will learn how to compute the sum of integers from 1 to n using recursion.
 
-Download the PDF file of the [chapter](chapter_11.pdf).
+Download the PDF file of the [chapter](chapter_11.pdf). Sources are available in the <b>src</b> directory. 
+
 
 <hr>
 

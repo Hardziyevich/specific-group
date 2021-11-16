@@ -3,7 +3,8 @@
 Intention: Learn what a monitor is and how it is different than a mutex. Monitors are advanced concurrency constructs and 
 specific to languages frameworks.
 
-Download the PDF file of the [chapter](chapter_11.pdf).
+Download the PDF file of the [chapter](chapter_11.pdf). Sources are available in the <b>src</b> directory. 
+
 
 <hr>
 

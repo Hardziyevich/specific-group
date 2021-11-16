@@ -2,13 +2,8 @@
 
 Intention: This lesson explains what capturing lambdas are and discusses a few of the caveats of using them.
 
-TODO:
+Download the PDF file of the [chapter](chapter_10.pdf). Sources are available in the <b>src</b> directory. 
 
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
 
 <hr>
 

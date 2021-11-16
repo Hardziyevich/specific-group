@@ -2,13 +2,8 @@
 
 Intention: In this lesson, we will look at the mapping operations and the different ways to transform a stream.
 
-TODO:
+Download the PDF file of the [chapter](chapter_13.pdf). Sources are available in the <b>src</b> directory. 
 
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
 
 <hr>
 

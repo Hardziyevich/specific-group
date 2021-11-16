@@ -2,13 +2,8 @@
 
 Intention: In this lesson, we will look at some of the methods added in Optional class and discuss their functionalities.
 
-TODO:
+Download the PDF file of the [chapter](chapter_16.pdf). Sources are available in the <b>src</b> directory. 
 
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
 
 <hr>
 

@@ -2,13 +2,8 @@
 
 Intention: In this lesson, we will learn about methods of the Collectors class, which are used for aggregation.
 
-TODO:
+Download the PDF file of the [chapter](chapter_22.pdf). Sources are available in the <b>src</b> directory. 
 
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
 
 <hr>
 

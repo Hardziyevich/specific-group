@@ -2,7 +2,8 @@
 
 Intention: This lesson explains thread-safety and the use of the synchronized keyword.
 
-Download the PDF file of the [chapter](chapter_16.pdf).
+Download the PDF file of the [chapter](chapter_16.pdf). Sources are available in the <b>src</b> directory. 
+
 
 <hr>
 

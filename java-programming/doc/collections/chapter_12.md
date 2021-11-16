@@ -2,13 +2,8 @@
 
 Intention: Let's discuss a thread-safe list called CopyOnWriteArrayList.
 
-TODO:
+Download the PDF file of the [chapter](chapter_12.pdf). Sources are available in the <b>src</b> directory. 
 
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
 
 <hr>
 

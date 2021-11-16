@@ -2,13 +2,8 @@
 
 Intention: In this lesson, we will explore the Period and Duration classes and their methods.
 
-TODO:
+Download the PDF file of the [chapter](chapter_36.pdf). Sources are available in the <b>src</b> directory. 
 
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
 
 <hr>
 

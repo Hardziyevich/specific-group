@@ -2,13 +2,8 @@
 
 Intention: This lesson explains all the basic concepts of lambdas.
 
-TODO:
+Download the PDF file of the [chapter](chapter_2.pdf). Sources are available in the <b>src</b> directory. 
 
-![alt text](../../etc/features/img.png "Img")
-
-```java
-
-```
 
 <hr>
 

@@ -2,13 +2,8 @@
 
 Intention: Let's look at a quick introduction of this course.
 
-TODO:
-
-![alt text](../../etc/collections/img.png "Img")
-
-```java
-
-```
+Download the PDF file of the [chapter](chapter_1.pdf). Sources are available in the <b>src</b> directory. 
+ 
 
 <hr>
 
