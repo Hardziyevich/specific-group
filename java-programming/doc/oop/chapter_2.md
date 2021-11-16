@@ -4,7 +4,6 @@ Intention: You will learn about the declaration and implementation details of a 
 
 Download the PDF file of the [chapter](chapter_2.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Access Modifiers](chapter_3.md "Access Modifiers") - Access Modifiers.

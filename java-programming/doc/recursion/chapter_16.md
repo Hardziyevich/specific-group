@@ -4,7 +4,6 @@ Intention: In this lesson,we will learn how to invert the position of the elemen
 
 Download the PDF file of the [chapter](chapter_16.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Print a Reversed Linked List](chapter_17.md "Print a Reversed Linked List") - Print a Reversed Linked List.

@@ -4,7 +4,6 @@ Intention: Let's discuss fetching and removal operations in TreeSet.
 
 Download the PDF file of the [chapter](chapter_19.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [HashMap: Creation and Insertion](chapter_20.md "HashMap: Creation and Insertion") - HashMap: Creation and Insertion.

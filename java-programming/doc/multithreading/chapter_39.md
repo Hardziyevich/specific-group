@@ -2,7 +2,6 @@
 
 Download the PDF file of the [chapter](chapter_39.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Concurrent Collections](chapter_40.md "Concurrent Collections") - Concurrent Collections.

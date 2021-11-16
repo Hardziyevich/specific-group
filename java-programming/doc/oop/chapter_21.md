@@ -4,7 +4,6 @@ Intention: In this chapter, you will learn about the differences between static 
 
 Download the PDF file of the [chapter](chapter_21.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [What is Abstraction?](chapter_22.md "What is Abstraction?") - What is Abstraction?

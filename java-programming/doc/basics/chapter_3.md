@@ -4,7 +4,6 @@ Intention: Use standard method calls to print to the screen.
 
 Download the PDF file of the [chapter](chapter_3.pdf). Sources are available in the <b>src</b> directory.
 
-
 <hr>
 
 Next: [Variables; integer values with 'int'](chapter_4.md "Variables; integer values with 'int'") -

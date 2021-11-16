@@ -4,7 +4,6 @@ Intention: In this chapter, you'll get familiar with the component of data hidin
 
 Download the PDF file of the [chapter](chapter_9.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Understanding Encapsulation Using Examples](chapter_10.md "Understanding Encapsulation Using Examples") - 

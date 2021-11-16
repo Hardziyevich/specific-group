@@ -4,7 +4,6 @@ Intention: In this chapter, you will learn how to use inheritance syntactically 
 
 Download the PDF file of the [chapter](chapter_12.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Super Keyword](chapter_13.md "Super Keyword") - Super Keyword.

@@ -4,7 +4,6 @@ Intention: This lesson will teach you how to reverse a string using recursion.
 
 Download the PDF file of the [chapter](chapter_13.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Removing Duplicates in a String](chapter_14.md "Removing Duplicates in a String") - Removing Duplicates in a String.

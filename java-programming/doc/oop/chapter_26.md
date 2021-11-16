@@ -4,7 +4,6 @@ Intention: This chapter explains static methods in interfaces and why they were 
 
 Download the PDF file of the [chapter](chapter_26.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Functional Interfaces in Java](chapter_27.md "Functional Interfaces in Java") -

@@ -3,8 +3,7 @@
 Intention: This lesson discusses the compiler, runtime or hardware optimizations that can cause reordering of 
 program instructions.
 
-Download the PDF file of the [chapter](chapter_25.pdf). Sources are available in the <b>src</b> directory. 
-
+Download the PDF file of the [chapter](chapter_25.pdf). Sources are available in the <b>src</b> directory.
 
 <hr>
 

@@ -2,8 +2,7 @@
 
 Intention: In this lesson, we will learn how to compute the Fibonacci sequence using recursion.
 
-Download the PDF file of the [chapter](chapter_12.pdf). Sources are available in the <b>src</b> directory. 
-
+Download the PDF file of the [chapter](chapter_12.pdf). Sources are available in the <b>src</b> directory.
 
 <hr>
 

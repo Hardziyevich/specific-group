@@ -4,7 +4,6 @@ Intention: Let's look at TreeSet creation and insertion.
 
 Download the PDF file of the [chapter](chapter_18.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [TreeSet: Fetching and Removal](chapter_19.md "TreeSet: Fetching and Removal") - TreeSet: Fetching and Removal.

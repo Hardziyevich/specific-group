@@ -4,7 +4,6 @@ Intention: Let's look at how we can find the min and max elements in a Collectio
 
 Download the PDF file of the [chapter](chapter_40.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Searching, Filing, and Copying Collection](chapter_41.md "Searching, Filing, and Copying Collection") - 

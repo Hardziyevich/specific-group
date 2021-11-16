@@ -4,7 +4,6 @@ Intention: Learn the syntax for if-statements in Java.
 
 Download the PDF file of the [chapter](chapter_10.pdf). Sources are available in the <b>src</b> directory.
 
-
 <hr>
 
 Next: [Loops](chapter_11.md "Loops") - while, for, foreach loops.

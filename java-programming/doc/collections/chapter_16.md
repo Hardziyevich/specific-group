@@ -4,7 +4,6 @@ Intention: Let's discuss some more operations that can be done on ArrayList.
 
 Download the PDF file of the [chapter](chapter_16.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [HashSet: Iteration and Sorting](chapter_17.md "HashSet: Iteration and Sorting") - HashSet: Iteration and Sorting.

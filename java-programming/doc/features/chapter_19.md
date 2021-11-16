@@ -4,7 +4,6 @@ Intention: This lesson discusses the finding operations in Streams provided by t
 
 Download the PDF file of the [chapter](chapter_19.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Mutable Reduction Through reduce()](chapter_20.md "Mutable Reduction Through reduce()") - 

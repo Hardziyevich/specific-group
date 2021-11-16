@@ -4,7 +4,6 @@ Intention: In this chapter, you'll be learning about what method overriding is a
 
 Download the PDF file of the [chapter](chapter_18.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Difference Between the Overloading and Overriding of Methods](chapter_19.md

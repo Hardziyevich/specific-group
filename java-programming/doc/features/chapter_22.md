@@ -4,7 +4,6 @@ Intention: In this lesson, we will learn about methods of the Collectors class, 
 
 Download the PDF file of the [chapter](chapter_22.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Collectors: Grouping Operations](chapter_23.md "Collectors: Grouping Operations") - Collectors: Grouping Operations.

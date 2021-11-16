@@ -2,7 +2,6 @@
 
 Download the PDF file of the [chapter](chapter_30.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Thread Pools](chapter_31.md "Thread Pools") - Thread Pools.

@@ -4,7 +4,6 @@ Intention: In this chapter, you will learn about the concepts of dynamic polymor
 
 Download the PDF file of the [chapter](chapter_20.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Difference between Static and Dynamic Polymorphism](chapter_21.md

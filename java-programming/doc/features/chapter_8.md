@@ -4,7 +4,6 @@ Intention: This lesson explains the Unary operator, which is a subtype of the Fu
 
 Download the PDF file of the [chapter](chapter_8.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Binary operator](chapter_9.md "Binary operator") - Binary operator.

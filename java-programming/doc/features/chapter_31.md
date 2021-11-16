@@ -4,7 +4,6 @@ Intention: This lesson discusses the limitations of old date and time API.
 
 Download the PDF file of the [chapter](chapter_31.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [LocalDate](chapter_32.md "LocalDate") - LocalDate.

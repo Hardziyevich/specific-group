@@ -5,7 +5,6 @@ used and how to use it.
 
 Download the PDF file of the [chapter](chapter_4.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Supplier Functional Interface](chapter_5.md "Supplier Functional Interface") - Supplier Functional Interface.

@@ -4,7 +4,6 @@ Intention: In this chapter, the concept of Polymorphism will be explained which 
 
 Download the PDF file of the [chapter](chapter_16.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Polymorphism in OOP](chapter_17.md "Polymorphism in OOP") - Polymorphism in OOP.

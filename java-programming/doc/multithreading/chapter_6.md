@@ -5,7 +5,6 @@ affect program design choices.
 
 Download the PDF file of the [chapter](chapter_6.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Throughput vs Latency](chapter_7.md "Throughput vs Latency") - Throughput vs Latency.

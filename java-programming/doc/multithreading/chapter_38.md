@@ -2,7 +2,6 @@
 
 Download the PDF file of the [chapter](chapter_38.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [CyclicBarrier](chapter_39.md "CyclicBarrier") - CyclicBarrier.

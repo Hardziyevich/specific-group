@@ -4,7 +4,6 @@ Intention: Getting familiar with the basic building blocks of Object-Oriented Pr
 
 Download the PDF file of the [chapter](chapter_1.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Declaration and Implementation](chapter_2.md "Declaration and Implementation") - Declaration and Implementation.

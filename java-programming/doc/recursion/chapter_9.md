@@ -2,8 +2,7 @@
 
 Intention: This lesson discusses the differences between Recursion and Iteration.
 
-Download the PDF file of the [chapter](chapter_9.pdf). Sources are available in the <b>src</b> directory. 
-
+Download the PDF file of the [chapter](chapter_9.pdf). Sources are available in the <b>src</b> directory.
 
 <hr>
 

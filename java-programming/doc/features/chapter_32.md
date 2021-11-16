@@ -4,7 +4,6 @@ Intention: This lesson introduces the LocalDate class.
 
 Download the PDF file of the [chapter](chapter_32.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [LocalTime](chapter_33.md "LocalTime") - LocalTime.

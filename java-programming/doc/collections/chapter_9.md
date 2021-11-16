@@ -4,7 +4,6 @@ Intention: Let's discuss the working of Comparator Interface.
 
 Download the PDF file of the [chapter](chapter_9.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [LinkedList: Introduction](chapter_10.md "LinkedList: Introduction") - LinkedList: Introduction.

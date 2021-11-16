@@ -4,7 +4,6 @@ Intention: This lesson discusses the differences between a monitor and a semapho
 
 Download the PDF file of the [chapter](chapter_13.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Amdahl's Law](chapter_14.md "Amdahl's Law") - Amdahl's Law.

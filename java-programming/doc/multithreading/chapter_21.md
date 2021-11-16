@@ -2,7 +2,6 @@
 
 Download the PDF file of the [chapter](chapter_21.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Semaphore in Java](chapter_22.md "Semaphore in Java") - Semaphore in Java.

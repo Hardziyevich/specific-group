@@ -4,7 +4,6 @@ Intention: Let's discuss how to fetch and remove elements from LinkedList.
 
 Download the PDF file of the [chapter](chapter_11.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [CopyOnWriteArrayList: Introduction](chapter_12.md "CopyOnWriteArrayList: Introduction") - 

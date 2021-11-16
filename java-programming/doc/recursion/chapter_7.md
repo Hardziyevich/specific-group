@@ -4,7 +4,6 @@ Intention: This lesson will discuss the advantages and disadvantages of recursio
 
 Download the PDF file of the [chapter](chapter_7.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Introduction](chapter_8.md "Introduction") - Introduction.

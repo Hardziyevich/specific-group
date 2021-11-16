@@ -5,7 +5,6 @@ We also discuss the problems that come with threads.
 
 Download the PDF file of the [chapter](chapter_1.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Program vs Process vs Thread](chapter_2.md "Program vs Process vs Thread") - Program vs Process vs Thread.

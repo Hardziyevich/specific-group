@@ -7,7 +7,6 @@ senior engineering positions!
 
 Download the PDF file of the [chapter](chapter_10.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Mutex vs Monitor](chapter_11.md "Mutex vs Monitor") - Mutex vs Monitor.

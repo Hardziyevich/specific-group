@@ -4,7 +4,6 @@ Intention: This lesson discusses the Callable interface.
 
 Download the PDF file of the [chapter](chapter_34.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Future Interface](chapter_35.md "Future Interface") - Future Interface.

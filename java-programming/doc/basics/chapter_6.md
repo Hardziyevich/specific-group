@@ -4,7 +4,6 @@ Intention: Learn how to define methods in Java, with typed method parameters and
 
 Download the PDF file of the [chapter](chapter_6.pdf). Sources are available in the <b>src</b> directory.
 
-
 <hr>
 
 Next: [Text values with String and char](chapter_7.md "Text values with String and char") -
