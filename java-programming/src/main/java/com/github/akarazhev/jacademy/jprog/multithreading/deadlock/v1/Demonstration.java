@@ -2,7 +2,7 @@ package com.github.akarazhev.jacademy.jprog.multithreading.deadlock.v1;
 
 public class Demonstration {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Deadlock deadlock = new Deadlock();
         try {
             deadlock.runTest();

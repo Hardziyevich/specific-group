@@ -1,7 +1,7 @@
 package com.github.akarazhev.jacademy.jprog.multithreading;
 
 public class Demonstration {
-    public static void main(String args[]) throws InterruptedException {
+    public static void main(String[] args) throws InterruptedException {
         SumUpExample.runTest();
     }
 }

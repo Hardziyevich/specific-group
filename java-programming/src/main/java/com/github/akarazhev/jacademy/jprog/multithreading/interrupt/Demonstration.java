@@ -2,7 +2,7 @@ package com.github.akarazhev.jacademy.jprog.multithreading.interrupt;
 
 public class Demonstration {
 
-    public static void main(String args[]) throws InterruptedException {
+    public static void main(String[] args) throws InterruptedException {
         InterruptExample.example();
     }
 }

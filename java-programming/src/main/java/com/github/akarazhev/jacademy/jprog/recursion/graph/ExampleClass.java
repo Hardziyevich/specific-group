@@ -40,7 +40,7 @@ public class ExampleClass {
         }
     }
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         System.out.println("Your DFS path is: ");
 
         int nVertices = 6;

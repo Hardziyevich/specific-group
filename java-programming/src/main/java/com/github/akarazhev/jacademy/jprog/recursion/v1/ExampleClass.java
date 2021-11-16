@@ -23,7 +23,7 @@ public class ExampleClass {
         }
     }
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         indirectRecursiveFunction1();
     }
 }

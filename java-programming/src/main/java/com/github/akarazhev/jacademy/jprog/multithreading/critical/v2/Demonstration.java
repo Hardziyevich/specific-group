@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class Demonstration {
 
-    public static void main(String args[]) throws InterruptedException {
+    public static void main(String[] args) throws InterruptedException {
         RaceCondition.runTest();
     }
 }

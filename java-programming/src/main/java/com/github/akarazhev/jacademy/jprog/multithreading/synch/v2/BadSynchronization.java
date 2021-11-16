@@ -2,7 +2,7 @@ package com.github.akarazhev.jacademy.jprog.multithreading.synch.v2;
 
 public class BadSynchronization {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Object dummyObject = new Object();
         Object lock = new Object();
 
