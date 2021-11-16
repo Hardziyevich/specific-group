@@ -1,6 +1,9 @@
 # Microservice 
 
-Learn how to develop microservices.
+Learn how to develop microservices with:
+
+Learn microservices with Spring Boot - 2nd Edition. A Practical Approach to RESTful Services Using an Event-Driven 
+Architecture, Cloud-Native Patterns, and Containerization.
 
 Check out: https://github.com/Book-Microservices-v2
 
