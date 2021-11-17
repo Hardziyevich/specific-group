@@ -10,6 +10,6 @@ public final class TreeSetExercise2 {
         //finding min and max
         int min = Arrays.stream(numbers).min().getAsInt();
         int max = Arrays.stream(numbers).max().getAsInt();
-        System.out.printf("Min:%d\nMax:%d%n",min,max);
+        System.out.printf("Min:%d\nMax:%d%n", min, max);
     }
 }

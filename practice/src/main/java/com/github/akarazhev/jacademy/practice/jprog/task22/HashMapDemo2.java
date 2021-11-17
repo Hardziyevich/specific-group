@@ -17,8 +17,9 @@ public final class HashMapDemo2 {
         stockPrice.put("Novartis", 43);
         stockPrice.put("TCS", 23);
 
-        System.out.println("Average price:"+ averagePrice(stockPrice));
+        System.out.println("Average price:" + averagePrice(stockPrice));
     }
+
     //Method is working and calculate average price value in Map
     public static Double averagePrice(Map<String, Integer> map) {
         Collection<Integer> values = map.values();

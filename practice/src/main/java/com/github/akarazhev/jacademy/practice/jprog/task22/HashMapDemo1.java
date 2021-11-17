@@ -17,12 +17,12 @@ public final class HashMapDemo1 {
         stockPrice.put("Novartis", 43);
         stockPrice.put("TCS", 23);
 
-        System.out.printf("Max price:%d",findMaxPrice(stockPrice));
+        System.out.printf("Max price:%d", findMaxPrice(stockPrice));
 
     }
 
     //Method is working and finding max value in Map
-    public static Integer findMaxPrice(Map<String,Integer> stock){
+    public static Integer findMaxPrice(Map<String, Integer> stock) {
         return stock.values().stream().max(Integer::compareTo).orElse(0);
     }
 }

@@ -10,13 +10,12 @@ public final class Solution {
         // Write your code here
         // Do not change the input parameters
         //Base case
-        if(head != null){
+        if (head != null) {
             //Base case
-            if(head.getValue() != num){
+            if (head.getValue() != num) {
                 //Recursive case
-                return search(head.getNext(),num);
-            }
-            else {
+                return search(head.getNext(), num);
+            } else {
                 return true;
             }
         } else {

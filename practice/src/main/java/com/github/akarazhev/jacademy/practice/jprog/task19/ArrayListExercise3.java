@@ -19,7 +19,7 @@ public class ArrayListExercise3 {
     }
 
     //Method is working and helping sort List Employee by Country using interface Comparator.
-    public static void sortListEmployeeByCountry(List<Employee> employees){
+    public static void sortListEmployeeByCountry(List<Employee> employees) {
         employees.sort(Comparator.comparing(Employee::getCountry));
     }
 }
