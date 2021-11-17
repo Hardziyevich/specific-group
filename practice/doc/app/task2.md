@@ -2,7 +2,9 @@
 
 Based on the: https://github.com/akarazhev/metacfg4j.git application develop your own solution.
 
-You can create your own repository. Consult a mentor if you need help. 
+You can create your own repository. 
+Prepare the solution document.
+Consult a mentor if you need help. 
 
 ## Questions
 

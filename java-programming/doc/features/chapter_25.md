@@ -4,7 +4,6 @@ Intention: In this lesson, we discuss how streams are evaluated lazily.
 
 Download the PDF file of the [chapter](chapter_25.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [CompletableFuture: Introduction](chapter_26.md "CompletableFuture: Introduction") - CompletableFuture: Introduction.

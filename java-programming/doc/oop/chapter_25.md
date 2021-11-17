@@ -4,7 +4,6 @@ Intention: This chapter discusses what default methods in interfaces are and why
 
 Download the PDF file of the [chapter](chapter_25.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Static Methods in interfaces](chapter_26.md "Static Methods in interfaces") -

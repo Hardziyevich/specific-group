@@ -4,7 +4,6 @@ Intention: In this chapter, you will be introduced to Inheritance, a powerful co
 
 Download the PDF file of the [chapter](chapter_11.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [The Syntax and Terminologies](chapter_12.md "The Syntax and Terminologies") - The Syntax and Terminologies.

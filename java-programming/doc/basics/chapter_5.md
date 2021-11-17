@@ -5,7 +5,6 @@ Be careful of the difference between integer and floating-point division!
 
 Download the PDF file of the [chapter](chapter_5.pdf). Sources are available in the <b>src</b> directory.
 
-
 <hr>
 
 Next: [Method parameters and return values](chapter_6.md "Method parameters and return values") -

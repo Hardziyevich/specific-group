@@ -5,7 +5,6 @@ the Collectors class.
 
 Download the PDF file of the [chapter](chapter_23.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Parallel Stream](chapter_24.md "Parallel Stream") - Parallel Stream.

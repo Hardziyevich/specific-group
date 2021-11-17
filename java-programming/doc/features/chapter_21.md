@@ -4,7 +4,6 @@ Intention: This lesson discusses the immutable reduction operations tusing the c
 
 Download the PDF file of the [chapter](chapter_21.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Collectors: Aggregation Operations](chapter_22.md "Collectors: Aggregation Operations") - 

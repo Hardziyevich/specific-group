@@ -4,7 +4,6 @@ Intention: In this lesson, we will look at some of the most common slicing metho
 
 Download the PDF file of the [chapter](chapter_17.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Matching Operations in Stream](chapter_18.md "Matching Operations in Stream") - Matching Operations in Stream.

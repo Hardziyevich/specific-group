@@ -4,7 +4,6 @@ Intention: Let's discuss some more operations that can be done in an ArrayList.
 
 Download the PDF file of the [chapter](chapter_4.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [ArrayList: Iteration](chapter_5.md "ArrayList: Iteration") - ArrayList: Iteration.

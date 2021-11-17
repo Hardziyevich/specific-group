@@ -5,7 +5,6 @@ Java arrays cannot be resized without creating a new array and making a copy.
 
 Download the PDF file of the [chapter](chapter_8.pdf). Sources are available in the <b>src</b> directory.
 
-
 <hr>
 
 Next: [Conditional and logical operators](chapter_9.md "Conditional and logical operators") -

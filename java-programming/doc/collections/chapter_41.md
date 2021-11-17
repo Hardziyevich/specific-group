@@ -4,7 +4,6 @@ Intention: Let's discuss a few more operations available in the Collections clas
 
 Download the PDF file of the [chapter](chapter_41.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Making Collections Unmodifiable](chapter_42.md "Making Collections Unmodifiable") - Making Collections Unmodifiable.

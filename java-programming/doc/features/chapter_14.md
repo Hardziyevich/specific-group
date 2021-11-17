@@ -4,7 +4,6 @@ Intention: In this lesson, you will learn about method references and explore it
 
 Download the PDF file of the [chapter](chapter_14.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Optional in Java 8: Part 1](chapter_15.md "Optional in Java 8: Part 1") - Optional in Java 8: Part 1.

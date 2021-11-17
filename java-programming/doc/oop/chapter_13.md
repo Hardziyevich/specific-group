@@ -4,7 +4,6 @@ Intention: In this chapter, you'll get to know about the uses of the super keywo
 
 Download the PDF file of the [chapter](chapter_13.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Types of Inheritance](chapter_14.md "Types of Inheritance") - Types of Inheritance.

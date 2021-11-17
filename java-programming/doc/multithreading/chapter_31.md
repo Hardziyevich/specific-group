@@ -4,7 +4,6 @@ Intention: This lesson introduces thread pools and their utility in concurrent p
 
 Download the PDF file of the [chapter](chapter_31.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Types of Thread Pools](chapter_32.md "Types of Thread Pools") - Types of Thread Pools.

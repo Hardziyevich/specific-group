@@ -4,7 +4,6 @@ Intention: This lesson will teach you how to write a recursive code for depth-fi
 
 Download the PDF file of the [chapter](chapter_19.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Topological Sort in Graphs](chapter_20.md "Topological Sort in Graphs") - Topological Sort in Graphs.

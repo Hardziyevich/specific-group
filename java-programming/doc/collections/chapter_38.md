@@ -4,7 +4,6 @@ Intention: Let's discuss how we can create a copy of an array using the copyOf()
 
 Download the PDF file of the [chapter](chapter_38.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Additional Operations](chapter_39.md "Additional Operations") - Additional Operations.

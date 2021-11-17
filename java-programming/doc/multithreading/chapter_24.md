@@ -4,7 +4,6 @@ Intention: This lesson lays out the ground work for understanding the Java Memor
 
 Download the PDF file of the [chapter](chapter_24.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Reordering Effects](chapter_25.md "Reordering Effects") - Reordering Effects.

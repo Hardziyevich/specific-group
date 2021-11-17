@@ -5,7 +5,6 @@ specific to languages frameworks.
 
 Download the PDF file of the [chapter](chapter_11.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Java's Monitor & Hoare vs Mesa Monitors](chapter_12.md "Java's Monitor & Hoare vs Mesa Monitors") - 

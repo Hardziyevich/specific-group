@@ -4,7 +4,6 @@ Intention: This lesson introduces parallel streams, which are used to process th
 
 Download the PDF file of the [chapter](chapter_24.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Lazy Evaluation in Streams](chapter_25.md "Lazy Evaluation in Streams") - Lazy Evaluation in Streams.

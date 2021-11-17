@@ -4,7 +4,6 @@ Intention: In this lesson, you will learn how to use the power of lambdas to wri
 
 Download the PDF file of the [chapter](chapter_3.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Predicate Functional Interface](chapter_4.md "Predicate Functional Interface") - Predicate Functional Interface.

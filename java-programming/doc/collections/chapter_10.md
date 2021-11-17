@@ -4,7 +4,6 @@ Intention: Let's see how LinkedList works in Java.
 
 Download the PDF file of the [chapter](chapter_10.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [LinkedList: Fetching and Removing](chapter_11.md "LinkedList: Fetching and Removing") - 

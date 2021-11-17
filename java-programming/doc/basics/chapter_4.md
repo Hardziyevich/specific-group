@@ -5,7 +5,6 @@ type of data (for example, an integer) that variable will store before using it.
 
 Download the PDF file of the [chapter](chapter_4.pdf). Sources are available in the <b>src</b> directory.
 
-
 <hr>
 
 Next: [Arithmetic expressions and operators](chapter_5.md "Arithmetic expressions and operators") -

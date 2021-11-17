@@ -4,7 +4,6 @@ Intention: In this chapter, you'll get familiar with a new way of linking differ
 
 Download the PDF file of the [chapter](chapter_30.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Composition](chapter_31.md "Composition") - Composition.

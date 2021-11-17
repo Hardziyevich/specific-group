@@ -4,7 +4,6 @@ Intention: Let's see how we insert and retrieve elements from an ArrayList.
 
 Download the PDF file of the [chapter](chapter_3.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [ArrayList: Few More Operations](chapter_4.md "ArrayList: Few More Operations") - ArrayList: Few More Operations.

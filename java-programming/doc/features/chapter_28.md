@@ -4,7 +4,6 @@ Intention: This lesson discusses how to chain Completable Futures.
 
 Download the PDF file of the [chapter](chapter_28.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [CompletableFuture: Combining Results of Futures](chapter_29.md "CompletableFuture: Combining Results of Futures") - 

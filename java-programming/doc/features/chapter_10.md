@@ -4,7 +4,6 @@ Intention: This lesson explains what capturing lambdas are and discusses a few o
 
 Download the PDF file of the [chapter](chapter_10.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Introduction](chapter_11.md "Introduction") - Introduction.

@@ -4,7 +4,6 @@ Intention: In this lesson, you will learn about immutable reduction using the re
 
 Download the PDF file of the [chapter](chapter_20.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Collectors: Collection Operations](chapter_21.md "Collectors: Collection Operations") - 

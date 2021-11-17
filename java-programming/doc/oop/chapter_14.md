@@ -5,7 +5,6 @@ the various types of inheritance in Java.
 
 Download the PDF file of the [chapter](chapter_14.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Advantages of Inheritance](chapter_15.md "Advantages of Inheritance") - Advantages of Inheritance.

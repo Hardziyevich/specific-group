@@ -4,7 +4,6 @@ Intention: This chapter explains the concept of functional interfaces which were
 
 Download the PDF file of the [chapter](chapter_27.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Multiple Inheritance](chapter_28.md "Multiple Inheritance") - Multiple Inheritance.

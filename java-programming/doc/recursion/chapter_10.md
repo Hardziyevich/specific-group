@@ -4,7 +4,6 @@ Intention: This lesson will teach you how to change an iterative code to a recur
 
 Download the PDF file of the [chapter](chapter_10.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Sum of Integers from 1 to n](chapter_11.md "Sum of Integers from 1 to n") - Sum of Integers from 1 to n.

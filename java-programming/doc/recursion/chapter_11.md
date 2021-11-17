@@ -4,7 +4,6 @@ Intention: In this lesson, we will learn how to compute the sum of integers from
 
 Download the PDF file of the [chapter](chapter_11.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Computing Fibonacci Sequence](chapter_12.md "Computing Fibonacci Sequence") - Computing Fibonacci Sequence.

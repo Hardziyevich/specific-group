@@ -5,7 +5,6 @@ data hiding.
 
 Download the PDF file of the [chapter](chapter_8.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Encapsulation](chapter_9.md "Encapsulation") - Encapsulation.

@@ -4,7 +4,6 @@ Intention: This lesson will teach you how to print the linked list in reverse or
 
 Download the PDF file of the [chapter](chapter_17.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Insert Values in a Binary Search Tree](chapter_18.md "Insert Values in a Binary Search Tree") - 

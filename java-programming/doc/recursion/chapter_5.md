@@ -4,7 +4,6 @@ Intention: This lesson gives you a brief introduction to the course as a whole a
 
 Download the PDF file of the [chapter](chapter_5.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Understanding a Recursive Problem](chapter_6.md "Understanding a Recursive Problem") - 

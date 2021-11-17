@@ -4,7 +4,6 @@ Intention: In this lesson, we will look at the mapping operations and the differ
 
 Download the PDF file of the [chapter](chapter_13.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Method References](chapter_14.md "Method References") - Method References.

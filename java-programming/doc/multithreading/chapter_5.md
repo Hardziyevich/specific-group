@@ -5,7 +5,6 @@ talked about in the context of concurrency.
 
 Download the PDF file of the [chapter](chapter_5.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [I/O Bound vs CPU Bound](chapter_6.md "I/O Bound vs CPU Bound") - I/O Bound vs CPU Bound.

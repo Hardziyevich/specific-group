@@ -4,7 +4,6 @@ Intention: In this lesson, we will look at some of the methods added in Optional
 
 Download the PDF file of the [chapter](chapter_16.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Slicing Operations in Stream](chapter_17.md "Slicing Operations in Stream") - Slicing Operations in Stream.

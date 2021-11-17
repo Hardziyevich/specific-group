@@ -5,7 +5,6 @@ creating an Optional.
 
 Download the PDF file of the [chapter](chapter_15.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [Optional in Java 8: Part 2](chapter_16.md "Optional in Java 8: Part 2") - Optional in Java 8: Part 2.

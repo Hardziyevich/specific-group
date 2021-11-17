@@ -4,7 +4,6 @@ Intention: Take a look at ConcurrentHashMap in Java.
 
 Download the PDF file of the [chapter](chapter_33.pdf). Sources are available in the <b>src</b> directory. 
 
-
 <hr>
 
 Next: [IdentityHashMap](chapter_34.md "IdentityHashMap") - IdentityHashMap.
