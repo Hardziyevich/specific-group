@@ -1,8 +1,10 @@
 package com.github.akarazhev.jacademy.practice.jprog.task20;
 
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;
+import java.util.stream.Collectors;
 
 public final class HashSetExercise {
 
@@ -24,6 +26,11 @@ public final class HashSetExercise {
             }
         }
         return result;
+    }
+    //Same as previous method, but tried to use stream
+    public static int findDuplicate(int[] array){
+        Set<Integer> temp = new HashSet<>();
+        return Arrays.stream(array).filter(x -> !temp.add(x)).findFirst().orElse(0);
     }
 }
 
