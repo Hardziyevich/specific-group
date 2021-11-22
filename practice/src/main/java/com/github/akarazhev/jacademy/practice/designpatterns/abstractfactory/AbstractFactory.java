@@ -7,15 +7,10 @@ import com.github.akarazhev.jacademy.practice.designpatterns.abstractfactory.Com
 
 public class AbstractFactory {
 
-    public static final String CAPACITOR = "Capacitor";
-    public static final String RESISTOR = "Resistor";
-    public static final String DIODE = "Diode";
-
-    public static ElectricalComponent getComponent(String typeElement){
+    public static Master startWorker(String typeElement){
         switch (typeElement) {
-            case CAPACITOR: return new Capacitor();
-            case RESISTOR: return new Resistor();
-            case DIODE: return new Diode();
+            case "chip": return new WorkerChip();
+            case "passive": return new WorkerPE();
             default:
                 throw new IllegalArgumentException(typeElement + " not contained in Market");
         }

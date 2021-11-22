@@ -1,22 +1,24 @@
-package com.github.akarazhev.jacademy.practice.designpatterns.builder.builder;
+package com.github.akarazhev.jacademy.practice.designpatterns.factorymethod.builder;
 
-import com.github.akarazhev.jacademy.practice.designpatterns.builder.DemoBoard;
-import com.github.akarazhev.jacademy.practice.designpatterns.builder.builder.BoardBuilder;
+import java.util.ArrayList;
+import java.util.List;
 
 /*Class build particular realization of DemoBoard if we want to creat different realization
 * we should creat new Builder or use Director*/
 public class BoardBuilderImpl implements BoardBuilder {
 
-    private String powerSupple;
+    private String powerSupply;
     private String processor;
     private String hdmi;
     private String usb;
     private String sdi;
     private String ddr;
+    private String ethernet;
+    private List<String> supply = new ArrayList<>();
 
     @Override
-    public BoardBuilder powerSupple() {
-        this.powerSupple = "THN30";
+    public BoardBuilder powerSupply() {
+        this.powerSupply = "THN30";
         return this;
     }
 
@@ -51,12 +53,31 @@ public class BoardBuilderImpl implements BoardBuilder {
     }
 
     @Override
-    public DemoBoard build() {
-        return new DemoBoard(this);
+    public BoardBuilder ethernet() {
+        this.ethernet = "Ethernet - YES";
+        return this;
     }
 
-    public String getPowerSupple() {
-        return powerSupple;
+    @Override
+    public BoardBuilder converter12VTo5V() {
+        supply.add("Converter 12V to 5V");
+        return this;
+    }
+
+    @Override
+    public BoardBuilder converter5VTo1V() {
+        supply.add("Converter 5V to 1V");
+        return this;
+    }
+
+    @Override
+    public BoardBuilder converter5VTo3V() {
+        supply.add("Converter 5V to 3V");
+        return this;
+    }
+
+    public String getPowerSupply() {
+        return powerSupply;
     }
 
     public String getProcessor() {
@@ -76,4 +97,8 @@ public class BoardBuilderImpl implements BoardBuilder {
     public String getDdr() {
         return ddr;
     }
+
+    public String getEthernet() { return ethernet; }
+
+    public List<String> getSupply() { return supply; }
 }
