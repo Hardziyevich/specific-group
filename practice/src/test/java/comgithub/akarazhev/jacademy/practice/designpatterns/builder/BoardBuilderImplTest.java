@@ -6,8 +6,6 @@ import com.github.akarazhev.jacademy.practice.designpatterns.builder.builder.Boa
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
-import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.junit.jupiter.api.Assertions.assertAll;
 
 public class BoardBuilderImplTest {
 
