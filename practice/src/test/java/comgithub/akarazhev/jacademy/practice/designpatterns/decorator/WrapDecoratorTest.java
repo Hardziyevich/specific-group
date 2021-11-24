@@ -6,7 +6,7 @@ import com.github.akarazhev.jacademy.practice.designpatterns.decorator.WrapDecor
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class WrapDecoratorTest {
+class WrapDecoratorTest {
     @Test
     void testDecorator(){
         WrapDecorator wrapDecorator = new WrapConvolutional(new WrapCRC(new WrapDecorator(data -> data+" Some data ")));

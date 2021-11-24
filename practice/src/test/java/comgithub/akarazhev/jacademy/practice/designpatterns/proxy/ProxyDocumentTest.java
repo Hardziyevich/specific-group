@@ -10,7 +10,7 @@ import java.nio.file.Path;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class ProxyDocumentTest {
+class ProxyDocumentTest {
     Document rightPath = new ProxyDocumentTxt(Path.of("C:\\work\\byMyMentor\\jacademy-base\\practice\\src\\main\\resources\\1.txt"));
 
     public ProxyDocumentTest() throws IOException {

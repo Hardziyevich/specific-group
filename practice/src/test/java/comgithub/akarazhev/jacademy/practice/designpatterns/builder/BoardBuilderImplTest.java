@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class BoardBuilderImplTest {
+class BoardBuilderImplTest {
 
     @Test
     void testAllParam(){

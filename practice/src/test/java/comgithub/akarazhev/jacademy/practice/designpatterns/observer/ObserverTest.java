@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Map;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class ObserverTest {
+class ObserverTest {
     Shape triangle = new Shape(1,"triangle", List.of(new Point(1.0,1.0,1.0),new Point(1.0,1.0,1.0),new Point(1.0,1.0,1.0)));
     DBShape dbShape = DBShape.getInstance();
 

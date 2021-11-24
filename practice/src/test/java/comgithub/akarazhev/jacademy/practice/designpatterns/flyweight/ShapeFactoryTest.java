@@ -6,7 +6,7 @@ import com.github.akarazhev.jacademy.practice.designpatterns.flyweight.ShaperFac
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class ShapeFactoryTest {
+class ShapeFactoryTest {
     ShaperFactory shaperFactory = new ShaperFactory();
 
     @Test
