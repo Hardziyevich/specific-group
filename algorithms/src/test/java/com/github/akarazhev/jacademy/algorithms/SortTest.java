@@ -3,6 +3,8 @@ package com.github.akarazhev.jacademy.algorithms;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
+import java.util.Arrays;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**
@@ -29,6 +31,8 @@ final class SortTest {
     @DisplayName("Sorts an array with the insertion sort algorithm")
     void insertionSort() {
         final int[] in = {20, 35, -15, 7, 55, 1, -22};
+        InsertionSort.sort(in);
+        Arrays.stream(InsertionSort.sort(in)).forEach(System.out::println);
         assertArray(InsertionSort.sort(in));
     }
 
