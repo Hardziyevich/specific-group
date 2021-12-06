@@ -32,7 +32,8 @@ final class QuickSort {
         final var pivot = in[start];
         while (i < j) {
             // NOTE: empty loop body
-            while (i < j && in[--j] >= pivot) ;
+            while (i < j &&
+                    in[--j] >= pivot) ;
             if (i < j) {
                 in[i] = in[j];
             }

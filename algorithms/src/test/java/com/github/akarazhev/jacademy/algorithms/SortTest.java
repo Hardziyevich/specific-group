@@ -31,8 +31,6 @@ final class SortTest {
     @DisplayName("Sorts an array with the insertion sort algorithm")
     void insertionSort() {
         final int[] in = {20, 35, -15, 7, 55, 1, -22};
-        InsertionSort.sort(in);
-        Arrays.stream(InsertionSort.sort(in)).forEach(System.out::println);
         assertArray(InsertionSort.sort(in));
     }
 
@@ -54,7 +52,8 @@ final class SortTest {
     @DisplayName("Sorts an array with the quick sort algorithm")
     void quickSort() {
         final int[] in = {20, 35, -15, 7, 55, 1, -22};
-        assertArray(QuickSort.sort(in));
+        assertArray(
+                QuickSort.sort(in));
     }
 
     @Test
