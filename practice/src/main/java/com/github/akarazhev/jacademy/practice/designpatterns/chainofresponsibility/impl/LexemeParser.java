@@ -9,7 +9,11 @@ import com.github.akarazhev.jacademy.practice.designpatterns.composite.TextType;
 
 import static com.github.akarazhev.jacademy.practice.designpatterns.composite.TextType.LEXEME;
 
+/**
+ * {@inheritDoc}
+ */
 public class LexemeParser implements BaseParser {
+
     private static final LexemeParser instance = new LexemeParser();
     private final BaseParser baseParser = LetterParser.getInstance();
 
@@ -20,6 +24,9 @@ public class LexemeParser implements BaseParser {
         return instance;
     }
 
+    /**
+     * {@inheritDoc}
+     */
     @Override
     public TextComponent parse(String text) {
         TextComponent textComponent = new TextComposite(LEXEME);
@@ -32,4 +39,5 @@ public class LexemeParser implements BaseParser {
         }
         return textComponent;
     }
+
 }

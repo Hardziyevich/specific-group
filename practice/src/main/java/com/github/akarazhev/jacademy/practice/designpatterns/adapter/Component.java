@@ -1,9 +1,13 @@
 package com.github.akarazhev.jacademy.practice.designpatterns.adapter;
 
 
+/**
+ * Entity class which represent a component.
+ */
 public class Component {
-    private int componentId;
-    private String name;
+
+    private final int componentId;
+    private final String name;
 
     public Component(int componentId, String name) {
         this.componentId = componentId;

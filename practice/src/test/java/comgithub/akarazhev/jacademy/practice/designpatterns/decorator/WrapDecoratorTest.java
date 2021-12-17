@@ -1,15 +1,15 @@
 package comgithub.akarazhev.jacademy.practice.designpatterns.decorator;
 
-import com.github.akarazhev.jacademy.practice.designpatterns.decorator.WrapCRC;
-import com.github.akarazhev.jacademy.practice.designpatterns.decorator.WrapConvolutional;
-import com.github.akarazhev.jacademy.practice.designpatterns.decorator.WrapDecorator;
+import com.github.akarazhev.jacademy.practice.designpatterns.decorator.impl.WrapCRC;
+import com.github.akarazhev.jacademy.practice.designpatterns.decorator.impl.WrapConvolutional;
+import com.github.akarazhev.jacademy.practice.designpatterns.decorator.impl.WrapDecorator;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class WrapDecoratorTest {
     @Test
     void testDecorator(){
-        WrapDecorator wrapDecorator = new WrapConvolutional(new WrapCRC(new WrapDecorator(data -> data+" Some data ")));
-        assertEquals("Data Some data CRCConv",wrapDecorator.encodingData("Data"));
+        WrapDecorator wrapDecorator = new WrapConvolutional(new WrapCRC(new WrapDecorator()));
+        assertEquals("DatawrapperCRCConv",wrapDecorator.encodingData("Data"));
     }
 }

@@ -1,6 +1,10 @@
 package com.github.akarazhev.jacademy.practice.designpatterns.flyweight;
 
+/**
+ * Entity class is 3D coordinates.
+ */
 public final class Point implements Cloneable{
+
     private final double x;
     private final double y;
     private final double z;

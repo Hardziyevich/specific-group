@@ -3,34 +3,58 @@ package com.github.akarazhev.jacademy.practice.designpatterns.composite;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * {@inheritDoc}
+ */
 public class TextComposite implements TextComponent {
-    private TextType textType;
-    private List<TextComponent> textComposites = new ArrayList<>();
 
+    private final TextType textType;
+    private final List<TextComponent> textComposites = new ArrayList<>();
+
+    /**
+     * Initialization of type a component.
+     *
+     * @param textType a type of component.
+     */
     public TextComposite(TextType textType) {
         this.textType = textType;
     }
 
+    /**
+     * {@inheritDoc}
+     */
     @Override
     public boolean addText(TextComponent textComponent) {
         return textComposites.add(textComponent);
     }
 
+    /**
+     * {@inheritDoc}
+     */
     @Override
     public boolean removeText(TextComponent textComponent) {
         return textComposites.remove(textComponent);
     }
 
+    /**
+     * {@inheritDoc}
+     */
     @Override
     public List<TextComponent> allComponent() {
         return List.copyOf(textComposites);
     }
 
+    /**
+     * {@inheritDoc}
+     */
     @Override
     public TextType getType() {
         return textType;
     }
 
+    /**
+     * {@inheritDoc}
+     */
     @Override
     public String toString() {
         StringBuilder stringBuilder = new StringBuilder();
@@ -45,6 +69,9 @@ public class TextComposite implements TextComponent {
         return stringBuilder.toString();
     }
 
+    /**
+     * {@inheritDoc}
+     */
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
@@ -53,6 +80,9 @@ public class TextComposite implements TextComponent {
         return textType == that.textType && textComposites.equals(that.textComposites);
     }
 
+    /**
+     * {@inheritDoc}
+     */
     @Override
     public int hashCode() {
         final int prime = 31;

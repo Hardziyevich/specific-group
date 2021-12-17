@@ -1,6 +1,7 @@
 package com.github.akarazhev.jacademy.practice.designpatterns.observer.entity;
 
 public class Point {
+
     private final double x;
     private final double y;
     private final double z;
@@ -50,4 +51,5 @@ public class Point {
         sb.append("}");
         return sb.toString();
     }
+
 }

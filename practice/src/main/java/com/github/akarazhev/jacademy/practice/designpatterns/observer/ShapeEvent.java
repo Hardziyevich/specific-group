@@ -5,6 +5,7 @@ import com.github.akarazhev.jacademy.practice.designpatterns.observer.entity.Sha
 import java.util.EventObject;
 
 public class ShapeEvent extends EventObject {
+
     /**
      * Constructs a prototypical Event.
      *

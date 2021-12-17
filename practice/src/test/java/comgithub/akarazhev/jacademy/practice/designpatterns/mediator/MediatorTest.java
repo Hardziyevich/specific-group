@@ -3,9 +3,9 @@ package comgithub.akarazhev.jacademy.practice.designpatterns.mediator;
 import com.github.akarazhev.jacademy.practice.designpatterns.mediator.Board;
 import com.github.akarazhev.jacademy.practice.designpatterns.mediator.Module;
 import com.github.akarazhev.jacademy.practice.designpatterns.mediator.impl.DemoBoard;
-import com.github.akarazhev.jacademy.practice.designpatterns.mediator.impl.entity.DisplayModuleImpl;
-import com.github.akarazhev.jacademy.practice.designpatterns.mediator.impl.entity.EthernetModuleImpl;
-import com.github.akarazhev.jacademy.practice.designpatterns.mediator.impl.entity.HdmiModuleImpl;
+import com.github.akarazhev.jacademy.practice.designpatterns.mediator.entity.DisplayModuleImpl;
+import com.github.akarazhev.jacademy.practice.designpatterns.mediator.entity.EthernetModuleImpl;
+import com.github.akarazhev.jacademy.practice.designpatterns.mediator.entity.HdmiModuleImpl;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

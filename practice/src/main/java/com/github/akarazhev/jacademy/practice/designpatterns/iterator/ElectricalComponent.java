@@ -5,15 +5,24 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Optional;
 
+/**
+ * Represent pattern iterator.
+ */
 public class ElectricalComponent implements Iterator {
 
     private final List<String> components = new ArrayList<>();
     private int position;
 
-    public boolean addComponent(String component) {
-        return components.add(component);
+    public void addComponent(String component) {
+        components.add(component);
     }
 
+    /**
+     * Removing an element from components.
+     *
+     * @param component a string of component
+     * @return a boolean of result
+     */
     public boolean removeComponent(String component) {
         boolean result = Optional.ofNullable(component).isPresent();
         if (result) {
@@ -31,4 +40,5 @@ public class ElectricalComponent implements Iterator {
     public String next() {
         return components.get(position++);
     }
+
 }

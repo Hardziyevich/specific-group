@@ -5,16 +5,15 @@ import com.github.akarazhev.jacademy.practice.designpatterns.state.impl.Nutritio
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
-import static org.hamcrest.MatcherAssert.*;
 
 public class ImplementTest {
 
     @Test
     void testNutrition() {
         NutritionalValueImpl nut = new NutritionalValueImpl();
-        nut.execute("fat", "1");
-        nut.execute("carb", "2");
-        nut.execute("protein", "3");
+        nut.interpret("fat", "1");
+        nut.interpret("carb", "2");
+        nut.interpret("protein", "3");
         assertAll(() -> {
             assertEquals(1, nut.getFat());
             assertEquals(2, nut.getCarb());
@@ -25,10 +24,10 @@ public class ImplementTest {
     @Test
     void testIngredients() {
         IngredientsImpl in = new IngredientsImpl();
-        in.execute("water", "1.1");
-        in.execute("sugar", "1.2");
-        in.execute("fructose", "1.3");
-        in.execute("vanilla", "1.4");
+        in.interpret("water", "1.1");
+        in.interpret("sugar", "1.2");
+        in.interpret("fructose", "1.3");
+        in.interpret("vanilla", "1.4");
         assertAll(() -> {
             assertEquals(1.1, in.getWater());
             assertEquals(1.2, in.getSugar());

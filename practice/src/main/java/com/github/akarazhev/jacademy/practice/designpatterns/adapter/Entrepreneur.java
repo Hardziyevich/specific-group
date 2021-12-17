@@ -1,8 +1,21 @@
 package com.github.akarazhev.jacademy.practice.designpatterns.adapter;
 
-import java.util.Objects;
-
+/**
+ * Provides a behaviour for entrepreneur.
+ */
 public interface Entrepreneur {
+
+    /**
+     * Return a component which will be sold.
+     *
+     * @return a component of the entrepreneur.
+     */
     Component sell();
-    void buy(Component objects);
+
+    /**
+     * Obtaining a component which will be bought.
+     *
+     * @param component a component doesn`t belong of the entrepreneur.
+     */
+    void buy(Component component);
 }

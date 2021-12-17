@@ -5,6 +5,9 @@ import com.github.akarazhev.jacademy.practice.designpatterns.observer.entity.Sha
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Warehouse contains information about shape. It is singleton.
+ */
 public class DBShape {
 
     private Map<Integer, Shape> bd = new HashMap<>();
@@ -29,4 +32,5 @@ public class DBShape {
             bd.put(integer, shape);
         }
     }
+
 }

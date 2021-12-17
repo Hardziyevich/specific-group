@@ -1,12 +1,11 @@
 package comgithub.akarazhev.jacademy.practice.designpatterns.abstractfactory;
 
 import com.github.akarazhev.jacademy.practice.designpatterns.abstractfactory.AbstractFactory;
-import com.github.akarazhev.jacademy.practice.designpatterns.abstractfactory.Component.Capacitor;
-import com.github.akarazhev.jacademy.practice.designpatterns.abstractfactory.Component.ElectricalComponent;
-import com.github.akarazhev.jacademy.practice.designpatterns.abstractfactory.Component.Microchip;
-import com.github.akarazhev.jacademy.practice.designpatterns.abstractfactory.Component.Resistor;
-import com.github.akarazhev.jacademy.practice.designpatterns.abstractfactory.Master;
-import com.github.akarazhev.jacademy.practice.designpatterns.abstractfactory.WorkerChip;
+import com.github.akarazhev.jacademy.practice.designpatterns.abstractfactory.ElectricalComponent;
+import com.github.akarazhev.jacademy.practice.designpatterns.abstractfactory.Worker;
+import com.github.akarazhev.jacademy.practice.designpatterns.abstractfactory.componentimpl.Capacitor;
+import com.github.akarazhev.jacademy.practice.designpatterns.abstractfactory.componentimpl.Microchip;
+import com.github.akarazhev.jacademy.practice.designpatterns.abstractfactory.componentimpl.Resistor;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
@@ -32,7 +31,7 @@ class AbstractFactoryTest {
     @Test
     @DisplayName("Test class WorkerChip")
     void testMethodeForWorkerChip() throws Exception {
-        Master chip = AbstractFactory.startWorker("chip");
+        Worker chip = AbstractFactory.startWorker("chip");
         List<ElectricalComponent> list = new ArrayList<>();
         list.add(new Microchip());
         list.add(new Microchip());
@@ -47,7 +46,7 @@ class AbstractFactoryTest {
     @Test
     @DisplayName("Test class WorkerPE")
     void testMethodeForWorkerPE() throws Exception {
-        Master chip = AbstractFactory.startWorker("passive");
+        Worker chip = AbstractFactory.startWorker("passive");
         List<ElectricalComponent> list = new ArrayList<>();
         list.add(new Capacitor());
         list.add(new Resistor());

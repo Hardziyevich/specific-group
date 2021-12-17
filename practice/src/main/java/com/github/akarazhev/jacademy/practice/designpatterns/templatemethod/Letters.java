@@ -4,9 +4,16 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * {@inheritDoc}
+ */
 public class Letters extends Text {
+
     private final List<Character> letters = new ArrayList<>();
 
+    /**
+     * {@inheritDoc}
+     */
     @Override
     public String converter() {
         StringBuilder sb = new StringBuilder();
@@ -16,6 +23,9 @@ public class Letters extends Text {
         return sb.toString();
     }
 
+    /**
+     * {@inheritDoc}
+     */
     @Override
     public void add(String s) {
         char[] charsPrim = s.toCharArray();
@@ -25,4 +35,5 @@ public class Letters extends Text {
         }
         letters.addAll(Arrays.asList(chars));
     }
+
 }

@@ -9,6 +9,9 @@ import com.github.akarazhev.jacademy.practice.designpatterns.composite.TextType;
 
 import static com.github.akarazhev.jacademy.practice.designpatterns.composite.TextType.PUNCTUATION;
 
+/**
+ * {@inheritDoc}
+ */
 public class SentenceParser implements BaseParser {
 
     private static final SentenceParser instance = new SentenceParser();
@@ -20,6 +23,9 @@ public class SentenceParser implements BaseParser {
         return instance;
     }
 
+    /**
+     * {@inheritDoc}
+     */
     @Override
     public TextComponent parse(String text) {
         TextComponent sentence = new TextComposite(TextType.SENTENCE);
@@ -43,4 +49,5 @@ public class SentenceParser implements BaseParser {
         }
         return sentence;
     }
+
 }

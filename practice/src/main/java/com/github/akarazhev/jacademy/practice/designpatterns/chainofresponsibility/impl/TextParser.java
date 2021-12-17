@@ -6,6 +6,9 @@ import com.github.akarazhev.jacademy.practice.designpatterns.composite.TextCompo
 
 import static com.github.akarazhev.jacademy.practice.designpatterns.composite.TextType.TEXT;
 
+/**
+ * {@inheritDoc}
+ */
 public class TextParser implements BaseParser {
 
     private static final TextParser instance = new TextParser();
@@ -18,6 +21,9 @@ public class TextParser implements BaseParser {
         return instance;
     }
 
+    /**
+     * {@inheritDoc}
+     */
     @Override
     public TextComponent parse(String text) {
         TextComponent textComponent = new TextComposite(TEXT);
@@ -26,4 +32,5 @@ public class TextParser implements BaseParser {
         }
         return textComponent;
     }
+
 }

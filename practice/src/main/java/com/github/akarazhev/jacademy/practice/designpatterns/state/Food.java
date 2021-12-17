@@ -1,21 +1,21 @@
 package com.github.akarazhev.jacademy.practice.designpatterns.state;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.function.Predicate;
-
+/**
+ * Entity class which contains property of particular food.
+ */
 public class Food {
-    private PropertyFood property;
 
-    public void addProperty(PropertyFood property) {
+    private Interpret property;
+
+    public void addProperty(Interpret property) {
         this.property = property;
     }
 
-    public PropertyFood getProperties(){
+    public Interpret getProperties(){
         return property;
     }
 
     public void execute(String property, String data) {
-        this.property.execute(property, data);
+        this.property.interpret(property, data);
     }
 }

@@ -7,6 +7,9 @@ import com.github.akarazhev.jacademy.practice.designpatterns.observer.ShapeEvent
 import java.util.List;
 import java.util.Objects;
 
+/**
+ * {@inheritDoc}
+ */
 public class Shape implements Observable {
 
     private Observer observer;
@@ -75,16 +78,9 @@ public class Shape implements Observable {
         return sb.toString();
     }
 
-    @Override
-    public void registerObserver(Observer o) {
-        observer = o;
-    }
-
-    @Override
-    public void removeObserver(Observer o) {
-        observer = null;
-    }
-
+    /**
+     * {@inheritDoc}
+     */
     @Override
     public void notifyObserver() {
         ShapeEvent event = new ShapeEvent(this);
@@ -92,4 +88,5 @@ public class Shape implements Observable {
             observer.update(event);
         }
     }
+
 }

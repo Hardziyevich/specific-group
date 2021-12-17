@@ -1,12 +1,11 @@
 package comgithub.akarazhev.jacademy.practice.designpatterns.adapter;
 
 import com.github.akarazhev.jacademy.practice.designpatterns.adapter.Company;
-import com.github.akarazhev.jacademy.practice.designpatterns.adapter.Component;
 import com.github.akarazhev.jacademy.practice.designpatterns.adapter.Entrepreneur;
 import com.github.akarazhev.jacademy.practice.designpatterns.adapter.impl.ElectronicEntrepreneurImpl;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 
 class AdapterTest {

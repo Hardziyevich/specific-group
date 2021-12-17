@@ -1,6 +1,10 @@
 package com.github.akarazhev.jacademy.practice.designpatterns.memento;
 
+/**
+ * Entity class for saving version of document.
+ */
 public class Save {
+
     private final int id;
     private final Document document;
     private final String version;
@@ -31,4 +35,5 @@ public class Save {
                 ", version='" + version + '\'' +
                 '}';
     }
+
 }

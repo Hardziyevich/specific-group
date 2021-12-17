@@ -1,12 +1,20 @@
 package com.github.akarazhev.jacademy.practice.designpatterns.prototype;
 
+/**
+ * Provides a copy of document.
+ */
 public class Document implements Cloneable {
-    private String text;
+
+    private final String text;
 
     public Document(String text) {
         this.text = text;
     }
 
+    /**
+     * Getting text.
+     * @return a string of text.
+     */
     public String getText() {
         return text;
     }

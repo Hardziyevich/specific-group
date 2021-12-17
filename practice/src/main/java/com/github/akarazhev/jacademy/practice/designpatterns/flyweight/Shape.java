@@ -3,6 +3,9 @@ package com.github.akarazhev.jacademy.practice.designpatterns.flyweight;
 import java.util.List;
 import java.util.Objects;
 
+/**
+ * A figure that is located in 3D space.
+ */
 public class Shape implements Cloneable{
 
     private int id;
@@ -11,6 +14,14 @@ public class Shape implements Cloneable{
     public Shape(int id, List<Point> coordinates) {
         this.id = id;
         this.coordinates = coordinates;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public List<Point> getCoordinates() {
+        return List.copyOf(coordinates);
     }
 
     @Override
@@ -34,25 +45,9 @@ public class Shape implements Cloneable{
         return Objects.hash(id, coordinates);
     }
 
-    public int getId() {
-        return id;
-    }
-
-    public void setId(int id) {
-        this.id = id;
-    }
-
-    public List<Point> getCoordinates() {
-        return List.copyOf(coordinates);
-    }
-
-    public void setCoordinates(List<Point> coordinates) {
-        this.coordinates = coordinates;
-    }
-
     @Override
     public Shape clone() {
-        Shape newShape = null;
+        Shape newShape;
         try {
             newShape = (Shape) super.clone();
         } catch (CloneNotSupportedException e) {
@@ -61,4 +56,5 @@ public class Shape implements Cloneable{
         newShape.coordinates = List.copyOf(this.coordinates);
         return newShape;
     }
+
 }

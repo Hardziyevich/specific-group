@@ -16,6 +16,6 @@ class CommandTest {
         boss.getTask("Change new Board",new ChangeTaskImpl());
         boss.getTask("Test new Board",new TestTaskImpl());
         Employee employee = new Employee(boss.sendTaskToEmployee("Develop new Board"));
-        employee.doSth();
+        employee.executeTask();
     }
 }

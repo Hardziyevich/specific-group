@@ -2,7 +2,7 @@ package com.github.akarazhev.jacademy.practice.designpatterns.chainofresponsibil
 
 
 import com.github.akarazhev.jacademy.practice.designpatterns.chainofresponsibility.BaseParser;
-import com.github.akarazhev.jacademy.practice.designpatterns.chainofresponsibility.interpreter.InterpreterExpression;
+import com.github.akarazhev.jacademy.practice.designpatterns.interpreter.InterpreterExpression;
 import com.github.akarazhev.jacademy.practice.designpatterns.composite.Symbol;
 import com.github.akarazhev.jacademy.practice.designpatterns.composite.TextComponent;
 import com.github.akarazhev.jacademy.practice.designpatterns.composite.TextComposite;
@@ -10,6 +10,9 @@ import com.github.akarazhev.jacademy.practice.designpatterns.composite.TextCompo
 import static com.github.akarazhev.jacademy.practice.designpatterns.composite.TextType.DIGIT;
 import static com.github.akarazhev.jacademy.practice.designpatterns.composite.TextType.EXPRESSION;
 
+/**
+ * {@inheritDoc}
+ */
 public class ExpressionParser implements BaseParser {
 
     private static final ExpressionParser instance = new ExpressionParser();
@@ -21,8 +24,12 @@ public class ExpressionParser implements BaseParser {
         return instance;
     }
 
+    /**
+     * {@inheritDoc}
+     */
     @Override
     public TextComponent parse(String text) {
+
         TextComponent expressionComponent = new TextComposite(EXPRESSION);
         TextComponent parse;
         int digit = new InterpreterExpression().interpret(text);
@@ -30,7 +37,7 @@ public class ExpressionParser implements BaseParser {
             parse = new Symbol(DIGIT, expression.charAt(0));
             expressionComponent.addText(parse);
         }
-
         return expressionComponent;
     }
+
 }

@@ -9,6 +9,9 @@ import com.github.akarazhev.jacademy.practice.designpatterns.composite.TextType;
 
 import static com.github.akarazhev.jacademy.practice.designpatterns.composite.TextType.*;
 
+/**
+ * {@inheritDoc}
+ */
 public class LetterParser implements BaseParser {
 
     private static final LetterParser instance = new LetterParser();
@@ -20,6 +23,9 @@ public class LetterParser implements BaseParser {
         return instance;
     }
 
+    /**
+     * {@inheritDoc}
+     */
     @Override
     public TextComponent parse(String text) {
         TextComponent textComponent = new TextComposite(LETTER);
@@ -27,4 +33,5 @@ public class LetterParser implements BaseParser {
         textComponent.addText(new Symbol(letterType, text.charAt(0)));
         return textComponent;
     }
+
 }

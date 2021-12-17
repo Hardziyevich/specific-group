@@ -4,6 +4,9 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
 
+/**
+ * Singleton for reading property from file.
+ */
 public class PropertyReader {
 
     private static volatile PropertyReader properties;
@@ -21,7 +24,11 @@ public class PropertyReader {
         return properties;
     }
 
-
+    /**
+     * Finding property by name.
+     * @param property a string of property name.
+     * @return a string of property.
+     */
     public String getProp(String property) {
         return prop.getProperty(property);
     }

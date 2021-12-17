@@ -4,6 +4,10 @@ import com.github.akarazhev.jacademy.practice.designpatterns.flyweight.Shape;
 import com.github.akarazhev.jacademy.practice.designpatterns.flyweight.ShapeType;
 import com.github.akarazhev.jacademy.practice.designpatterns.flyweight.ShaperFactory;
 import org.junit.jupiter.api.Test;
+
+import java.util.Optional;
+
+import static com.github.akarazhev.jacademy.practice.designpatterns.flyweight.ShapeType.*;
 import static org.junit.jupiter.api.Assertions.*;
 
 class ShapeFactoryTest {
@@ -11,7 +15,8 @@ class ShapeFactoryTest {
 
     @Test
     void testNewShape(){
-        Shape shape = shaperFactory.newShape(ShapeType.TETRAHEDRON);
-        assertNotNull(shape);
+        Optional<Shape> shape = shaperFactory.newShape(TETRAHEDRON);
+        Shape result = shape.orElse(null);
+        assertNotNull(result);
     }
 }

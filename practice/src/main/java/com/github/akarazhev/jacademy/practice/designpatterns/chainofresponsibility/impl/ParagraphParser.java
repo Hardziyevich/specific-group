@@ -10,6 +10,9 @@ import java.util.regex.Pattern;
 
 import static com.github.akarazhev.jacademy.practice.designpatterns.composite.TextType.PARAGRAPH;
 
+/**
+ * {@inheritDoc}
+ */
 public class ParagraphParser implements BaseParser {
 
     private static final ParagraphParser paragraphParser = new ParagraphParser();
@@ -22,6 +25,9 @@ public class ParagraphParser implements BaseParser {
         return paragraphParser;
     }
 
+    /**
+     * {@inheritDoc}
+     */
     @Override
     public TextComponent parse(String text) {
         TextComponent paragraphComponent = new TextComposite(PARAGRAPH);
@@ -32,4 +38,5 @@ public class ParagraphParser implements BaseParser {
         }
         return paragraphComponent;
     }
+
 }

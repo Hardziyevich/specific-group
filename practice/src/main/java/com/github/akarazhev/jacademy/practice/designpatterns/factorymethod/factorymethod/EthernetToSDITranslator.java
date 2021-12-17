@@ -1,13 +1,20 @@
 package com.github.akarazhev.jacademy.practice.designpatterns.factorymethod.factorymethod;
 
+import com.github.akarazhev.jacademy.practice.designpatterns.builder.BoardBuilder;
+import com.github.akarazhev.jacademy.practice.designpatterns.builder.impl.BoardBuilderImpl;
+import com.github.akarazhev.jacademy.practice.designpatterns.factorymethod.DemoBoard;
 
-import com.github.akarazhev.jacademy.practice.designpatterns.factorymethod.builder.BoardBuilder;
-import com.github.akarazhev.jacademy.practice.designpatterns.factorymethod.builder.BoardBuilderImpl;
-
-
+/**
+ * {@inheritDoc}
+ */
 public class EthernetToSDITranslator implements DemoBoard {
+
+    /**
+     * {@inheritDoc}
+     */
     @Override
-    public BoardBuilder startWork() {
-        return new BoardBuilderImpl().sdi().ethernet();
+    public BoardBuilder creatBoard() {
+        return new BoardBuilderImpl().sdi();
     }
+
 }

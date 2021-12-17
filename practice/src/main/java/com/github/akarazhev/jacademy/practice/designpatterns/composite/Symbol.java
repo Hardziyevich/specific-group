@@ -2,7 +2,11 @@ package com.github.akarazhev.jacademy.practice.designpatterns.composite;
 
 import java.util.List;
 
+/**
+ * Leaf of the composite design patter.
+ */
 public class Symbol implements TextComponent {
+
     private final TextType textType;
     private final char symbol;
 
@@ -11,31 +15,49 @@ public class Symbol implements TextComponent {
         this.symbol = symbol;
     }
 
+    /**
+     * {@inheritDoc}
+     */
     @Override
     public boolean addText(TextComponent textComponent) {
         throw new UnsupportedOperationException();
     }
 
+    /**
+     * {@inheritDoc}
+     */
     @Override
     public boolean removeText(TextComponent textComponent) {
         throw new UnsupportedOperationException();
     }
 
+    /**
+     * {@inheritDoc}
+     */
     @Override
     public List<TextComponent> allComponent() {
         throw new UnsupportedOperationException();
     }
 
+    /**
+     * {@inheritDoc}
+     */
     @Override
     public TextType getType() {
         return textType;
     }
 
+    /**
+     * {@inheritDoc}
+     */
     @Override
     public String toString() {
         return String.valueOf(symbol);
     }
 
+    /**
+     * {@inheritDoc}
+     */
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
@@ -44,6 +66,9 @@ public class Symbol implements TextComponent {
         return symbol == symb.symbol && textType == symb.textType;
     }
 
+    /**
+     * {@inheritDoc}
+     */
     @Override
     public int hashCode() {
         final int prime = 31;
@@ -52,4 +77,5 @@ public class Symbol implements TextComponent {
         result = prime * result + (textType == null ? 0 : textType.hashCode());
         return result;
     }
+
 }
